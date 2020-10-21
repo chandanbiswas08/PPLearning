@@ -1,0 +1,1854 @@
+
+
+
+Train database size 23706 Test database size 3951
+	Epoch 100/1000 Loss 0.4353 primary task p train Acc 0.8453 test Acc 0.8411
+	Epoch 200/1000 Loss 0.3888 primary task p train Acc 0.8586 test Acc 0.8555
+	Epoch 300/1000 Loss 0.3678 primary task p train Acc 0.8659 test Acc 0.8621
+	Epoch 400/1000 Loss 0.3554 primary task p train Acc 0.8698 test Acc 0.8633
+	Epoch 500/1000 Loss 0.3471 primary task p train Acc 0.8732 test Acc 0.8636
+	Epoch 600/1000 Loss 0.3413 primary task p train Acc 0.8748 test Acc 0.8643
+	Epoch 700/1000 Loss 0.3372 primary task p train Acc 0.8755 test Acc 0.8674
+	Epoch 800/1000 Loss 0.3342 primary task p train Acc 0.8759 test Acc 0.8648
+	Epoch 900/1000 Loss 0.3319 primary task p train Acc 0.8758 test Acc 0.8638
+LR: Primary task evaluation (A_P)
+Accuracy 0.8674
+
+
+
+
+
+
+Train database size 23706 Test database size 3951
+	Epoch 100/1000 Loss 0.6522 Adversarial task S1 train Acc 0.6834 test Acc 0.6811
+	Epoch 200/1000 Loss 0.5931 Adversarial task S1 train Acc 0.7089 test Acc 0.7034
+	Epoch 300/1000 Loss 0.5693 Adversarial task S1 train Acc 0.7197 test Acc 0.7117
+	Epoch 400/1000 Loss 0.5569 Adversarial task S1 train Acc 0.7230 test Acc 0.7175
+	Epoch 500/1000 Loss 0.5495 Adversarial task S1 train Acc 0.7281 test Acc 0.7208
+	Epoch 600/1000 Loss 0.5449 Adversarial task S1 train Acc 0.7297 test Acc 0.7216
+	Epoch 700/1000 Loss 0.5417 Adversarial task S1 train Acc 0.7307 test Acc 0.7246
+	Epoch 800/1000 Loss 0.5396 Adversarial task S1 train Acc 0.7320 test Acc 0.7269
+	Epoch 900/1000 Loss 0.5380 Adversarial task S1 train Acc 0.7331 test Acc 0.7289
+LR: Adverserial task S1 evaluation (A_S1)
+Accuracy 0.7292
+
+
+
+
+
+
+Train database size 23706 Test database size 3951
+	Epoch 100/1000 Loss 0.6386 Adversarial task S2 train Acc 0.6982 test Acc 0.6887
+	Epoch 200/1000 Loss 0.5960 Adversarial task S2 train Acc 0.7154 test Acc 0.7064
+	Epoch 300/1000 Loss 0.5766 Adversarial task S2 train Acc 0.7242 test Acc 0.7132
+	Epoch 400/1000 Loss 0.5657 Adversarial task S2 train Acc 0.7285 test Acc 0.7140
+	Epoch 500/1000 Loss 0.5591 Adversarial task S2 train Acc 0.7294 test Acc 0.7145
+	Epoch 600/1000 Loss 0.5549 Adversarial task S2 train Acc 0.7304 test Acc 0.7158
+	Epoch 700/1000 Loss 0.5521 Adversarial task S2 train Acc 0.7311 test Acc 0.7153
+	Epoch 800/1000 Loss 0.5501 Adversarial task S2 train Acc 0.7312 test Acc 0.7150
+	Epoch 900/1000 Loss 0.5488 Adversarial task S2 train Acc 0.7317 test Acc 0.7148
+LR: Adverserial task S2 evaluation (A_S2)
+Accuracy 0.7168
+
+
+
+
+
+
+Train database size 23698 Test database size 3949
+	Epoch 100/1000 Loss 0.4717 primary task p train Acc 0.8199 test Acc 0.7934
+	Epoch 200/1000 Loss 0.4366 primary task p train Acc 0.8326 test Acc 0.8048
+	Epoch 300/1000 Loss 0.4195 primary task p train Acc 0.8400 test Acc 0.8121
+	Epoch 400/1000 Loss 0.4088 primary task p train Acc 0.8441 test Acc 0.8126
+	Epoch 500/1000 Loss 0.4013 primary task p train Acc 0.8464 test Acc 0.8156
+	Epoch 600/1000 Loss 0.3958 primary task p train Acc 0.8484 test Acc 0.8172
+	Epoch 700/1000 Loss 0.3915 primary task p train Acc 0.8493 test Acc 0.8189
+	Epoch 800/1000 Loss 0.3883 primary task p train Acc 0.8495 test Acc 0.8184
+	Epoch 900/1000 Loss 0.3858 primary task p train Acc 0.8504 test Acc 0.8172
+LR-TFIDF: Primary task evaluation (A_P)
+Accuracy 0.8194
+
+
+
+
+
+
+Train database size 23698 Test database size 3949
+	Epoch 100/1000 Loss 0.5908 Adversarial task S1 train Acc 0.6904 test Acc 0.7025
+	Epoch 200/1000 Loss 0.5733 Adversarial task S1 train Acc 0.7006 test Acc 0.7103
+	Epoch 300/1000 Loss 0.5686 Adversarial task S1 train Acc 0.7023 test Acc 0.7106
+	Epoch 400/1000 Loss 0.5669 Adversarial task S1 train Acc 0.7040 test Acc 0.7098
+	Epoch 500/1000 Loss 0.5663 Adversarial task S1 train Acc 0.7049 test Acc 0.7078
+	Epoch 600/1000 Loss 0.5661 Adversarial task S1 train Acc 0.7053 test Acc 0.7068
+	Epoch 700/1000 Loss 0.5660 Adversarial task S1 train Acc 0.7059 test Acc 0.7070
+	Epoch 800/1000 Loss 0.5659 Adversarial task S1 train Acc 0.7063 test Acc 0.7060
+	Epoch 900/1000 Loss 0.5659 Adversarial task S1 train Acc 0.7066 test Acc 0.7055
+LR-TFIDF: Adverserial task S1 evaluation (A_S1)
+Accuracy 0.7113
+
+
+
+
+
+
+Train database size 23698 Test database size 3949
+	Epoch 100/1000 Loss 0.5936 Adversarial task S2 train Acc 0.7039 test Acc 0.6888
+	Epoch 200/1000 Loss 0.5775 Adversarial task S2 train Acc 0.7140 test Acc 0.6911
+	Epoch 300/1000 Loss 0.5716 Adversarial task S2 train Acc 0.7169 test Acc 0.6900
+	Epoch 400/1000 Loss 0.5688 Adversarial task S2 train Acc 0.7174 test Acc 0.6908
+	Epoch 500/1000 Loss 0.5673 Adversarial task S2 train Acc 0.7175 test Acc 0.6921
+	Epoch 600/1000 Loss 0.5665 Adversarial task S2 train Acc 0.7166 test Acc 0.6911
+	Epoch 700/1000 Loss 0.5662 Adversarial task S2 train Acc 0.7170 test Acc 0.6903
+	Epoch 800/1000 Loss 0.5660 Adversarial task S2 train Acc 0.7169 test Acc 0.6890
+	Epoch 900/1000 Loss 0.5659 Adversarial task S2 train Acc 0.7172 test Acc 0.6898
+LR-TFIDF: Adverserial task S2 evaluation (A_S2)
+Accuracy 0.6928
+
+
+
+gamma1=0.4,gamma2=0.4
+
+
+
+Train database size 23706 Test database size 3951
+	Epoch 100/1000 Loss 0.3401 Multitask defence train Acc on primary task 0.8674 test Acc on primary task 0.8588
+	Epoch 200/1000 Loss 0.3056 Multitask defence train Acc on primary task 0.8834 test Acc on primary task 0.8648
+	Epoch 300/1000 Loss 0.2886 Multitask defence train Acc on primary task 0.8901 test Acc on primary task 0.8702
+	Epoch 400/1000 Loss 0.2769 Multitask defence train Acc on primary task 0.8952 test Acc on primary task 0.8694
+	Epoch 500/1000 Loss 0.2675 Multitask defence train Acc on primary task 0.9002 test Acc on primary task 0.8717
+	Epoch 600/1000 Loss 0.2589 Multitask defence train Acc on primary task 0.9039 test Acc on primary task 0.8722
+	Epoch 700/1000 Loss 0.2501 Multitask defence train Acc on primary task 0.9077 test Acc on primary task 0.8697
+	Epoch 800/1000 Loss 0.2410 Multitask defence train Acc on primary task 0.9110 test Acc on primary task 0.8661
+	Epoch 900/1000 Loss 0.2314 Multitask defence train Acc on primary task 0.9146 test Acc on primary task 0.8659
+Writing vectors...
+
+
+
+Train database size 23706 Test database size 3951
+	Epoch 100/1000 Loss 0.3222 primary task p train Acc 0.8811 test Acc 0.8603
+	Epoch 200/1000 Loss 0.2889 primary task p train Acc 0.8941 test Acc 0.8679
+	Epoch 300/1000 Loss 0.2748 primary task p train Acc 0.8981 test Acc 0.8661
+	Epoch 400/1000 Loss 0.2667 primary task p train Acc 0.9006 test Acc 0.8681
+	Epoch 500/1000 Loss 0.2614 primary task p train Acc 0.9018 test Acc 0.8679
+	Epoch 600/1000 Loss 0.2577 primary task p train Acc 0.9030 test Acc 0.8679
+	Epoch 700/1000 Loss 0.2551 primary task p train Acc 0.9043 test Acc 0.8689
+	Epoch 800/1000 Loss 0.2531 primary task p train Acc 0.9046 test Acc 0.8671
+	Epoch 900/1000 Loss 0.2516 primary task p train Acc 0.9053 test Acc 0.8659
+MT: Primary task evaluation (A_P)
+Accuracy 0.8694
+
+
+
+
+
+
+Train database size 23706 Test database size 3951
+	Epoch 100/1000 Loss 0.6281 Adversarial task S1 train Acc 0.6552 test Acc 0.6565
+	Epoch 200/1000 Loss 0.6097 Adversarial task S1 train Acc 0.6701 test Acc 0.6662
+	Epoch 300/1000 Loss 0.6013 Adversarial task S1 train Acc 0.6761 test Acc 0.6700
+	Epoch 400/1000 Loss 0.5966 Adversarial task S1 train Acc 0.6795 test Acc 0.6753
+	Epoch 500/1000 Loss 0.5937 Adversarial task S1 train Acc 0.6821 test Acc 0.6778
+	Epoch 600/1000 Loss 0.5917 Adversarial task S1 train Acc 0.6838 test Acc 0.6813
+	Epoch 700/1000 Loss 0.5902 Adversarial task S1 train Acc 0.6848 test Acc 0.6788
+	Epoch 800/1000 Loss 0.5892 Adversarial task S1 train Acc 0.6852 test Acc 0.6806
+	Epoch 900/1000 Loss 0.5884 Adversarial task S1 train Acc 0.6859 test Acc 0.6808
+MT: Adverserial task S1 evaluation (A_S1)
+Accuracy 0.6849
+
+
+
+
+
+
+Train database size 23706 Test database size 3951
+	Epoch 100/1000 Loss 0.6074 Adversarial task S2 train Acc 0.6813 test Acc 0.6738
+	Epoch 200/1000 Loss 0.5905 Adversarial task S2 train Acc 0.6930 test Acc 0.6849
+	Epoch 300/1000 Loss 0.5838 Adversarial task S2 train Acc 0.6980 test Acc 0.6882
+	Epoch 400/1000 Loss 0.5801 Adversarial task S2 train Acc 0.7004 test Acc 0.6907
+	Epoch 500/1000 Loss 0.5778 Adversarial task S2 train Acc 0.7011 test Acc 0.6917
+	Epoch 600/1000 Loss 0.5763 Adversarial task S2 train Acc 0.7013 test Acc 0.6920
+	Epoch 700/1000 Loss 0.5752 Adversarial task S2 train Acc 0.7018 test Acc 0.6900
+	Epoch 800/1000 Loss 0.5744 Adversarial task S2 train Acc 0.7022 test Acc 0.6902
+	Epoch 900/1000 Loss 0.5739 Adversarial task S2 train Acc 0.7026 test Acc 0.6907
+MT: Adverserial task S2 evaluation (A_S2)
+Accuracy 0.6920
+
+
+
+Weights/SERE/ Weights/CL/
+Training started. Train size 23509, Test size 4148
+
+
+	Epoch 1/750 L2X defence Loss 0.5875 Primary task Training Acc 0.766 Val Acc 0.7880 Best Val Acc 0.788
+	Epoch 2/750 L2X defence Loss 0.4996 Primary task Training Acc 0.788 Val Acc 0.7880 Best Val Acc 0.788
+	Epoch 3/750 L2X defence Loss 0.4901 Primary task Training Acc 0.788 Val Acc 0.7880 Best Val Acc 0.788
+	Epoch 4/750 L2X defence Loss 0.4844 Primary task Training Acc 0.788 Val Acc 0.7880 Best Val Acc 0.788
+Weight saved in Weights/SERE/ckpt-1 Weights/CL/ckpt-1
+	Epoch 5/750 L2X defence Loss 0.4792 Primary task Training Acc 0.790 Val Acc 0.7946 Best Val Acc 0.795
+Weight saved in Weights/SERE/ckpt-2 Weights/CL/ckpt-2
+	Epoch 6/750 L2X defence Loss 0.4733 Primary task Training Acc 0.804 Val Acc 0.8037 Best Val Acc 0.804
+Weight saved in Weights/SERE/ckpt-3 Weights/CL/ckpt-3
+	Epoch 7/750 L2X defence Loss 0.4700 Primary task Training Acc 0.808 Val Acc 0.8083 Best Val Acc 0.808
+Weight saved in Weights/SERE/ckpt-4 Weights/CL/ckpt-4
+	Epoch 8/750 L2X defence Loss 0.4638 Primary task Training Acc 0.811 Val Acc 0.8099 Best Val Acc 0.810
+Weight saved in Weights/SERE/ckpt-5 Weights/CL/ckpt-5
+	Epoch 9/750 L2X defence Loss 0.4603 Primary task Training Acc 0.813 Val Acc 0.8111 Best Val Acc 0.811
+Weight saved in Weights/SERE/ckpt-6 Weights/CL/ckpt-6
+	Epoch 10/750 L2X defence Loss 0.4575 Primary task Training Acc 0.813 Val Acc 0.8116 Best Val Acc 0.812
+Weight saved in Weights/SERE/ckpt-7 Weights/CL/ckpt-7
+	Epoch 11/750 L2X defence Loss 0.4549 Primary task Training Acc 0.815 Val Acc 0.8129 Best Val Acc 0.813
+	Epoch 12/750 L2X defence Loss 0.4512 Primary task Training Acc 0.816 Val Acc 0.8104 Best Val Acc 0.813
+	Epoch 13/750 L2X defence Loss 0.4507 Primary task Training Acc 0.815 Val Acc 0.8086 Best Val Acc 0.813
+	Epoch 14/750 L2X defence Loss 0.4484 Primary task Training Acc 0.818 Val Acc 0.8118 Best Val Acc 0.813
+Weight saved in Weights/SERE/ckpt-8 Weights/CL/ckpt-8
+	Epoch 15/750 L2X defence Loss 0.4465 Primary task Training Acc 0.817 Val Acc 0.8164 Best Val Acc 0.816
+	Epoch 16/750 L2X defence Loss 0.4473 Primary task Training Acc 0.818 Val Acc 0.8141 Best Val Acc 0.816
+	Epoch 17/750 L2X defence Loss 0.4445 Primary task Training Acc 0.819 Val Acc 0.8123 Best Val Acc 0.816
+Weight saved in Weights/SERE/ckpt-9 Weights/CL/ckpt-9
+	Epoch 18/750 L2X defence Loss 0.4417 Primary task Training Acc 0.820 Val Acc 0.8189 Best Val Acc 0.819
+	Epoch 19/750 L2X defence Loss 0.4400 Primary task Training Acc 0.821 Val Acc 0.8121 Best Val Acc 0.819
+	Epoch 20/750 L2X defence Loss 0.4403 Primary task Training Acc 0.822 Val Acc 0.8130 Best Val Acc 0.819
+	Epoch 21/750 L2X defence Loss 0.4388 Primary task Training Acc 0.821 Val Acc 0.8182 Best Val Acc 0.819
+	Epoch 22/750 L2X defence Loss 0.4399 Primary task Training Acc 0.822 Val Acc 0.8169 Best Val Acc 0.819
+	Epoch 23/750 L2X defence Loss 0.4371 Primary task Training Acc 0.822 Val Acc 0.8175 Best Val Acc 0.819
+	Epoch 24/750 L2X defence Loss 0.4373 Primary task Training Acc 0.822 Val Acc 0.8173 Best Val Acc 0.819
+Weight saved in Weights/SERE/ckpt-10 Weights/CL/ckpt-10
+	Epoch 25/750 L2X defence Loss 0.4355 Primary task Training Acc 0.823 Val Acc 0.8210 Best Val Acc 0.821
+	Epoch 26/750 L2X defence Loss 0.4351 Primary task Training Acc 0.822 Val Acc 0.8185 Best Val Acc 0.821
+	Epoch 27/750 L2X defence Loss 0.4335 Primary task Training Acc 0.824 Val Acc 0.8192 Best Val Acc 0.821
+Weight saved in Weights/SERE/ckpt-11 Weights/CL/ckpt-11
+	Epoch 28/750 L2X defence Loss 0.4336 Primary task Training Acc 0.824 Val Acc 0.8217 Best Val Acc 0.822
+	Epoch 29/750 L2X defence Loss 0.4329 Primary task Training Acc 0.824 Val Acc 0.8185 Best Val Acc 0.822
+Weight saved in Weights/SERE/ckpt-12 Weights/CL/ckpt-12
+	Epoch 30/750 L2X defence Loss 0.4318 Primary task Training Acc 0.824 Val Acc 0.8221 Best Val Acc 0.822
+	Epoch 31/750 L2X defence Loss 0.4322 Primary task Training Acc 0.824 Val Acc 0.8183 Best Val Acc 0.822
+	Epoch 32/750 L2X defence Loss 0.4310 Primary task Training Acc 0.825 Val Acc 0.8185 Best Val Acc 0.822
+	Epoch 33/750 L2X defence Loss 0.4279 Primary task Training Acc 0.826 Val Acc 0.8169 Best Val Acc 0.822
+	Epoch 34/750 L2X defence Loss 0.4293 Primary task Training Acc 0.826 Val Acc 0.8189 Best Val Acc 0.822
+	Epoch 35/750 L2X defence Loss 0.4278 Primary task Training Acc 0.826 Val Acc 0.8183 Best Val Acc 0.822
+	Epoch 36/750 L2X defence Loss 0.4280 Primary task Training Acc 0.827 Val Acc 0.8185 Best Val Acc 0.822
+	Epoch 37/750 L2X defence Loss 0.4274 Primary task Training Acc 0.827 Val Acc 0.8187 Best Val Acc 0.822
+	Epoch 38/750 L2X defence Loss 0.4288 Primary task Training Acc 0.826 Val Acc 0.8178 Best Val Acc 0.822
+	Epoch 39/750 L2X defence Loss 0.4260 Primary task Training Acc 0.827 Val Acc 0.8135 Best Val Acc 0.822
+	Epoch 40/750 L2X defence Loss 0.4262 Primary task Training Acc 0.827 Val Acc 0.8192 Best Val Acc 0.822
+Weight saved in Weights/SERE/ckpt-13 Weights/CL/ckpt-13
+	Epoch 41/750 L2X defence Loss 0.4248 Primary task Training Acc 0.827 Val Acc 0.8265 Best Val Acc 0.826
+	Epoch 42/750 L2X defence Loss 0.4236 Primary task Training Acc 0.828 Val Acc 0.8169 Best Val Acc 0.826
+	Epoch 43/750 L2X defence Loss 0.4226 Primary task Training Acc 0.828 Val Acc 0.8164 Best Val Acc 0.826
+	Epoch 44/750 L2X defence Loss 0.4239 Primary task Training Acc 0.828 Val Acc 0.8194 Best Val Acc 0.826
+	Epoch 45/750 L2X defence Loss 0.4233 Primary task Training Acc 0.829 Val Acc 0.8190 Best Val Acc 0.826
+	Epoch 46/750 L2X defence Loss 0.4225 Primary task Training Acc 0.828 Val Acc 0.8222 Best Val Acc 0.826
+	Epoch 47/750 L2X defence Loss 0.4215 Primary task Training Acc 0.829 Val Acc 0.8187 Best Val Acc 0.826
+	Epoch 48/750 L2X defence Loss 0.4219 Primary task Training Acc 0.828 Val Acc 0.8199 Best Val Acc 0.826
+	Epoch 49/750 L2X defence Loss 0.4213 Primary task Training Acc 0.831 Val Acc 0.8206 Best Val Acc 0.826
+	Epoch 50/750 L2X defence Loss 0.4210 Primary task Training Acc 0.829 Val Acc 0.8245 Best Val Acc 0.826
+	Epoch 51/750 L2X defence Loss 0.4203 Primary task Training Acc 0.831 Val Acc 0.8185 Best Val Acc 0.826
+	Epoch 52/750 L2X defence Loss 0.4190 Primary task Training Acc 0.830 Val Acc 0.8208 Best Val Acc 0.826
+	Epoch 53/750 L2X defence Loss 0.4173 Primary task Training Acc 0.831 Val Acc 0.8190 Best Val Acc 0.826
+	Epoch 54/750 L2X defence Loss 0.4176 Primary task Training Acc 0.831 Val Acc 0.8222 Best Val Acc 0.826
+	Epoch 55/750 L2X defence Loss 0.4179 Primary task Training Acc 0.831 Val Acc 0.8219 Best Val Acc 0.826
+	Epoch 56/750 L2X defence Loss 0.4180 Primary task Training Acc 0.830 Val Acc 0.8206 Best Val Acc 0.826
+	Epoch 57/750 L2X defence Loss 0.4148 Primary task Training Acc 0.833 Val Acc 0.8254 Best Val Acc 0.826
+	Epoch 58/750 L2X defence Loss 0.4154 Primary task Training Acc 0.832 Val Acc 0.8187 Best Val Acc 0.826
+	Epoch 59/750 L2X defence Loss 0.4143 Primary task Training Acc 0.833 Val Acc 0.8196 Best Val Acc 0.826
+	Epoch 60/750 L2X defence Loss 0.4158 Primary task Training Acc 0.831 Val Acc 0.8228 Best Val Acc 0.826
+	Epoch 61/750 L2X defence Loss 0.4132 Primary task Training Acc 0.833 Val Acc 0.8201 Best Val Acc 0.826
+	Epoch 62/750 L2X defence Loss 0.4138 Primary task Training Acc 0.832 Val Acc 0.8187 Best Val Acc 0.826
+	Epoch 63/750 L2X defence Loss 0.4139 Primary task Training Acc 0.833 Val Acc 0.8238 Best Val Acc 0.826
+	Epoch 64/750 L2X defence Loss 0.4123 Primary task Training Acc 0.833 Val Acc 0.8197 Best Val Acc 0.826
+	Epoch 65/750 L2X defence Loss 0.4137 Primary task Training Acc 0.831 Val Acc 0.8215 Best Val Acc 0.826
+	Epoch 66/750 L2X defence Loss 0.4120 Primary task Training Acc 0.834 Val Acc 0.8240 Best Val Acc 0.826
+	Epoch 67/750 L2X defence Loss 0.4120 Primary task Training Acc 0.832 Val Acc 0.8247 Best Val Acc 0.826
+	Epoch 68/750 L2X defence Loss 0.4088 Primary task Training Acc 0.833 Val Acc 0.8238 Best Val Acc 0.826
+	Epoch 69/750 L2X defence Loss 0.4113 Primary task Training Acc 0.835 Val Acc 0.8212 Best Val Acc 0.826
+	Epoch 70/750 L2X defence Loss 0.4129 Primary task Training Acc 0.833 Val Acc 0.8226 Best Val Acc 0.826
+Weight saved in Weights/SERE/ckpt-14 Weights/CL/ckpt-14
+	Epoch 71/750 L2X defence Loss 0.4111 Primary task Training Acc 0.833 Val Acc 0.8279 Best Val Acc 0.828
+	Epoch 72/750 L2X defence Loss 0.4110 Primary task Training Acc 0.832 Val Acc 0.8261 Best Val Acc 0.828
+	Epoch 73/750 L2X defence Loss 0.4106 Primary task Training Acc 0.832 Val Acc 0.8212 Best Val Acc 0.828
+	Epoch 74/750 L2X defence Loss 0.4098 Primary task Training Acc 0.835 Val Acc 0.8272 Best Val Acc 0.828
+	Epoch 75/750 L2X defence Loss 0.4105 Primary task Training Acc 0.834 Val Acc 0.8263 Best Val Acc 0.828
+	Epoch 76/750 L2X defence Loss 0.4086 Primary task Training Acc 0.835 Val Acc 0.8235 Best Val Acc 0.828
+	Epoch 77/750 L2X defence Loss 0.4084 Primary task Training Acc 0.835 Val Acc 0.8240 Best Val Acc 0.828
+	Epoch 78/750 L2X defence Loss 0.4096 Primary task Training Acc 0.835 Val Acc 0.8244 Best Val Acc 0.828
+	Epoch 79/750 L2X defence Loss 0.4073 Primary task Training Acc 0.834 Val Acc 0.8219 Best Val Acc 0.828
+	Epoch 80/750 L2X defence Loss 0.4073 Primary task Training Acc 0.835 Val Acc 0.8224 Best Val Acc 0.828
+	Epoch 81/750 L2X defence Loss 0.4085 Primary task Training Acc 0.836 Val Acc 0.8233 Best Val Acc 0.828
+	Epoch 82/750 L2X defence Loss 0.4060 Primary task Training Acc 0.835 Val Acc 0.8229 Best Val Acc 0.828
+	Epoch 83/750 L2X defence Loss 0.4051 Primary task Training Acc 0.835 Val Acc 0.8268 Best Val Acc 0.828
+	Epoch 84/750 L2X defence Loss 0.4063 Primary task Training Acc 0.836 Val Acc 0.8199 Best Val Acc 0.828
+	Epoch 85/750 L2X defence Loss 0.4061 Primary task Training Acc 0.835 Val Acc 0.8203 Best Val Acc 0.828
+	Epoch 86/750 L2X defence Loss 0.4053 Primary task Training Acc 0.836 Val Acc 0.8229 Best Val Acc 0.828
+	Epoch 87/750 L2X defence Loss 0.4061 Primary task Training Acc 0.836 Val Acc 0.8233 Best Val Acc 0.828
+	Epoch 88/750 L2X defence Loss 0.4056 Primary task Training Acc 0.837 Val Acc 0.8233 Best Val Acc 0.828
+	Epoch 89/750 L2X defence Loss 0.4056 Primary task Training Acc 0.836 Val Acc 0.8242 Best Val Acc 0.828
+	Epoch 90/750 L2X defence Loss 0.4044 Primary task Training Acc 0.837 Val Acc 0.8238 Best Val Acc 0.828
+	Epoch 91/750 L2X defence Loss 0.4032 Primary task Training Acc 0.837 Val Acc 0.8235 Best Val Acc 0.828
+	Epoch 92/750 L2X defence Loss 0.4062 Primary task Training Acc 0.837 Val Acc 0.8231 Best Val Acc 0.828
+	Epoch 93/750 L2X defence Loss 0.4049 Primary task Training Acc 0.835 Val Acc 0.8244 Best Val Acc 0.828
+	Epoch 94/750 L2X defence Loss 0.4038 Primary task Training Acc 0.837 Val Acc 0.8231 Best Val Acc 0.828
+	Epoch 95/750 L2X defence Loss 0.4022 Primary task Training Acc 0.839 Val Acc 0.8212 Best Val Acc 0.828
+	Epoch 96/750 L2X defence Loss 0.4041 Primary task Training Acc 0.836 Val Acc 0.8260 Best Val Acc 0.828
+	Epoch 97/750 L2X defence Loss 0.4029 Primary task Training Acc 0.839 Val Acc 0.8254 Best Val Acc 0.828
+	Epoch 98/750 L2X defence Loss 0.4046 Primary task Training Acc 0.837 Val Acc 0.8235 Best Val Acc 0.828
+	Epoch 99/750 L2X defence Loss 0.4016 Primary task Training Acc 0.838 Val Acc 0.8272 Best Val Acc 0.828
+	Epoch 100/750 L2X defence Loss 0.4020 Primary task Training Acc 0.839 Val Acc 0.8270 Best Val Acc 0.828
+	Epoch 101/750 L2X defence Loss 0.4021 Primary task Training Acc 0.837 Val Acc 0.8261 Best Val Acc 0.828
+	Epoch 102/750 L2X defence Loss 0.4022 Primary task Training Acc 0.838 Val Acc 0.8228 Best Val Acc 0.828
+	Epoch 103/750 L2X defence Loss 0.4022 Primary task Training Acc 0.838 Val Acc 0.8212 Best Val Acc 0.828
+	Epoch 104/750 L2X defence Loss 0.4005 Primary task Training Acc 0.839 Val Acc 0.8274 Best Val Acc 0.828
+	Epoch 105/750 L2X defence Loss 0.3985 Primary task Training Acc 0.838 Val Acc 0.8274 Best Val Acc 0.828
+	Epoch 106/750 L2X defence Loss 0.3989 Primary task Training Acc 0.840 Val Acc 0.8219 Best Val Acc 0.828
+	Epoch 107/750 L2X defence Loss 0.4009 Primary task Training Acc 0.838 Val Acc 0.8267 Best Val Acc 0.828
+	Epoch 108/750 L2X defence Loss 0.4013 Primary task Training Acc 0.839 Val Acc 0.8270 Best Val Acc 0.828
+	Epoch 109/750 L2X defence Loss 0.4017 Primary task Training Acc 0.838 Val Acc 0.8222 Best Val Acc 0.828
+	Epoch 110/750 L2X defence Loss 0.3989 Primary task Training Acc 0.839 Val Acc 0.8222 Best Val Acc 0.828
+	Epoch 111/750 L2X defence Loss 0.3991 Primary task Training Acc 0.840 Val Acc 0.8228 Best Val Acc 0.828
+Weight saved in Weights/SERE/ckpt-15 Weights/CL/ckpt-15
+	Epoch 112/750 L2X defence Loss 0.3992 Primary task Training Acc 0.839 Val Acc 0.8295 Best Val Acc 0.830
+	Epoch 113/750 L2X defence Loss 0.3975 Primary task Training Acc 0.841 Val Acc 0.8245 Best Val Acc 0.830
+	Epoch 114/750 L2X defence Loss 0.3988 Primary task Training Acc 0.841 Val Acc 0.8229 Best Val Acc 0.830
+	Epoch 115/750 L2X defence Loss 0.3970 Primary task Training Acc 0.840 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 116/750 L2X defence Loss 0.3984 Primary task Training Acc 0.841 Val Acc 0.8188 Best Val Acc 0.830
+	Epoch 117/750 L2X defence Loss 0.3992 Primary task Training Acc 0.839 Val Acc 0.8281 Best Val Acc 0.830
+	Epoch 118/750 L2X defence Loss 0.3983 Primary task Training Acc 0.841 Val Acc 0.8256 Best Val Acc 0.830
+	Epoch 119/750 L2X defence Loss 0.3951 Primary task Training Acc 0.840 Val Acc 0.8244 Best Val Acc 0.830
+	Epoch 120/750 L2X defence Loss 0.3979 Primary task Training Acc 0.841 Val Acc 0.8290 Best Val Acc 0.830
+	Epoch 121/750 L2X defence Loss 0.3977 Primary task Training Acc 0.842 Val Acc 0.8276 Best Val Acc 0.830
+	Epoch 122/750 L2X defence Loss 0.3997 Primary task Training Acc 0.839 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 123/750 L2X defence Loss 0.3975 Primary task Training Acc 0.840 Val Acc 0.8245 Best Val Acc 0.830
+	Epoch 124/750 L2X defence Loss 0.3958 Primary task Training Acc 0.839 Val Acc 0.8268 Best Val Acc 0.830
+	Epoch 125/750 L2X defence Loss 0.3961 Primary task Training Acc 0.841 Val Acc 0.8265 Best Val Acc 0.830
+	Epoch 126/750 L2X defence Loss 0.3962 Primary task Training Acc 0.840 Val Acc 0.8242 Best Val Acc 0.830
+	Epoch 127/750 L2X defence Loss 0.3958 Primary task Training Acc 0.842 Val Acc 0.8286 Best Val Acc 0.830
+	Epoch 128/750 L2X defence Loss 0.3946 Primary task Training Acc 0.840 Val Acc 0.8268 Best Val Acc 0.830
+	Epoch 129/750 L2X defence Loss 0.3953 Primary task Training Acc 0.841 Val Acc 0.8256 Best Val Acc 0.830
+	Epoch 130/750 L2X defence Loss 0.3951 Primary task Training Acc 0.842 Val Acc 0.8261 Best Val Acc 0.830
+	Epoch 131/750 L2X defence Loss 0.3935 Primary task Training Acc 0.841 Val Acc 0.8281 Best Val Acc 0.830
+	Epoch 132/750 L2X defence Loss 0.3968 Primary task Training Acc 0.841 Val Acc 0.8217 Best Val Acc 0.830
+	Epoch 133/750 L2X defence Loss 0.3943 Primary task Training Acc 0.841 Val Acc 0.8224 Best Val Acc 0.830
+	Epoch 134/750 L2X defence Loss 0.3957 Primary task Training Acc 0.842 Val Acc 0.8238 Best Val Acc 0.830
+	Epoch 135/750 L2X defence Loss 0.3943 Primary task Training Acc 0.842 Val Acc 0.8288 Best Val Acc 0.830
+	Epoch 136/750 L2X defence Loss 0.3952 Primary task Training Acc 0.841 Val Acc 0.8215 Best Val Acc 0.830
+	Epoch 137/750 L2X defence Loss 0.3962 Primary task Training Acc 0.840 Val Acc 0.8261 Best Val Acc 0.830
+	Epoch 138/750 L2X defence Loss 0.3965 Primary task Training Acc 0.840 Val Acc 0.8249 Best Val Acc 0.830
+	Epoch 139/750 L2X defence Loss 0.3944 Primary task Training Acc 0.840 Val Acc 0.8265 Best Val Acc 0.830
+	Epoch 140/750 L2X defence Loss 0.3936 Primary task Training Acc 0.841 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 141/750 L2X defence Loss 0.3938 Primary task Training Acc 0.840 Val Acc 0.8226 Best Val Acc 0.830
+	Epoch 142/750 L2X defence Loss 0.3924 Primary task Training Acc 0.842 Val Acc 0.8270 Best Val Acc 0.830
+	Epoch 143/750 L2X defence Loss 0.3938 Primary task Training Acc 0.842 Val Acc 0.8281 Best Val Acc 0.830
+	Epoch 144/750 L2X defence Loss 0.3913 Primary task Training Acc 0.840 Val Acc 0.8263 Best Val Acc 0.830
+	Epoch 145/750 L2X defence Loss 0.3947 Primary task Training Acc 0.840 Val Acc 0.8260 Best Val Acc 0.830
+	Epoch 146/750 L2X defence Loss 0.3946 Primary task Training Acc 0.841 Val Acc 0.8272 Best Val Acc 0.830
+	Epoch 147/750 L2X defence Loss 0.3927 Primary task Training Acc 0.840 Val Acc 0.8263 Best Val Acc 0.830
+	Epoch 148/750 L2X defence Loss 0.3950 Primary task Training Acc 0.841 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 149/750 L2X defence Loss 0.3942 Primary task Training Acc 0.841 Val Acc 0.8286 Best Val Acc 0.830
+	Epoch 150/750 L2X defence Loss 0.3914 Primary task Training Acc 0.842 Val Acc 0.8263 Best Val Acc 0.830
+	Epoch 151/750 L2X defence Loss 0.3915 Primary task Training Acc 0.842 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 152/750 L2X defence Loss 0.3920 Primary task Training Acc 0.842 Val Acc 0.8276 Best Val Acc 0.830
+	Epoch 153/750 L2X defence Loss 0.3931 Primary task Training Acc 0.841 Val Acc 0.8212 Best Val Acc 0.830
+	Epoch 154/750 L2X defence Loss 0.3912 Primary task Training Acc 0.842 Val Acc 0.8235 Best Val Acc 0.830
+	Epoch 155/750 L2X defence Loss 0.3921 Primary task Training Acc 0.843 Val Acc 0.8260 Best Val Acc 0.830
+	Epoch 156/750 L2X defence Loss 0.3900 Primary task Training Acc 0.845 Val Acc 0.8261 Best Val Acc 0.830
+	Epoch 157/750 L2X defence Loss 0.3934 Primary task Training Acc 0.842 Val Acc 0.8249 Best Val Acc 0.830
+	Epoch 158/750 L2X defence Loss 0.3911 Primary task Training Acc 0.843 Val Acc 0.8244 Best Val Acc 0.830
+	Epoch 159/750 L2X defence Loss 0.3922 Primary task Training Acc 0.842 Val Acc 0.8256 Best Val Acc 0.830
+Weight saved in Weights/SERE/ckpt-16 Weights/CL/ckpt-16
+	Epoch 160/750 L2X defence Loss 0.3902 Primary task Training Acc 0.844 Val Acc 0.8306 Best Val Acc 0.831
+	Epoch 161/750 L2X defence Loss 0.3916 Primary task Training Acc 0.841 Val Acc 0.8254 Best Val Acc 0.831
+	Epoch 162/750 L2X defence Loss 0.3909 Primary task Training Acc 0.841 Val Acc 0.8261 Best Val Acc 0.831
+	Epoch 163/750 L2X defence Loss 0.3906 Primary task Training Acc 0.843 Val Acc 0.8274 Best Val Acc 0.831
+	Epoch 164/750 L2X defence Loss 0.3919 Primary task Training Acc 0.843 Val Acc 0.8240 Best Val Acc 0.831
+	Epoch 165/750 L2X defence Loss 0.3906 Primary task Training Acc 0.842 Val Acc 0.8242 Best Val Acc 0.831
+	Epoch 166/750 L2X defence Loss 0.3894 Primary task Training Acc 0.844 Val Acc 0.8235 Best Val Acc 0.831
+	Epoch 167/750 L2X defence Loss 0.3884 Primary task Training Acc 0.843 Val Acc 0.8235 Best Val Acc 0.831
+	Epoch 168/750 L2X defence Loss 0.3908 Primary task Training Acc 0.843 Val Acc 0.8270 Best Val Acc 0.831
+	Epoch 169/750 L2X defence Loss 0.3910 Primary task Training Acc 0.844 Val Acc 0.8233 Best Val Acc 0.831
+	Epoch 170/750 L2X defence Loss 0.3881 Primary task Training Acc 0.844 Val Acc 0.8297 Best Val Acc 0.831
+	Epoch 171/750 L2X defence Loss 0.3906 Primary task Training Acc 0.843 Val Acc 0.8279 Best Val Acc 0.831
+	Epoch 172/750 L2X defence Loss 0.3890 Primary task Training Acc 0.843 Val Acc 0.8267 Best Val Acc 0.831
+	Epoch 173/750 L2X defence Loss 0.3885 Primary task Training Acc 0.843 Val Acc 0.8265 Best Val Acc 0.831
+	Epoch 174/750 L2X defence Loss 0.3897 Primary task Training Acc 0.844 Val Acc 0.8288 Best Val Acc 0.831
+Weight saved in Weights/SERE/ckpt-17 Weights/CL/ckpt-17
+	Epoch 175/750 L2X defence Loss 0.3886 Primary task Training Acc 0.844 Val Acc 0.8308 Best Val Acc 0.831
+	Epoch 176/750 L2X defence Loss 0.3883 Primary task Training Acc 0.842 Val Acc 0.8249 Best Val Acc 0.831
+	Epoch 177/750 L2X defence Loss 0.3884 Primary task Training Acc 0.844 Val Acc 0.8299 Best Val Acc 0.831
+	Epoch 178/750 L2X defence Loss 0.3881 Primary task Training Acc 0.844 Val Acc 0.8281 Best Val Acc 0.831
+	Epoch 179/750 L2X defence Loss 0.3884 Primary task Training Acc 0.842 Val Acc 0.8265 Best Val Acc 0.831
+	Epoch 180/750 L2X defence Loss 0.3880 Primary task Training Acc 0.843 Val Acc 0.8274 Best Val Acc 0.831
+	Epoch 181/750 L2X defence Loss 0.3892 Primary task Training Acc 0.842 Val Acc 0.8288 Best Val Acc 0.831
+	Epoch 182/750 L2X defence Loss 0.3871 Primary task Training Acc 0.844 Val Acc 0.8281 Best Val Acc 0.831
+	Epoch 183/750 L2X defence Loss 0.3903 Primary task Training Acc 0.842 Val Acc 0.8290 Best Val Acc 0.831
+	Epoch 184/750 L2X defence Loss 0.3874 Primary task Training Acc 0.843 Val Acc 0.8247 Best Val Acc 0.831
+	Epoch 185/750 L2X defence Loss 0.3884 Primary task Training Acc 0.844 Val Acc 0.8249 Best Val Acc 0.831
+	Epoch 186/750 L2X defence Loss 0.3886 Primary task Training Acc 0.842 Val Acc 0.8261 Best Val Acc 0.831
+	Epoch 187/750 L2X defence Loss 0.3864 Primary task Training Acc 0.844 Val Acc 0.8285 Best Val Acc 0.831
+	Epoch 188/750 L2X defence Loss 0.3874 Primary task Training Acc 0.843 Val Acc 0.8272 Best Val Acc 0.831
+	Epoch 189/750 L2X defence Loss 0.3862 Primary task Training Acc 0.843 Val Acc 0.8260 Best Val Acc 0.831
+	Epoch 190/750 L2X defence Loss 0.3868 Primary task Training Acc 0.846 Val Acc 0.8251 Best Val Acc 0.831
+	Epoch 191/750 L2X defence Loss 0.3868 Primary task Training Acc 0.844 Val Acc 0.8272 Best Val Acc 0.831
+Weight saved in Weights/SERE/ckpt-18 Weights/CL/ckpt-18
+	Epoch 192/750 L2X defence Loss 0.3875 Primary task Training Acc 0.844 Val Acc 0.8318 Best Val Acc 0.832
+	Epoch 193/750 L2X defence Loss 0.3879 Primary task Training Acc 0.843 Val Acc 0.8299 Best Val Acc 0.832
+	Epoch 194/750 L2X defence Loss 0.3872 Primary task Training Acc 0.844 Val Acc 0.8254 Best Val Acc 0.832
+	Epoch 195/750 L2X defence Loss 0.3857 Primary task Training Acc 0.845 Val Acc 0.8270 Best Val Acc 0.832
+	Epoch 196/750 L2X defence Loss 0.3875 Primary task Training Acc 0.844 Val Acc 0.8247 Best Val Acc 0.832
+	Epoch 197/750 L2X defence Loss 0.3863 Primary task Training Acc 0.845 Val Acc 0.8238 Best Val Acc 0.832
+	Epoch 198/750 L2X defence Loss 0.3856 Primary task Training Acc 0.844 Val Acc 0.8229 Best Val Acc 0.832
+	Epoch 199/750 L2X defence Loss 0.3839 Primary task Training Acc 0.846 Val Acc 0.8240 Best Val Acc 0.832
+	Epoch 200/750 L2X defence Loss 0.3853 Primary task Training Acc 0.844 Val Acc 0.8263 Best Val Acc 0.832
+	Epoch 201/750 L2X defence Loss 0.3845 Primary task Training Acc 0.846 Val Acc 0.8288 Best Val Acc 0.832
+	Epoch 202/750 L2X defence Loss 0.3842 Primary task Training Acc 0.848 Val Acc 0.8244 Best Val Acc 0.832
+	Epoch 203/750 L2X defence Loss 0.3846 Primary task Training Acc 0.845 Val Acc 0.8263 Best Val Acc 0.832
+	Epoch 204/750 L2X defence Loss 0.3843 Primary task Training Acc 0.844 Val Acc 0.8299 Best Val Acc 0.832
+	Epoch 205/750 L2X defence Loss 0.3855 Primary task Training Acc 0.844 Val Acc 0.8235 Best Val Acc 0.832
+	Epoch 206/750 L2X defence Loss 0.3849 Primary task Training Acc 0.846 Val Acc 0.8267 Best Val Acc 0.832
+	Epoch 207/750 L2X defence Loss 0.3843 Primary task Training Acc 0.846 Val Acc 0.8276 Best Val Acc 0.832
+	Epoch 208/750 L2X defence Loss 0.3858 Primary task Training Acc 0.844 Val Acc 0.8283 Best Val Acc 0.832
+	Epoch 209/750 L2X defence Loss 0.3846 Primary task Training Acc 0.845 Val Acc 0.8295 Best Val Acc 0.832
+	Epoch 210/750 L2X defence Loss 0.3850 Primary task Training Acc 0.843 Val Acc 0.8283 Best Val Acc 0.832
+	Epoch 211/750 L2X defence Loss 0.3836 Primary task Training Acc 0.844 Val Acc 0.8252 Best Val Acc 0.832
+	Epoch 212/750 L2X defence Loss 0.3828 Primary task Training Acc 0.846 Val Acc 0.8265 Best Val Acc 0.832
+	Epoch 213/750 L2X defence Loss 0.3846 Primary task Training Acc 0.846 Val Acc 0.8297 Best Val Acc 0.832
+	Epoch 214/750 L2X defence Loss 0.3843 Primary task Training Acc 0.846 Val Acc 0.8274 Best Val Acc 0.832
+	Epoch 215/750 L2X defence Loss 0.3843 Primary task Training Acc 0.844 Val Acc 0.8297 Best Val Acc 0.832
+	Epoch 216/750 L2X defence Loss 0.3845 Primary task Training Acc 0.844 Val Acc 0.8251 Best Val Acc 0.832
+	Epoch 217/750 L2X defence Loss 0.3837 Primary task Training Acc 0.846 Val Acc 0.8276 Best Val Acc 0.832
+	Epoch 218/750 L2X defence Loss 0.3823 Primary task Training Acc 0.845 Val Acc 0.8256 Best Val Acc 0.832
+	Epoch 219/750 L2X defence Loss 0.3836 Primary task Training Acc 0.846 Val Acc 0.8265 Best Val Acc 0.832
+	Epoch 220/750 L2X defence Loss 0.3829 Primary task Training Acc 0.847 Val Acc 0.8240 Best Val Acc 0.832
+	Epoch 221/750 L2X defence Loss 0.3824 Primary task Training Acc 0.846 Val Acc 0.8274 Best Val Acc 0.832
+	Epoch 222/750 L2X defence Loss 0.3811 Primary task Training Acc 0.847 Val Acc 0.8242 Best Val Acc 0.832
+	Epoch 223/750 L2X defence Loss 0.3817 Primary task Training Acc 0.848 Val Acc 0.8267 Best Val Acc 0.832
+	Epoch 224/750 L2X defence Loss 0.3834 Primary task Training Acc 0.846 Val Acc 0.8275 Best Val Acc 0.832
+	Epoch 225/750 L2X defence Loss 0.3835 Primary task Training Acc 0.845 Val Acc 0.8270 Best Val Acc 0.832
+	Epoch 226/750 L2X defence Loss 0.3819 Primary task Training Acc 0.846 Val Acc 0.8275 Best Val Acc 0.832
+	Epoch 227/750 L2X defence Loss 0.3830 Primary task Training Acc 0.846 Val Acc 0.8279 Best Val Acc 0.832
+	Epoch 228/750 L2X defence Loss 0.3827 Primary task Training Acc 0.845 Val Acc 0.8254 Best Val Acc 0.832
+	Epoch 229/750 L2X defence Loss 0.3827 Primary task Training Acc 0.845 Val Acc 0.8245 Best Val Acc 0.832
+	Epoch 230/750 L2X defence Loss 0.3817 Primary task Training Acc 0.845 Val Acc 0.8313 Best Val Acc 0.832
+Weight saved in Weights/SERE/ckpt-19 Weights/CL/ckpt-19
+	Epoch 231/750 L2X defence Loss 0.3820 Primary task Training Acc 0.845 Val Acc 0.8331 Best Val Acc 0.833
+	Epoch 232/750 L2X defence Loss 0.3831 Primary task Training Acc 0.845 Val Acc 0.8267 Best Val Acc 0.833
+	Epoch 233/750 L2X defence Loss 0.3810 Primary task Training Acc 0.845 Val Acc 0.8247 Best Val Acc 0.833
+	Epoch 234/750 L2X defence Loss 0.3816 Primary task Training Acc 0.845 Val Acc 0.8247 Best Val Acc 0.833
+	Epoch 235/750 L2X defence Loss 0.3836 Primary task Training Acc 0.845 Val Acc 0.8263 Best Val Acc 0.833
+	Epoch 236/750 L2X defence Loss 0.3819 Primary task Training Acc 0.846 Val Acc 0.8213 Best Val Acc 0.833
+	Epoch 237/750 L2X defence Loss 0.3824 Primary task Training Acc 0.845 Val Acc 0.8286 Best Val Acc 0.833
+	Epoch 238/750 L2X defence Loss 0.3821 Primary task Training Acc 0.845 Val Acc 0.8290 Best Val Acc 0.833
+	Epoch 239/750 L2X defence Loss 0.3809 Primary task Training Acc 0.846 Val Acc 0.8263 Best Val Acc 0.833
+	Epoch 240/750 L2X defence Loss 0.3814 Primary task Training Acc 0.845 Val Acc 0.8295 Best Val Acc 0.833
+	Epoch 241/750 L2X defence Loss 0.3795 Primary task Training Acc 0.846 Val Acc 0.8297 Best Val Acc 0.833
+	Epoch 242/750 L2X defence Loss 0.3805 Primary task Training Acc 0.847 Val Acc 0.8242 Best Val Acc 0.833
+	Epoch 243/750 L2X defence Loss 0.3806 Primary task Training Acc 0.846 Val Acc 0.8281 Best Val Acc 0.833
+	Epoch 244/750 L2X defence Loss 0.3817 Primary task Training Acc 0.846 Val Acc 0.8251 Best Val Acc 0.833
+	Epoch 245/750 L2X defence Loss 0.3802 Primary task Training Acc 0.847 Val Acc 0.8290 Best Val Acc 0.833
+	Epoch 246/750 L2X defence Loss 0.3796 Primary task Training Acc 0.847 Val Acc 0.8221 Best Val Acc 0.833
+	Epoch 247/750 L2X defence Loss 0.3802 Primary task Training Acc 0.846 Val Acc 0.8256 Best Val Acc 0.833
+	Epoch 248/750 L2X defence Loss 0.3809 Primary task Training Acc 0.845 Val Acc 0.8261 Best Val Acc 0.833
+	Epoch 249/750 L2X defence Loss 0.3830 Primary task Training Acc 0.845 Val Acc 0.8320 Best Val Acc 0.833
+	Epoch 250/750 L2X defence Loss 0.3799 Primary task Training Acc 0.848 Val Acc 0.8281 Best Val Acc 0.833
+	Epoch 251/750 L2X defence Loss 0.3778 Primary task Training Acc 0.850 Val Acc 0.8259 Best Val Acc 0.833
+	Epoch 252/750 L2X defence Loss 0.3779 Primary task Training Acc 0.847 Val Acc 0.8277 Best Val Acc 0.833
+	Epoch 253/750 L2X defence Loss 0.3789 Primary task Training Acc 0.847 Val Acc 0.8265 Best Val Acc 0.833
+	Epoch 254/750 L2X defence Loss 0.3785 Primary task Training Acc 0.848 Val Acc 0.8252 Best Val Acc 0.833
+	Epoch 255/750 L2X defence Loss 0.3798 Primary task Training Acc 0.845 Val Acc 0.8270 Best Val Acc 0.833
+	Epoch 256/750 L2X defence Loss 0.3804 Primary task Training Acc 0.847 Val Acc 0.8261 Best Val Acc 0.833
+	Epoch 257/750 L2X defence Loss 0.3798 Primary task Training Acc 0.847 Val Acc 0.8235 Best Val Acc 0.833
+	Epoch 258/750 L2X defence Loss 0.3792 Primary task Training Acc 0.846 Val Acc 0.8277 Best Val Acc 0.833
+	Epoch 259/750 L2X defence Loss 0.3799 Primary task Training Acc 0.846 Val Acc 0.8281 Best Val Acc 0.833
+	Epoch 260/750 L2X defence Loss 0.3791 Primary task Training Acc 0.847 Val Acc 0.8292 Best Val Acc 0.833
+	Epoch 261/750 L2X defence Loss 0.3776 Primary task Training Acc 0.848 Val Acc 0.8231 Best Val Acc 0.833
+	Epoch 262/750 L2X defence Loss 0.3796 Primary task Training Acc 0.848 Val Acc 0.8267 Best Val Acc 0.833
+	Epoch 263/750 L2X defence Loss 0.3762 Primary task Training Acc 0.848 Val Acc 0.8238 Best Val Acc 0.833
+	Epoch 264/750 L2X defence Loss 0.3788 Primary task Training Acc 0.848 Val Acc 0.8302 Best Val Acc 0.833
+	Epoch 265/750 L2X defence Loss 0.3795 Primary task Training Acc 0.847 Val Acc 0.8224 Best Val Acc 0.833
+	Epoch 266/750 L2X defence Loss 0.3799 Primary task Training Acc 0.847 Val Acc 0.8293 Best Val Acc 0.833
+	Epoch 267/750 L2X defence Loss 0.3768 Primary task Training Acc 0.848 Val Acc 0.8270 Best Val Acc 0.833
+	Epoch 268/750 L2X defence Loss 0.3763 Primary task Training Acc 0.850 Val Acc 0.8279 Best Val Acc 0.833
+	Epoch 269/750 L2X defence Loss 0.3775 Primary task Training Acc 0.847 Val Acc 0.8254 Best Val Acc 0.833
+	Epoch 270/750 L2X defence Loss 0.3759 Primary task Training Acc 0.849 Val Acc 0.8275 Best Val Acc 0.833
+	Epoch 271/750 L2X defence Loss 0.3774 Primary task Training Acc 0.846 Val Acc 0.8272 Best Val Acc 0.833
+	Epoch 272/750 L2X defence Loss 0.3774 Primary task Training Acc 0.847 Val Acc 0.8240 Best Val Acc 0.833
+	Epoch 273/750 L2X defence Loss 0.3777 Primary task Training Acc 0.847 Val Acc 0.8293 Best Val Acc 0.833
+	Epoch 274/750 L2X defence Loss 0.3765 Primary task Training Acc 0.850 Val Acc 0.8313 Best Val Acc 0.833
+	Epoch 275/750 L2X defence Loss 0.3778 Primary task Training Acc 0.849 Val Acc 0.8307 Best Val Acc 0.833
+	Epoch 276/750 L2X defence Loss 0.3762 Primary task Training Acc 0.848 Val Acc 0.8274 Best Val Acc 0.833
+	Epoch 277/750 L2X defence Loss 0.3759 Primary task Training Acc 0.849 Val Acc 0.8261 Best Val Acc 0.833
+	Epoch 278/750 L2X defence Loss 0.3774 Primary task Training Acc 0.846 Val Acc 0.8281 Best Val Acc 0.833
+	Epoch 279/750 L2X defence Loss 0.3762 Primary task Training Acc 0.849 Val Acc 0.8233 Best Val Acc 0.833
+	Epoch 280/750 L2X defence Loss 0.3744 Primary task Training Acc 0.849 Val Acc 0.8258 Best Val Acc 0.833
+	Epoch 281/750 L2X defence Loss 0.3758 Primary task Training Acc 0.850 Val Acc 0.8263 Best Val Acc 0.833
+	Epoch 282/750 L2X defence Loss 0.3770 Primary task Training Acc 0.848 Val Acc 0.8236 Best Val Acc 0.833
+	Epoch 283/750 L2X defence Loss 0.3753 Primary task Training Acc 0.847 Val Acc 0.8311 Best Val Acc 0.833
+	Epoch 284/750 L2X defence Loss 0.3766 Primary task Training Acc 0.848 Val Acc 0.8249 Best Val Acc 0.833
+	Epoch 285/750 L2X defence Loss 0.3784 Primary task Training Acc 0.848 Val Acc 0.8249 Best Val Acc 0.833
+	Epoch 286/750 L2X defence Loss 0.3749 Primary task Training Acc 0.848 Val Acc 0.8242 Best Val Acc 0.833
+	Epoch 287/750 L2X defence Loss 0.3778 Primary task Training Acc 0.847 Val Acc 0.8261 Best Val Acc 0.833
+	Epoch 288/750 L2X defence Loss 0.3764 Primary task Training Acc 0.849 Val Acc 0.8304 Best Val Acc 0.833
+	Epoch 289/750 L2X defence Loss 0.3766 Primary task Training Acc 0.848 Val Acc 0.8270 Best Val Acc 0.833
+	Epoch 290/750 L2X defence Loss 0.3751 Primary task Training Acc 0.849 Val Acc 0.8274 Best Val Acc 0.833
+	Epoch 291/750 L2X defence Loss 0.3768 Primary task Training Acc 0.848 Val Acc 0.8267 Best Val Acc 0.833
+	Epoch 292/750 L2X defence Loss 0.3769 Primary task Training Acc 0.847 Val Acc 0.8240 Best Val Acc 0.833
+	Epoch 293/750 L2X defence Loss 0.3749 Primary task Training Acc 0.849 Val Acc 0.8274 Best Val Acc 0.833
+	Epoch 294/750 L2X defence Loss 0.3747 Primary task Training Acc 0.850 Val Acc 0.8263 Best Val Acc 0.833
+	Epoch 295/750 L2X defence Loss 0.3751 Primary task Training Acc 0.849 Val Acc 0.8325 Best Val Acc 0.833
+	Epoch 296/750 L2X defence Loss 0.3757 Primary task Training Acc 0.848 Val Acc 0.8254 Best Val Acc 0.833
+	Epoch 297/750 L2X defence Loss 0.3747 Primary task Training Acc 0.850 Val Acc 0.8272 Best Val Acc 0.833
+	Epoch 298/750 L2X defence Loss 0.3739 Primary task Training Acc 0.849 Val Acc 0.8293 Best Val Acc 0.833
+	Epoch 299/750 L2X defence Loss 0.3768 Primary task Training Acc 0.848 Val Acc 0.8275 Best Val Acc 0.833
+	Epoch 300/750 L2X defence Loss 0.3750 Primary task Training Acc 0.849 Val Acc 0.8272 Best Val Acc 0.833
+	Epoch 301/750 L2X defence Loss 0.3774 Primary task Training Acc 0.847 Val Acc 0.8254 Best Val Acc 0.833
+	Epoch 302/750 L2X defence Loss 0.3749 Primary task Training Acc 0.850 Val Acc 0.8254 Best Val Acc 0.833
+	Epoch 303/750 L2X defence Loss 0.3765 Primary task Training Acc 0.848 Val Acc 0.8274 Best Val Acc 0.833
+	Epoch 304/750 L2X defence Loss 0.3746 Primary task Training Acc 0.848 Val Acc 0.8272 Best Val Acc 0.833
+	Epoch 305/750 L2X defence Loss 0.3759 Primary task Training Acc 0.848 Val Acc 0.8272 Best Val Acc 0.833
+	Epoch 306/750 L2X defence Loss 0.3744 Primary task Training Acc 0.847 Val Acc 0.8258 Best Val Acc 0.833
+	Epoch 307/750 L2X defence Loss 0.3747 Primary task Training Acc 0.849 Val Acc 0.8288 Best Val Acc 0.833
+	Epoch 308/750 L2X defence Loss 0.3762 Primary task Training Acc 0.847 Val Acc 0.8251 Best Val Acc 0.833
+	Epoch 309/750 L2X defence Loss 0.3732 Primary task Training Acc 0.850 Val Acc 0.8236 Best Val Acc 0.833
+	Epoch 310/750 L2X defence Loss 0.3734 Primary task Training Acc 0.850 Val Acc 0.8272 Best Val Acc 0.833
+	Epoch 311/750 L2X defence Loss 0.3720 Primary task Training Acc 0.849 Val Acc 0.8304 Best Val Acc 0.833
+	Epoch 312/750 L2X defence Loss 0.3725 Primary task Training Acc 0.850 Val Acc 0.8240 Best Val Acc 0.833
+	Epoch 313/750 L2X defence Loss 0.3734 Primary task Training Acc 0.849 Val Acc 0.8302 Best Val Acc 0.833
+	Epoch 314/750 L2X defence Loss 0.3726 Primary task Training Acc 0.849 Val Acc 0.8281 Best Val Acc 0.833
+	Epoch 315/750 L2X defence Loss 0.3735 Primary task Training Acc 0.849 Val Acc 0.8258 Best Val Acc 0.833
+	Epoch 316/750 L2X defence Loss 0.3713 Primary task Training Acc 0.849 Val Acc 0.8242 Best Val Acc 0.833
+	Epoch 317/750 L2X defence Loss 0.3737 Primary task Training Acc 0.849 Val Acc 0.8265 Best Val Acc 0.833
+	Epoch 318/750 L2X defence Loss 0.3728 Primary task Training Acc 0.850 Val Acc 0.8203 Best Val Acc 0.833
+	Epoch 319/750 L2X defence Loss 0.3747 Primary task Training Acc 0.849 Val Acc 0.8301 Best Val Acc 0.833
+	Epoch 320/750 L2X defence Loss 0.3735 Primary task Training Acc 0.850 Val Acc 0.8293 Best Val Acc 0.833
+	Epoch 321/750 L2X defence Loss 0.3733 Primary task Training Acc 0.850 Val Acc 0.8283 Best Val Acc 0.833
+	Epoch 322/750 L2X defence Loss 0.3716 Primary task Training Acc 0.849 Val Acc 0.8283 Best Val Acc 0.833
+	Epoch 323/750 L2X defence Loss 0.3731 Primary task Training Acc 0.850 Val Acc 0.8244 Best Val Acc 0.833
+	Epoch 324/750 L2X defence Loss 0.3735 Primary task Training Acc 0.848 Val Acc 0.8263 Best Val Acc 0.833
+	Epoch 325/750 L2X defence Loss 0.3717 Primary task Training Acc 0.850 Val Acc 0.8265 Best Val Acc 0.833
+	Epoch 326/750 L2X defence Loss 0.3744 Primary task Training Acc 0.848 Val Acc 0.8245 Best Val Acc 0.833
+	Epoch 327/750 L2X defence Loss 0.3736 Primary task Training Acc 0.852 Val Acc 0.8272 Best Val Acc 0.833
+	Epoch 328/750 L2X defence Loss 0.3715 Primary task Training Acc 0.851 Val Acc 0.8295 Best Val Acc 0.833
+	Epoch 329/750 L2X defence Loss 0.3737 Primary task Training Acc 0.847 Val Acc 0.8249 Best Val Acc 0.833
+	Epoch 330/750 L2X defence Loss 0.3738 Primary task Training Acc 0.849 Val Acc 0.8308 Best Val Acc 0.833
+	Epoch 331/750 L2X defence Loss 0.3711 Primary task Training Acc 0.851 Val Acc 0.8240 Best Val Acc 0.833
+	Epoch 332/750 L2X defence Loss 0.3729 Primary task Training Acc 0.850 Val Acc 0.8286 Best Val Acc 0.833
+	Epoch 333/750 L2X defence Loss 0.3731 Primary task Training Acc 0.849 Val Acc 0.8240 Best Val Acc 0.833
+	Epoch 334/750 L2X defence Loss 0.3730 Primary task Training Acc 0.850 Val Acc 0.8281 Best Val Acc 0.833
+	Epoch 335/750 L2X defence Loss 0.3712 Primary task Training Acc 0.848 Val Acc 0.8290 Best Val Acc 0.833
+	Epoch 336/750 L2X defence Loss 0.3699 Primary task Training Acc 0.852 Val Acc 0.8277 Best Val Acc 0.833
+	Epoch 337/750 L2X defence Loss 0.3715 Primary task Training Acc 0.851 Val Acc 0.8272 Best Val Acc 0.833
+	Epoch 338/750 L2X defence Loss 0.3703 Primary task Training Acc 0.851 Val Acc 0.8247 Best Val Acc 0.833
+	Epoch 339/750 L2X defence Loss 0.3714 Primary task Training Acc 0.849 Val Acc 0.8258 Best Val Acc 0.833
+	Epoch 340/750 L2X defence Loss 0.3702 Primary task Training Acc 0.850 Val Acc 0.8219 Best Val Acc 0.833
+	Epoch 341/750 L2X defence Loss 0.3711 Primary task Training Acc 0.850 Val Acc 0.8245 Best Val Acc 0.833
+	Epoch 342/750 L2X defence Loss 0.3729 Primary task Training Acc 0.850 Val Acc 0.8258 Best Val Acc 0.833
+	Epoch 343/750 L2X defence Loss 0.3737 Primary task Training Acc 0.848 Val Acc 0.8297 Best Val Acc 0.833
+	Epoch 344/750 L2X defence Loss 0.3705 Primary task Training Acc 0.851 Val Acc 0.8268 Best Val Acc 0.833
+	Epoch 345/750 L2X defence Loss 0.3722 Primary task Training Acc 0.850 Val Acc 0.8272 Best Val Acc 0.833
+	Epoch 346/750 L2X defence Loss 0.3693 Primary task Training Acc 0.850 Val Acc 0.8286 Best Val Acc 0.833
+	Epoch 347/750 L2X defence Loss 0.3714 Primary task Training Acc 0.850 Val Acc 0.8279 Best Val Acc 0.833
+	Epoch 348/750 L2X defence Loss 0.3700 Primary task Training Acc 0.852 Val Acc 0.8293 Best Val Acc 0.833
+	Epoch 349/750 L2X defence Loss 0.3704 Primary task Training Acc 0.852 Val Acc 0.8249 Best Val Acc 0.833
+	Epoch 350/750 L2X defence Loss 0.3713 Primary task Training Acc 0.852 Val Acc 0.8295 Best Val Acc 0.833
+	Epoch 351/750 L2X defence Loss 0.3701 Primary task Training Acc 0.851 Val Acc 0.8258 Best Val Acc 0.833
+	Epoch 352/750 L2X defence Loss 0.3708 Primary task Training Acc 0.849 Val Acc 0.8316 Best Val Acc 0.833
+	Epoch 353/750 L2X defence Loss 0.3716 Primary task Training Acc 0.849 Val Acc 0.8292 Best Val Acc 0.833
+	Epoch 354/750 L2X defence Loss 0.3705 Primary task Training Acc 0.850 Val Acc 0.8249 Best Val Acc 0.833
+	Epoch 355/750 L2X defence Loss 0.3695 Primary task Training Acc 0.852 Val Acc 0.8233 Best Val Acc 0.833
+	Epoch 356/750 L2X defence Loss 0.3702 Primary task Training Acc 0.851 Val Acc 0.8298 Best Val Acc 0.833
+	Epoch 357/750 L2X defence Loss 0.3693 Primary task Training Acc 0.853 Val Acc 0.8249 Best Val Acc 0.833
+	Epoch 358/750 L2X defence Loss 0.3691 Primary task Training Acc 0.853 Val Acc 0.8279 Best Val Acc 0.833
+	Epoch 359/750 L2X defence Loss 0.3703 Primary task Training Acc 0.849 Val Acc 0.8276 Best Val Acc 0.833
+	Epoch 360/750 L2X defence Loss 0.3711 Primary task Training Acc 0.850 Val Acc 0.8272 Best Val Acc 0.833
+	Epoch 361/750 L2X defence Loss 0.3701 Primary task Training Acc 0.851 Val Acc 0.8297 Best Val Acc 0.833
+	Epoch 362/750 L2X defence Loss 0.3668 Primary task Training Acc 0.852 Val Acc 0.8295 Best Val Acc 0.833
+	Epoch 363/750 L2X defence Loss 0.3689 Primary task Training Acc 0.851 Val Acc 0.8276 Best Val Acc 0.833
+	Epoch 364/750 L2X defence Loss 0.3693 Primary task Training Acc 0.852 Val Acc 0.8238 Best Val Acc 0.833
+	Epoch 365/750 L2X defence Loss 0.3701 Primary task Training Acc 0.851 Val Acc 0.8258 Best Val Acc 0.833
+Weight saved in Weights/SERE/ckpt-20 Weights/CL/ckpt-20
+	Epoch 366/750 L2X defence Loss 0.3686 Primary task Training Acc 0.851 Val Acc 0.8336 Best Val Acc 0.834
+	Epoch 367/750 L2X defence Loss 0.3673 Primary task Training Acc 0.852 Val Acc 0.8244 Best Val Acc 0.834
+	Epoch 368/750 L2X defence Loss 0.3703 Primary task Training Acc 0.849 Val Acc 0.8261 Best Val Acc 0.834
+	Epoch 369/750 L2X defence Loss 0.3685 Primary task Training Acc 0.851 Val Acc 0.8272 Best Val Acc 0.834
+	Epoch 370/750 L2X defence Loss 0.3697 Primary task Training Acc 0.852 Val Acc 0.8265 Best Val Acc 0.834
+	Epoch 371/750 L2X defence Loss 0.3681 Primary task Training Acc 0.852 Val Acc 0.8286 Best Val Acc 0.834
+	Epoch 372/750 L2X defence Loss 0.3674 Primary task Training Acc 0.852 Val Acc 0.8299 Best Val Acc 0.834
+	Epoch 373/750 L2X defence Loss 0.3691 Primary task Training Acc 0.852 Val Acc 0.8254 Best Val Acc 0.834
+	Epoch 374/750 L2X defence Loss 0.3678 Primary task Training Acc 0.852 Val Acc 0.8290 Best Val Acc 0.834
+	Epoch 375/750 L2X defence Loss 0.3690 Primary task Training Acc 0.851 Val Acc 0.8288 Best Val Acc 0.834
+	Epoch 376/750 L2X defence Loss 0.3685 Primary task Training Acc 0.852 Val Acc 0.8265 Best Val Acc 0.834
+	Epoch 377/750 L2X defence Loss 0.3653 Primary task Training Acc 0.853 Val Acc 0.8308 Best Val Acc 0.834
+	Epoch 378/750 L2X defence Loss 0.3674 Primary task Training Acc 0.852 Val Acc 0.8210 Best Val Acc 0.834
+	Epoch 379/750 L2X defence Loss 0.3672 Primary task Training Acc 0.853 Val Acc 0.8297 Best Val Acc 0.834
+	Epoch 380/750 L2X defence Loss 0.3682 Primary task Training Acc 0.851 Val Acc 0.8283 Best Val Acc 0.834
+	Epoch 381/750 L2X defence Loss 0.3678 Primary task Training Acc 0.852 Val Acc 0.8277 Best Val Acc 0.834
+	Epoch 382/750 L2X defence Loss 0.3668 Primary task Training Acc 0.851 Val Acc 0.8252 Best Val Acc 0.834
+	Epoch 383/750 L2X defence Loss 0.3650 Primary task Training Acc 0.852 Val Acc 0.8261 Best Val Acc 0.834
+	Epoch 384/750 L2X defence Loss 0.3671 Primary task Training Acc 0.853 Val Acc 0.8281 Best Val Acc 0.834
+	Epoch 385/750 L2X defence Loss 0.3670 Primary task Training Acc 0.853 Val Acc 0.8293 Best Val Acc 0.834
+	Epoch 386/750 L2X defence Loss 0.3681 Primary task Training Acc 0.853 Val Acc 0.8297 Best Val Acc 0.834
+	Epoch 387/750 L2X defence Loss 0.3676 Primary task Training Acc 0.852 Val Acc 0.8247 Best Val Acc 0.834
+	Epoch 388/750 L2X defence Loss 0.3681 Primary task Training Acc 0.851 Val Acc 0.8291 Best Val Acc 0.834
+	Epoch 389/750 L2X defence Loss 0.3674 Primary task Training Acc 0.852 Val Acc 0.8265 Best Val Acc 0.834
+	Epoch 390/750 L2X defence Loss 0.3663 Primary task Training Acc 0.852 Val Acc 0.8290 Best Val Acc 0.834
+	Epoch 391/750 L2X defence Loss 0.3667 Primary task Training Acc 0.852 Val Acc 0.8265 Best Val Acc 0.834
+	Epoch 392/750 L2X defence Loss 0.3667 Primary task Training Acc 0.853 Val Acc 0.8279 Best Val Acc 0.834
+	Epoch 393/750 L2X defence Loss 0.3670 Primary task Training Acc 0.854 Val Acc 0.8290 Best Val Acc 0.834
+	Epoch 394/750 L2X defence Loss 0.3664 Primary task Training Acc 0.852 Val Acc 0.8254 Best Val Acc 0.834
+	Epoch 395/750 L2X defence Loss 0.3659 Primary task Training Acc 0.853 Val Acc 0.8299 Best Val Acc 0.834
+	Epoch 396/750 L2X defence Loss 0.3662 Primary task Training Acc 0.853 Val Acc 0.8288 Best Val Acc 0.834
+	Epoch 397/750 L2X defence Loss 0.3692 Primary task Training Acc 0.852 Val Acc 0.8288 Best Val Acc 0.834
+	Epoch 398/750 L2X defence Loss 0.3651 Primary task Training Acc 0.852 Val Acc 0.8304 Best Val Acc 0.834
+	Epoch 399/750 L2X defence Loss 0.3665 Primary task Training Acc 0.852 Val Acc 0.8265 Best Val Acc 0.834
+	Epoch 400/750 L2X defence Loss 0.3658 Primary task Training Acc 0.852 Val Acc 0.8290 Best Val Acc 0.834
+	Epoch 401/750 L2X defence Loss 0.3662 Primary task Training Acc 0.852 Val Acc 0.8265 Best Val Acc 0.834
+	Epoch 402/750 L2X defence Loss 0.3669 Primary task Training Acc 0.852 Val Acc 0.8290 Best Val Acc 0.834
+	Epoch 403/750 L2X defence Loss 0.3642 Primary task Training Acc 0.852 Val Acc 0.8288 Best Val Acc 0.834
+	Epoch 404/750 L2X defence Loss 0.3649 Primary task Training Acc 0.852 Val Acc 0.8306 Best Val Acc 0.834
+	Epoch 405/750 L2X defence Loss 0.3646 Primary task Training Acc 0.852 Val Acc 0.8295 Best Val Acc 0.834
+	Epoch 406/750 L2X defence Loss 0.3659 Primary task Training Acc 0.851 Val Acc 0.8267 Best Val Acc 0.834
+	Epoch 407/750 L2X defence Loss 0.3648 Primary task Training Acc 0.854 Val Acc 0.8276 Best Val Acc 0.834
+	Epoch 408/750 L2X defence Loss 0.3656 Primary task Training Acc 0.854 Val Acc 0.8275 Best Val Acc 0.834
+	Epoch 409/750 L2X defence Loss 0.3644 Primary task Training Acc 0.853 Val Acc 0.8228 Best Val Acc 0.834
+	Epoch 410/750 L2X defence Loss 0.3664 Primary task Training Acc 0.851 Val Acc 0.8261 Best Val Acc 0.834
+	Epoch 411/750 L2X defence Loss 0.3645 Primary task Training Acc 0.854 Val Acc 0.8249 Best Val Acc 0.834
+	Epoch 412/750 L2X defence Loss 0.3662 Primary task Training Acc 0.853 Val Acc 0.8242 Best Val Acc 0.834
+	Epoch 413/750 L2X defence Loss 0.3644 Primary task Training Acc 0.853 Val Acc 0.8235 Best Val Acc 0.834
+	Epoch 414/750 L2X defence Loss 0.3651 Primary task Training Acc 0.855 Val Acc 0.8247 Best Val Acc 0.834
+	Epoch 415/750 L2X defence Loss 0.3653 Primary task Training Acc 0.854 Val Acc 0.8286 Best Val Acc 0.834
+	Epoch 416/750 L2X defence Loss 0.3630 Primary task Training Acc 0.854 Val Acc 0.8295 Best Val Acc 0.834
+	Epoch 417/750 L2X defence Loss 0.3643 Primary task Training Acc 0.853 Val Acc 0.8247 Best Val Acc 0.834
+	Epoch 418/750 L2X defence Loss 0.3646 Primary task Training Acc 0.854 Val Acc 0.8288 Best Val Acc 0.834
+	Epoch 419/750 L2X defence Loss 0.3632 Primary task Training Acc 0.854 Val Acc 0.8222 Best Val Acc 0.834
+	Epoch 420/750 L2X defence Loss 0.3639 Primary task Training Acc 0.853 Val Acc 0.8210 Best Val Acc 0.834
+	Epoch 421/750 L2X defence Loss 0.3661 Primary task Training Acc 0.853 Val Acc 0.8263 Best Val Acc 0.834
+	Epoch 422/750 L2X defence Loss 0.3644 Primary task Training Acc 0.852 Val Acc 0.8308 Best Val Acc 0.834
+	Epoch 423/750 L2X defence Loss 0.3630 Primary task Training Acc 0.855 Val Acc 0.8252 Best Val Acc 0.834
+	Epoch 424/750 L2X defence Loss 0.3617 Primary task Training Acc 0.854 Val Acc 0.8263 Best Val Acc 0.834
+	Epoch 425/750 L2X defence Loss 0.3630 Primary task Training Acc 0.855 Val Acc 0.8297 Best Val Acc 0.834
+	Epoch 426/750 L2X defence Loss 0.3655 Primary task Training Acc 0.854 Val Acc 0.8229 Best Val Acc 0.834
+	Epoch 427/750 L2X defence Loss 0.3643 Primary task Training Acc 0.854 Val Acc 0.8304 Best Val Acc 0.834
+	Epoch 428/750 L2X defence Loss 0.3636 Primary task Training Acc 0.855 Val Acc 0.8249 Best Val Acc 0.834
+	Epoch 429/750 L2X defence Loss 0.3648 Primary task Training Acc 0.852 Val Acc 0.8219 Best Val Acc 0.834
+	Epoch 430/750 L2X defence Loss 0.3626 Primary task Training Acc 0.854 Val Acc 0.8235 Best Val Acc 0.834
+	Epoch 431/750 L2X defence Loss 0.3611 Primary task Training Acc 0.853 Val Acc 0.8297 Best Val Acc 0.834
+	Epoch 432/750 L2X defence Loss 0.3647 Primary task Training Acc 0.856 Val Acc 0.8242 Best Val Acc 0.834
+	Epoch 433/750 L2X defence Loss 0.3626 Primary task Training Acc 0.854 Val Acc 0.8300 Best Val Acc 0.834
+	Epoch 434/750 L2X defence Loss 0.3614 Primary task Training Acc 0.853 Val Acc 0.8272 Best Val Acc 0.834
+	Epoch 435/750 L2X defence Loss 0.3630 Primary task Training Acc 0.854 Val Acc 0.8233 Best Val Acc 0.834
+	Epoch 436/750 L2X defence Loss 0.3647 Primary task Training Acc 0.853 Val Acc 0.8284 Best Val Acc 0.834
+	Epoch 437/750 L2X defence Loss 0.3616 Primary task Training Acc 0.853 Val Acc 0.8247 Best Val Acc 0.834
+	Epoch 438/750 L2X defence Loss 0.3609 Primary task Training Acc 0.855 Val Acc 0.8276 Best Val Acc 0.834
+	Epoch 439/750 L2X defence Loss 0.3614 Primary task Training Acc 0.854 Val Acc 0.8258 Best Val Acc 0.834
+	Epoch 440/750 L2X defence Loss 0.3623 Primary task Training Acc 0.856 Val Acc 0.8286 Best Val Acc 0.834
+	Epoch 441/750 L2X defence Loss 0.3628 Primary task Training Acc 0.853 Val Acc 0.8281 Best Val Acc 0.834
+	Epoch 442/750 L2X defence Loss 0.3623 Primary task Training Acc 0.857 Val Acc 0.8251 Best Val Acc 0.834
+	Epoch 443/750 L2X defence Loss 0.3649 Primary task Training Acc 0.853 Val Acc 0.8293 Best Val Acc 0.834
+	Epoch 444/750 L2X defence Loss 0.3605 Primary task Training Acc 0.855 Val Acc 0.8290 Best Val Acc 0.834
+	Epoch 445/750 L2X defence Loss 0.3628 Primary task Training Acc 0.853 Val Acc 0.8285 Best Val Acc 0.834
+	Epoch 446/750 L2X defence Loss 0.3617 Primary task Training Acc 0.854 Val Acc 0.8256 Best Val Acc 0.834
+	Epoch 447/750 L2X defence Loss 0.3619 Primary task Training Acc 0.854 Val Acc 0.8304 Best Val Acc 0.834
+	Epoch 448/750 L2X defence Loss 0.3601 Primary task Training Acc 0.856 Val Acc 0.8240 Best Val Acc 0.834
+	Epoch 449/750 L2X defence Loss 0.3604 Primary task Training Acc 0.855 Val Acc 0.8254 Best Val Acc 0.834
+	Epoch 450/750 L2X defence Loss 0.3608 Primary task Training Acc 0.854 Val Acc 0.8272 Best Val Acc 0.834
+	Epoch 451/750 L2X defence Loss 0.3601 Primary task Training Acc 0.855 Val Acc 0.8302 Best Val Acc 0.834
+	Epoch 452/750 L2X defence Loss 0.3594 Primary task Training Acc 0.856 Val Acc 0.8272 Best Val Acc 0.834
+	Epoch 453/750 L2X defence Loss 0.3613 Primary task Training Acc 0.857 Val Acc 0.8274 Best Val Acc 0.834
+	Epoch 454/750 L2X defence Loss 0.3607 Primary task Training Acc 0.856 Val Acc 0.8272 Best Val Acc 0.834
+	Epoch 455/750 L2X defence Loss 0.3616 Primary task Training Acc 0.854 Val Acc 0.8288 Best Val Acc 0.834
+	Epoch 456/750 L2X defence Loss 0.3604 Primary task Training Acc 0.855 Val Acc 0.8265 Best Val Acc 0.834
+	Epoch 457/750 L2X defence Loss 0.3591 Primary task Training Acc 0.856 Val Acc 0.8290 Best Val Acc 0.834
+	Epoch 458/750 L2X defence Loss 0.3611 Primary task Training Acc 0.855 Val Acc 0.8281 Best Val Acc 0.834
+	Epoch 459/750 L2X defence Loss 0.3581 Primary task Training Acc 0.857 Val Acc 0.8293 Best Val Acc 0.834
+	Epoch 460/750 L2X defence Loss 0.3613 Primary task Training Acc 0.854 Val Acc 0.8263 Best Val Acc 0.834
+	Epoch 461/750 L2X defence Loss 0.3597 Primary task Training Acc 0.856 Val Acc 0.8263 Best Val Acc 0.834
+	Epoch 462/750 L2X defence Loss 0.3597 Primary task Training Acc 0.856 Val Acc 0.8220 Best Val Acc 0.834
+	Epoch 463/750 L2X defence Loss 0.3619 Primary task Training Acc 0.854 Val Acc 0.8261 Best Val Acc 0.834
+	Epoch 464/750 L2X defence Loss 0.3595 Primary task Training Acc 0.856 Val Acc 0.8283 Best Val Acc 0.834
+	Epoch 465/750 L2X defence Loss 0.3592 Primary task Training Acc 0.856 Val Acc 0.8286 Best Val Acc 0.834
+	Epoch 466/750 L2X defence Loss 0.3600 Primary task Training Acc 0.856 Val Acc 0.8242 Best Val Acc 0.834
+	Epoch 467/750 L2X defence Loss 0.3602 Primary task Training Acc 0.855 Val Acc 0.8311 Best Val Acc 0.834
+	Epoch 468/750 L2X defence Loss 0.3617 Primary task Training Acc 0.855 Val Acc 0.8233 Best Val Acc 0.834
+	Epoch 469/750 L2X defence Loss 0.3574 Primary task Training Acc 0.856 Val Acc 0.8270 Best Val Acc 0.834
+	Epoch 470/750 L2X defence Loss 0.3575 Primary task Training Acc 0.858 Val Acc 0.8256 Best Val Acc 0.834
+	Epoch 471/750 L2X defence Loss 0.3584 Primary task Training Acc 0.854 Val Acc 0.8275 Best Val Acc 0.834
+	Epoch 472/750 L2X defence Loss 0.3579 Primary task Training Acc 0.858 Val Acc 0.8260 Best Val Acc 0.834
+	Epoch 473/750 L2X defence Loss 0.3597 Primary task Training Acc 0.855 Val Acc 0.8238 Best Val Acc 0.834
+	Epoch 474/750 L2X defence Loss 0.3606 Primary task Training Acc 0.856 Val Acc 0.8233 Best Val Acc 0.834
+	Epoch 475/750 L2X defence Loss 0.3609 Primary task Training Acc 0.855 Val Acc 0.8288 Best Val Acc 0.834
+	Epoch 476/750 L2X defence Loss 0.3584 Primary task Training Acc 0.856 Val Acc 0.8240 Best Val Acc 0.834
+	Epoch 477/750 L2X defence Loss 0.3600 Primary task Training Acc 0.855 Val Acc 0.8304 Best Val Acc 0.834
+	Epoch 478/750 L2X defence Loss 0.3600 Primary task Training Acc 0.857 Val Acc 0.8245 Best Val Acc 0.834
+	Epoch 479/750 L2X defence Loss 0.3592 Primary task Training Acc 0.857 Val Acc 0.8251 Best Val Acc 0.834
+	Epoch 480/750 L2X defence Loss 0.3592 Primary task Training Acc 0.855 Val Acc 0.8277 Best Val Acc 0.834
+	Epoch 481/750 L2X defence Loss 0.3585 Primary task Training Acc 0.853 Val Acc 0.8244 Best Val Acc 0.834
+	Epoch 482/750 L2X defence Loss 0.3564 Primary task Training Acc 0.857 Val Acc 0.8256 Best Val Acc 0.834
+	Epoch 483/750 L2X defence Loss 0.3583 Primary task Training Acc 0.857 Val Acc 0.8267 Best Val Acc 0.834
+	Epoch 484/750 L2X defence Loss 0.3580 Primary task Training Acc 0.857 Val Acc 0.8251 Best Val Acc 0.834
+	Epoch 485/750 L2X defence Loss 0.3575 Primary task Training Acc 0.857 Val Acc 0.8242 Best Val Acc 0.834
+	Epoch 486/750 L2X defence Loss 0.3573 Primary task Training Acc 0.856 Val Acc 0.8281 Best Val Acc 0.834
+	Epoch 487/750 L2X defence Loss 0.3558 Primary task Training Acc 0.857 Val Acc 0.8263 Best Val Acc 0.834
+	Epoch 488/750 L2X defence Loss 0.3564 Primary task Training Acc 0.857 Val Acc 0.8297 Best Val Acc 0.834
+	Epoch 489/750 L2X defence Loss 0.3582 Primary task Training Acc 0.855 Val Acc 0.8249 Best Val Acc 0.834
+	Epoch 490/750 L2X defence Loss 0.3578 Primary task Training Acc 0.857 Val Acc 0.8311 Best Val Acc 0.834
+	Epoch 491/750 L2X defence Loss 0.3568 Primary task Training Acc 0.856 Val Acc 0.8288 Best Val Acc 0.834
+	Epoch 492/750 L2X defence Loss 0.3579 Primary task Training Acc 0.857 Val Acc 0.8274 Best Val Acc 0.834
+	Epoch 493/750 L2X defence Loss 0.3586 Primary task Training Acc 0.857 Val Acc 0.8288 Best Val Acc 0.834
+	Epoch 494/750 L2X defence Loss 0.3571 Primary task Training Acc 0.858 Val Acc 0.8306 Best Val Acc 0.834
+	Epoch 495/750 L2X defence Loss 0.3588 Primary task Training Acc 0.855 Val Acc 0.8298 Best Val Acc 0.834
+	Epoch 496/750 L2X defence Loss 0.3566 Primary task Training Acc 0.855 Val Acc 0.8261 Best Val Acc 0.834
+	Epoch 497/750 L2X defence Loss 0.3594 Primary task Training Acc 0.857 Val Acc 0.8228 Best Val Acc 0.834
+	Epoch 498/750 L2X defence Loss 0.3569 Primary task Training Acc 0.859 Val Acc 0.8244 Best Val Acc 0.834
+	Epoch 499/750 L2X defence Loss 0.3562 Primary task Training Acc 0.857 Val Acc 0.8270 Best Val Acc 0.834
+	Epoch 500/750 L2X defence Loss 0.3559 Primary task Training Acc 0.858 Val Acc 0.8275 Best Val Acc 0.834
+	Epoch 501/750 L2X defence Loss 0.3548 Primary task Training Acc 0.857 Val Acc 0.8222 Best Val Acc 0.834
+	Epoch 502/750 L2X defence Loss 0.3561 Primary task Training Acc 0.859 Val Acc 0.8267 Best Val Acc 0.834
+	Epoch 503/750 L2X defence Loss 0.3576 Primary task Training Acc 0.856 Val Acc 0.8242 Best Val Acc 0.834
+	Epoch 504/750 L2X defence Loss 0.3558 Primary task Training Acc 0.857 Val Acc 0.8284 Best Val Acc 0.834
+	Epoch 505/750 L2X defence Loss 0.3570 Primary task Training Acc 0.857 Val Acc 0.8286 Best Val Acc 0.834
+	Epoch 506/750 L2X defence Loss 0.3559 Primary task Training Acc 0.858 Val Acc 0.8254 Best Val Acc 0.834
+	Epoch 507/750 L2X defence Loss 0.3564 Primary task Training Acc 0.857 Val Acc 0.8291 Best Val Acc 0.834
+	Epoch 508/750 L2X defence Loss 0.3586 Primary task Training Acc 0.858 Val Acc 0.8283 Best Val Acc 0.834
+	Epoch 509/750 L2X defence Loss 0.3569 Primary task Training Acc 0.858 Val Acc 0.8281 Best Val Acc 0.834
+	Epoch 510/750 L2X defence Loss 0.3590 Primary task Training Acc 0.856 Val Acc 0.8247 Best Val Acc 0.834
+	Epoch 511/750 L2X defence Loss 0.3584 Primary task Training Acc 0.855 Val Acc 0.8247 Best Val Acc 0.834
+	Epoch 512/750 L2X defence Loss 0.3569 Primary task Training Acc 0.858 Val Acc 0.8238 Best Val Acc 0.834
+	Epoch 513/750 L2X defence Loss 0.3536 Primary task Training Acc 0.860 Val Acc 0.8263 Best Val Acc 0.834
+	Epoch 514/750 L2X defence Loss 0.3549 Primary task Training Acc 0.858 Val Acc 0.8272 Best Val Acc 0.834
+	Epoch 515/750 L2X defence Loss 0.3559 Primary task Training Acc 0.858 Val Acc 0.8299 Best Val Acc 0.834
+	Epoch 516/750 L2X defence Loss 0.3577 Primary task Training Acc 0.855 Val Acc 0.8265 Best Val Acc 0.834
+	Epoch 517/750 L2X defence Loss 0.3579 Primary task Training Acc 0.857 Val Acc 0.8254 Best Val Acc 0.834
+	Epoch 518/750 L2X defence Loss 0.3537 Primary task Training Acc 0.859 Val Acc 0.8187 Best Val Acc 0.834
+	Epoch 519/750 L2X defence Loss 0.3544 Primary task Training Acc 0.858 Val Acc 0.8226 Best Val Acc 0.834
+	Epoch 520/750 L2X defence Loss 0.3586 Primary task Training Acc 0.856 Val Acc 0.8247 Best Val Acc 0.834
+	Epoch 521/750 L2X defence Loss 0.3557 Primary task Training Acc 0.859 Val Acc 0.8240 Best Val Acc 0.834
+	Epoch 522/750 L2X defence Loss 0.3547 Primary task Training Acc 0.858 Val Acc 0.8288 Best Val Acc 0.834
+	Epoch 523/750 L2X defence Loss 0.3567 Primary task Training Acc 0.857 Val Acc 0.8293 Best Val Acc 0.834
+	Epoch 524/750 L2X defence Loss 0.3562 Primary task Training Acc 0.859 Val Acc 0.8226 Best Val Acc 0.834
+	Epoch 525/750 L2X defence Loss 0.3542 Primary task Training Acc 0.859 Val Acc 0.8279 Best Val Acc 0.834
+	Epoch 526/750 L2X defence Loss 0.3545 Primary task Training Acc 0.857 Val Acc 0.8256 Best Val Acc 0.834
+	Epoch 527/750 L2X defence Loss 0.3559 Primary task Training Acc 0.857 Val Acc 0.8212 Best Val Acc 0.834
+	Epoch 528/750 L2X defence Loss 0.3555 Primary task Training Acc 0.857 Val Acc 0.8198 Best Val Acc 0.834
+	Epoch 529/750 L2X defence Loss 0.3561 Primary task Training Acc 0.857 Val Acc 0.8286 Best Val Acc 0.834
+	Epoch 530/750 L2X defence Loss 0.3551 Primary task Training Acc 0.857 Val Acc 0.8265 Best Val Acc 0.834
+	Epoch 531/750 L2X defence Loss 0.3565 Primary task Training Acc 0.858 Val Acc 0.8270 Best Val Acc 0.834
+	Epoch 532/750 L2X defence Loss 0.3558 Primary task Training Acc 0.859 Val Acc 0.8283 Best Val Acc 0.834
+	Epoch 533/750 L2X defence Loss 0.3546 Primary task Training Acc 0.858 Val Acc 0.8249 Best Val Acc 0.834
+	Epoch 534/750 L2X defence Loss 0.3555 Primary task Training Acc 0.858 Val Acc 0.8244 Best Val Acc 0.834
+	Epoch 535/750 L2X defence Loss 0.3552 Primary task Training Acc 0.859 Val Acc 0.8270 Best Val Acc 0.834
+	Epoch 536/750 L2X defence Loss 0.3557 Primary task Training Acc 0.858 Val Acc 0.8231 Best Val Acc 0.834
+	Epoch 537/750 L2X defence Loss 0.3553 Primary task Training Acc 0.858 Val Acc 0.8276 Best Val Acc 0.834
+	Epoch 538/750 L2X defence Loss 0.3538 Primary task Training Acc 0.858 Val Acc 0.8277 Best Val Acc 0.834
+	Epoch 539/750 L2X defence Loss 0.3549 Primary task Training Acc 0.858 Val Acc 0.8231 Best Val Acc 0.834
+	Epoch 540/750 L2X defence Loss 0.3548 Primary task Training Acc 0.859 Val Acc 0.8292 Best Val Acc 0.834
+	Epoch 541/750 L2X defence Loss 0.3561 Primary task Training Acc 0.858 Val Acc 0.8260 Best Val Acc 0.834
+	Epoch 542/750 L2X defence Loss 0.3526 Primary task Training Acc 0.859 Val Acc 0.8263 Best Val Acc 0.834
+	Epoch 543/750 L2X defence Loss 0.3547 Primary task Training Acc 0.857 Val Acc 0.8256 Best Val Acc 0.834
+	Epoch 544/750 L2X defence Loss 0.3551 Primary task Training Acc 0.856 Val Acc 0.8263 Best Val Acc 0.834
+	Epoch 545/750 L2X defence Loss 0.3523 Primary task Training Acc 0.860 Val Acc 0.8253 Best Val Acc 0.834
+	Epoch 546/750 L2X defence Loss 0.3559 Primary task Training Acc 0.857 Val Acc 0.8279 Best Val Acc 0.834
+	Epoch 547/750 L2X defence Loss 0.3550 Primary task Training Acc 0.857 Val Acc 0.8263 Best Val Acc 0.834
+	Epoch 548/750 L2X defence Loss 0.3547 Primary task Training Acc 0.858 Val Acc 0.8302 Best Val Acc 0.834
+	Epoch 549/750 L2X defence Loss 0.3549 Primary task Training Acc 0.857 Val Acc 0.8251 Best Val Acc 0.834
+	Epoch 550/750 L2X defence Loss 0.3523 Primary task Training Acc 0.859 Val Acc 0.8226 Best Val Acc 0.834
+	Epoch 551/750 L2X defence Loss 0.3549 Primary task Training Acc 0.858 Val Acc 0.8244 Best Val Acc 0.834
+	Epoch 552/750 L2X defence Loss 0.3527 Primary task Training Acc 0.859 Val Acc 0.8267 Best Val Acc 0.834
+	Epoch 553/750 L2X defence Loss 0.3561 Primary task Training Acc 0.857 Val Acc 0.8290 Best Val Acc 0.834
+	Epoch 554/750 L2X defence Loss 0.3528 Primary task Training Acc 0.859 Val Acc 0.8276 Best Val Acc 0.834
+	Epoch 555/750 L2X defence Loss 0.3539 Primary task Training Acc 0.859 Val Acc 0.8222 Best Val Acc 0.834
+	Epoch 556/750 L2X defence Loss 0.3540 Primary task Training Acc 0.859 Val Acc 0.8187 Best Val Acc 0.834
+	Epoch 557/750 L2X defence Loss 0.3540 Primary task Training Acc 0.860 Val Acc 0.8285 Best Val Acc 0.834
+	Epoch 558/750 L2X defence Loss 0.3529 Primary task Training Acc 0.861 Val Acc 0.8295 Best Val Acc 0.834
+	Epoch 559/750 L2X defence Loss 0.3532 Primary task Training Acc 0.858 Val Acc 0.8235 Best Val Acc 0.834
+	Epoch 560/750 L2X defence Loss 0.3521 Primary task Training Acc 0.859 Val Acc 0.8212 Best Val Acc 0.834
+	Epoch 561/750 L2X defence Loss 0.3540 Primary task Training Acc 0.859 Val Acc 0.8283 Best Val Acc 0.834
+	Epoch 562/750 L2X defence Loss 0.3561 Primary task Training Acc 0.857 Val Acc 0.8258 Best Val Acc 0.834
+	Epoch 563/750 L2X defence Loss 0.3517 Primary task Training Acc 0.861 Val Acc 0.8203 Best Val Acc 0.834
+	Epoch 564/750 L2X defence Loss 0.3518 Primary task Training Acc 0.860 Val Acc 0.8260 Best Val Acc 0.834
+	Epoch 565/750 L2X defence Loss 0.3541 Primary task Training Acc 0.857 Val Acc 0.8313 Best Val Acc 0.834
+	Epoch 566/750 L2X defence Loss 0.3514 Primary task Training Acc 0.860 Val Acc 0.8270 Best Val Acc 0.834
+	Epoch 567/750 L2X defence Loss 0.3532 Primary task Training Acc 0.857 Val Acc 0.8251 Best Val Acc 0.834
+	Epoch 568/750 L2X defence Loss 0.3512 Primary task Training Acc 0.860 Val Acc 0.8301 Best Val Acc 0.834
+	Epoch 569/750 L2X defence Loss 0.3529 Primary task Training Acc 0.861 Val Acc 0.8256 Best Val Acc 0.834
+	Epoch 570/750 L2X defence Loss 0.3503 Primary task Training Acc 0.861 Val Acc 0.8251 Best Val Acc 0.834
+	Epoch 571/750 L2X defence Loss 0.3523 Primary task Training Acc 0.859 Val Acc 0.8255 Best Val Acc 0.834
+	Epoch 572/750 L2X defence Loss 0.3511 Primary task Training Acc 0.860 Val Acc 0.8249 Best Val Acc 0.834
+	Epoch 573/750 L2X defence Loss 0.3519 Primary task Training Acc 0.860 Val Acc 0.8285 Best Val Acc 0.834
+	Epoch 574/750 L2X defence Loss 0.3520 Primary task Training Acc 0.858 Val Acc 0.8242 Best Val Acc 0.834
+	Epoch 575/750 L2X defence Loss 0.3524 Primary task Training Acc 0.859 Val Acc 0.8197 Best Val Acc 0.834
+	Epoch 576/750 L2X defence Loss 0.3509 Primary task Training Acc 0.861 Val Acc 0.8222 Best Val Acc 0.834
+	Epoch 577/750 L2X defence Loss 0.3517 Primary task Training Acc 0.859 Val Acc 0.8242 Best Val Acc 0.834
+	Epoch 578/750 L2X defence Loss 0.3512 Primary task Training Acc 0.859 Val Acc 0.8246 Best Val Acc 0.834
+	Epoch 579/750 L2X defence Loss 0.3511 Primary task Training Acc 0.860 Val Acc 0.8247 Best Val Acc 0.834
+	Epoch 580/750 L2X defence Loss 0.3509 Primary task Training Acc 0.860 Val Acc 0.8272 Best Val Acc 0.834
+	Epoch 581/750 L2X defence Loss 0.3528 Primary task Training Acc 0.860 Val Acc 0.8256 Best Val Acc 0.834
+	Epoch 582/750 L2X defence Loss 0.3511 Primary task Training Acc 0.859 Val Acc 0.8244 Best Val Acc 0.834
+	Epoch 583/750 L2X defence Loss 0.3524 Primary task Training Acc 0.858 Val Acc 0.8272 Best Val Acc 0.834
+	Epoch 584/750 L2X defence Loss 0.3532 Primary task Training Acc 0.858 Val Acc 0.8256 Best Val Acc 0.834
+	Epoch 585/750 L2X defence Loss 0.3505 Primary task Training Acc 0.861 Val Acc 0.8189 Best Val Acc 0.834
+	Epoch 586/750 L2X defence Loss 0.3525 Primary task Training Acc 0.860 Val Acc 0.8256 Best Val Acc 0.834
+	Epoch 587/750 L2X defence Loss 0.3512 Primary task Training Acc 0.859 Val Acc 0.8240 Best Val Acc 0.834
+	Epoch 588/750 L2X defence Loss 0.3511 Primary task Training Acc 0.860 Val Acc 0.8208 Best Val Acc 0.834
+	Epoch 589/750 L2X defence Loss 0.3525 Primary task Training Acc 0.858 Val Acc 0.8237 Best Val Acc 0.834
+	Epoch 590/750 L2X defence Loss 0.3506 Primary task Training Acc 0.860 Val Acc 0.8249 Best Val Acc 0.834
+	Epoch 591/750 L2X defence Loss 0.3523 Primary task Training Acc 0.859 Val Acc 0.8302 Best Val Acc 0.834
+	Epoch 592/750 L2X defence Loss 0.3509 Primary task Training Acc 0.859 Val Acc 0.8247 Best Val Acc 0.834
+	Epoch 593/750 L2X defence Loss 0.3510 Primary task Training Acc 0.861 Val Acc 0.8253 Best Val Acc 0.834
+	Epoch 594/750 L2X defence Loss 0.3515 Primary task Training Acc 0.860 Val Acc 0.8230 Best Val Acc 0.834
+	Epoch 595/750 L2X defence Loss 0.3523 Primary task Training Acc 0.859 Val Acc 0.8228 Best Val Acc 0.834
+	Epoch 596/750 L2X defence Loss 0.3516 Primary task Training Acc 0.860 Val Acc 0.8256 Best Val Acc 0.834
+	Epoch 597/750 L2X defence Loss 0.3499 Primary task Training Acc 0.861 Val Acc 0.8256 Best Val Acc 0.834
+	Epoch 598/750 L2X defence Loss 0.3502 Primary task Training Acc 0.860 Val Acc 0.8288 Best Val Acc 0.834
+	Epoch 599/750 L2X defence Loss 0.3502 Primary task Training Acc 0.862 Val Acc 0.8233 Best Val Acc 0.834
+	Epoch 600/750 L2X defence Loss 0.3492 Primary task Training Acc 0.861 Val Acc 0.8267 Best Val Acc 0.834
+	Epoch 601/750 L2X defence Loss 0.3507 Primary task Training Acc 0.860 Val Acc 0.8254 Best Val Acc 0.834
+	Epoch 602/750 L2X defence Loss 0.3527 Primary task Training Acc 0.860 Val Acc 0.8251 Best Val Acc 0.834
+	Epoch 603/750 L2X defence Loss 0.3499 Primary task Training Acc 0.860 Val Acc 0.8213 Best Val Acc 0.834
+	Epoch 604/750 L2X defence Loss 0.3501 Primary task Training Acc 0.860 Val Acc 0.8256 Best Val Acc 0.834
+	Epoch 605/750 L2X defence Loss 0.3479 Primary task Training Acc 0.861 Val Acc 0.8228 Best Val Acc 0.834
+	Epoch 606/750 L2X defence Loss 0.3489 Primary task Training Acc 0.861 Val Acc 0.8272 Best Val Acc 0.834
+	Epoch 607/750 L2X defence Loss 0.3485 Primary task Training Acc 0.861 Val Acc 0.8258 Best Val Acc 0.834
+	Epoch 608/750 L2X defence Loss 0.3504 Primary task Training Acc 0.861 Val Acc 0.8235 Best Val Acc 0.834
+	Epoch 609/750 L2X defence Loss 0.3495 Primary task Training Acc 0.861 Val Acc 0.8232 Best Val Acc 0.834
+	Epoch 610/750 L2X defence Loss 0.3521 Primary task Training Acc 0.860 Val Acc 0.8267 Best Val Acc 0.834
+	Epoch 611/750 L2X defence Loss 0.3503 Primary task Training Acc 0.861 Val Acc 0.8272 Best Val Acc 0.834
+	Epoch 612/750 L2X defence Loss 0.3517 Primary task Training Acc 0.860 Val Acc 0.8235 Best Val Acc 0.834
+	Epoch 613/750 L2X defence Loss 0.3513 Primary task Training Acc 0.861 Val Acc 0.8219 Best Val Acc 0.834
+	Epoch 614/750 L2X defence Loss 0.3490 Primary task Training Acc 0.862 Val Acc 0.8194 Best Val Acc 0.834
+	Epoch 615/750 L2X defence Loss 0.3536 Primary task Training Acc 0.859 Val Acc 0.8252 Best Val Acc 0.834
+	Epoch 616/750 L2X defence Loss 0.3515 Primary task Training Acc 0.860 Val Acc 0.8242 Best Val Acc 0.834
+	Epoch 617/750 L2X defence Loss 0.3489 Primary task Training Acc 0.862 Val Acc 0.8219 Best Val Acc 0.834
+	Epoch 618/750 L2X defence Loss 0.3505 Primary task Training Acc 0.860 Val Acc 0.8212 Best Val Acc 0.834
+	Epoch 619/750 L2X defence Loss 0.3482 Primary task Training Acc 0.862 Val Acc 0.8267 Best Val Acc 0.834
+	Epoch 620/750 L2X defence Loss 0.3505 Primary task Training Acc 0.860 Val Acc 0.8242 Best Val Acc 0.834
+	Epoch 621/750 L2X defence Loss 0.3498 Primary task Training Acc 0.863 Val Acc 0.8279 Best Val Acc 0.834
+	Epoch 622/750 L2X defence Loss 0.3515 Primary task Training Acc 0.860 Val Acc 0.8242 Best Val Acc 0.834
+	Epoch 623/750 L2X defence Loss 0.3480 Primary task Training Acc 0.860 Val Acc 0.8224 Best Val Acc 0.834
+	Epoch 624/750 L2X defence Loss 0.3474 Primary task Training Acc 0.861 Val Acc 0.8244 Best Val Acc 0.834
+	Epoch 625/750 L2X defence Loss 0.3500 Primary task Training Acc 0.861 Val Acc 0.8258 Best Val Acc 0.834
+	Epoch 626/750 L2X defence Loss 0.3478 Primary task Training Acc 0.862 Val Acc 0.8286 Best Val Acc 0.834
+	Epoch 627/750 L2X defence Loss 0.3499 Primary task Training Acc 0.860 Val Acc 0.8263 Best Val Acc 0.834
+	Epoch 628/750 L2X defence Loss 0.3505 Primary task Training Acc 0.860 Val Acc 0.8240 Best Val Acc 0.834
+	Epoch 629/750 L2X defence Loss 0.3490 Primary task Training Acc 0.860 Val Acc 0.8245 Best Val Acc 0.834
+	Epoch 630/750 L2X defence Loss 0.3502 Primary task Training Acc 0.859 Val Acc 0.8258 Best Val Acc 0.834
+	Epoch 631/750 L2X defence Loss 0.3482 Primary task Training Acc 0.860 Val Acc 0.8278 Best Val Acc 0.834
+	Epoch 632/750 L2X defence Loss 0.3494 Primary task Training Acc 0.858 Val Acc 0.8246 Best Val Acc 0.834
+	Epoch 633/750 L2X defence Loss 0.3471 Primary task Training Acc 0.861 Val Acc 0.8286 Best Val Acc 0.834
+	Epoch 634/750 L2X defence Loss 0.3515 Primary task Training Acc 0.860 Val Acc 0.8222 Best Val Acc 0.834
+	Epoch 635/750 L2X defence Loss 0.3476 Primary task Training Acc 0.861 Val Acc 0.8260 Best Val Acc 0.834
+	Epoch 636/750 L2X defence Loss 0.3486 Primary task Training Acc 0.862 Val Acc 0.8214 Best Val Acc 0.834
+	Epoch 637/750 L2X defence Loss 0.3493 Primary task Training Acc 0.861 Val Acc 0.8292 Best Val Acc 0.834
+	Epoch 638/750 L2X defence Loss 0.3479 Primary task Training Acc 0.862 Val Acc 0.8228 Best Val Acc 0.834
+	Epoch 639/750 L2X defence Loss 0.3476 Primary task Training Acc 0.862 Val Acc 0.8224 Best Val Acc 0.834
+	Epoch 640/750 L2X defence Loss 0.3486 Primary task Training Acc 0.862 Val Acc 0.8240 Best Val Acc 0.834
+	Epoch 641/750 L2X defence Loss 0.3489 Primary task Training Acc 0.863 Val Acc 0.8240 Best Val Acc 0.834
+	Epoch 642/750 L2X defence Loss 0.3486 Primary task Training Acc 0.861 Val Acc 0.8233 Best Val Acc 0.834
+	Epoch 643/750 L2X defence Loss 0.3470 Primary task Training Acc 0.862 Val Acc 0.8208 Best Val Acc 0.834
+	Epoch 644/750 L2X defence Loss 0.3471 Primary task Training Acc 0.861 Val Acc 0.8265 Best Val Acc 0.834
+	Epoch 645/750 L2X defence Loss 0.3500 Primary task Training Acc 0.860 Val Acc 0.8208 Best Val Acc 0.834
+	Epoch 646/750 L2X defence Loss 0.3453 Primary task Training Acc 0.861 Val Acc 0.8210 Best Val Acc 0.834
+	Epoch 647/750 L2X defence Loss 0.3489 Primary task Training Acc 0.861 Val Acc 0.8253 Best Val Acc 0.834
+	Epoch 648/750 L2X defence Loss 0.3474 Primary task Training Acc 0.861 Val Acc 0.8242 Best Val Acc 0.834
+	Epoch 649/750 L2X defence Loss 0.3466 Primary task Training Acc 0.861 Val Acc 0.8246 Best Val Acc 0.834
+	Epoch 650/750 L2X defence Loss 0.3462 Primary task Training Acc 0.862 Val Acc 0.8144 Best Val Acc 0.834
+	Epoch 651/750 L2X defence Loss 0.3474 Primary task Training Acc 0.864 Val Acc 0.8217 Best Val Acc 0.834
+	Epoch 652/750 L2X defence Loss 0.3480 Primary task Training Acc 0.863 Val Acc 0.8199 Best Val Acc 0.834
+	Epoch 653/750 L2X defence Loss 0.3493 Primary task Training Acc 0.861 Val Acc 0.8242 Best Val Acc 0.834
+	Epoch 654/750 L2X defence Loss 0.3473 Primary task Training Acc 0.863 Val Acc 0.8235 Best Val Acc 0.834
+	Epoch 655/750 L2X defence Loss 0.3463 Primary task Training Acc 0.862 Val Acc 0.8210 Best Val Acc 0.834
+	Epoch 656/750 L2X defence Loss 0.3473 Primary task Training Acc 0.861 Val Acc 0.8226 Best Val Acc 0.834
+	Epoch 657/750 L2X defence Loss 0.3462 Primary task Training Acc 0.863 Val Acc 0.8260 Best Val Acc 0.834
+	Epoch 658/750 L2X defence Loss 0.3467 Primary task Training Acc 0.862 Val Acc 0.8196 Best Val Acc 0.834
+	Epoch 659/750 L2X defence Loss 0.3485 Primary task Training Acc 0.861 Val Acc 0.8258 Best Val Acc 0.834
+	Epoch 660/750 L2X defence Loss 0.3482 Primary task Training Acc 0.861 Val Acc 0.8219 Best Val Acc 0.834
+	Epoch 661/750 L2X defence Loss 0.3461 Primary task Training Acc 0.862 Val Acc 0.8260 Best Val Acc 0.834
+	Epoch 662/750 L2X defence Loss 0.3462 Primary task Training Acc 0.863 Val Acc 0.8222 Best Val Acc 0.834
+	Epoch 663/750 L2X defence Loss 0.3462 Primary task Training Acc 0.862 Val Acc 0.8222 Best Val Acc 0.834
+	Epoch 664/750 L2X defence Loss 0.3478 Primary task Training Acc 0.861 Val Acc 0.8192 Best Val Acc 0.834
+	Epoch 665/750 L2X defence Loss 0.3457 Primary task Training Acc 0.863 Val Acc 0.8274 Best Val Acc 0.834
+	Epoch 666/750 L2X defence Loss 0.3461 Primary task Training Acc 0.863 Val Acc 0.8206 Best Val Acc 0.834
+	Epoch 667/750 L2X defence Loss 0.3443 Primary task Training Acc 0.863 Val Acc 0.8249 Best Val Acc 0.834
+	Epoch 668/750 L2X defence Loss 0.3480 Primary task Training Acc 0.861 Val Acc 0.8231 Best Val Acc 0.834
+	Epoch 669/750 L2X defence Loss 0.3482 Primary task Training Acc 0.860 Val Acc 0.8240 Best Val Acc 0.834
+	Epoch 670/750 L2X defence Loss 0.3462 Primary task Training Acc 0.863 Val Acc 0.8199 Best Val Acc 0.834
+	Epoch 671/750 L2X defence Loss 0.3476 Primary task Training Acc 0.863 Val Acc 0.8256 Best Val Acc 0.834
+	Epoch 672/750 L2X defence Loss 0.3439 Primary task Training Acc 0.863 Val Acc 0.8228 Best Val Acc 0.834
+	Epoch 673/750 L2X defence Loss 0.3462 Primary task Training Acc 0.862 Val Acc 0.8256 Best Val Acc 0.834
+	Epoch 674/750 L2X defence Loss 0.3458 Primary task Training Acc 0.861 Val Acc 0.8258 Best Val Acc 0.834
+	Epoch 675/750 L2X defence Loss 0.3444 Primary task Training Acc 0.864 Val Acc 0.8210 Best Val Acc 0.834
+	Epoch 676/750 L2X defence Loss 0.3473 Primary task Training Acc 0.862 Val Acc 0.8212 Best Val Acc 0.834
+	Epoch 677/750 L2X defence Loss 0.3463 Primary task Training Acc 0.862 Val Acc 0.8281 Best Val Acc 0.834
+	Epoch 678/750 L2X defence Loss 0.3462 Primary task Training Acc 0.862 Val Acc 0.8231 Best Val Acc 0.834
+	Epoch 679/750 L2X defence Loss 0.3442 Primary task Training Acc 0.862 Val Acc 0.8221 Best Val Acc 0.834
+	Epoch 680/750 L2X defence Loss 0.3467 Primary task Training Acc 0.861 Val Acc 0.8263 Best Val Acc 0.834
+	Epoch 681/750 L2X defence Loss 0.3465 Primary task Training Acc 0.864 Val Acc 0.8187 Best Val Acc 0.834
+	Epoch 682/750 L2X defence Loss 0.3437 Primary task Training Acc 0.864 Val Acc 0.8194 Best Val Acc 0.834
+	Epoch 683/750 L2X defence Loss 0.3447 Primary task Training Acc 0.864 Val Acc 0.8206 Best Val Acc 0.834
+	Epoch 684/750 L2X defence Loss 0.3459 Primary task Training Acc 0.863 Val Acc 0.8226 Best Val Acc 0.834
+	Epoch 685/750 L2X defence Loss 0.3442 Primary task Training Acc 0.863 Val Acc 0.8235 Best Val Acc 0.834
+	Epoch 686/750 L2X defence Loss 0.3472 Primary task Training Acc 0.861 Val Acc 0.8189 Best Val Acc 0.834
+	Epoch 687/750 L2X defence Loss 0.3456 Primary task Training Acc 0.864 Val Acc 0.8235 Best Val Acc 0.834
+	Epoch 688/750 L2X defence Loss 0.3451 Primary task Training Acc 0.863 Val Acc 0.8226 Best Val Acc 0.834
+	Epoch 689/750 L2X defence Loss 0.3434 Primary task Training Acc 0.864 Val Acc 0.8182 Best Val Acc 0.834
+	Epoch 690/750 L2X defence Loss 0.3466 Primary task Training Acc 0.861 Val Acc 0.8208 Best Val Acc 0.834
+	Epoch 691/750 L2X defence Loss 0.3455 Primary task Training Acc 0.861 Val Acc 0.8244 Best Val Acc 0.834
+	Epoch 692/750 L2X defence Loss 0.3438 Primary task Training Acc 0.864 Val Acc 0.8224 Best Val Acc 0.834
+	Epoch 693/750 L2X defence Loss 0.3469 Primary task Training Acc 0.862 Val Acc 0.8263 Best Val Acc 0.834
+	Epoch 694/750 L2X defence Loss 0.3444 Primary task Training Acc 0.864 Val Acc 0.8263 Best Val Acc 0.834
+	Epoch 695/750 L2X defence Loss 0.3450 Primary task Training Acc 0.862 Val Acc 0.8221 Best Val Acc 0.834
+	Epoch 696/750 L2X defence Loss 0.3440 Primary task Training Acc 0.863 Val Acc 0.8185 Best Val Acc 0.834
+	Epoch 697/750 L2X defence Loss 0.3439 Primary task Training Acc 0.865 Val Acc 0.8217 Best Val Acc 0.834
+	Epoch 698/750 L2X defence Loss 0.3450 Primary task Training Acc 0.863 Val Acc 0.8192 Best Val Acc 0.834
+	Epoch 699/750 L2X defence Loss 0.3451 Primary task Training Acc 0.864 Val Acc 0.8231 Best Val Acc 0.834
+	Epoch 700/750 L2X defence Loss 0.3449 Primary task Training Acc 0.862 Val Acc 0.8201 Best Val Acc 0.834
+	Epoch 701/750 L2X defence Loss 0.3455 Primary task Training Acc 0.864 Val Acc 0.8299 Best Val Acc 0.834
+	Epoch 702/750 L2X defence Loss 0.3450 Primary task Training Acc 0.863 Val Acc 0.8247 Best Val Acc 0.834
+	Epoch 703/750 L2X defence Loss 0.3434 Primary task Training Acc 0.863 Val Acc 0.8189 Best Val Acc 0.834
+	Epoch 704/750 L2X defence Loss 0.3441 Primary task Training Acc 0.863 Val Acc 0.8240 Best Val Acc 0.834
+	Epoch 705/750 L2X defence Loss 0.3462 Primary task Training Acc 0.865 Val Acc 0.8228 Best Val Acc 0.834
+	Epoch 706/750 L2X defence Loss 0.3439 Primary task Training Acc 0.864 Val Acc 0.8215 Best Val Acc 0.834
+	Epoch 707/750 L2X defence Loss 0.3424 Primary task Training Acc 0.863 Val Acc 0.8233 Best Val Acc 0.834
+	Epoch 708/750 L2X defence Loss 0.3468 Primary task Training Acc 0.862 Val Acc 0.8178 Best Val Acc 0.834
+	Epoch 709/750 L2X defence Loss 0.3430 Primary task Training Acc 0.865 Val Acc 0.8206 Best Val Acc 0.834
+	Epoch 710/750 L2X defence Loss 0.3430 Primary task Training Acc 0.863 Val Acc 0.8222 Best Val Acc 0.834
+	Epoch 711/750 L2X defence Loss 0.3424 Primary task Training Acc 0.866 Val Acc 0.8185 Best Val Acc 0.834
+	Epoch 712/750 L2X defence Loss 0.3446 Primary task Training Acc 0.864 Val Acc 0.8256 Best Val Acc 0.834
+	Epoch 713/750 L2X defence Loss 0.3436 Primary task Training Acc 0.864 Val Acc 0.8224 Best Val Acc 0.834
+	Epoch 714/750 L2X defence Loss 0.3471 Primary task Training Acc 0.860 Val Acc 0.8192 Best Val Acc 0.834
+	Epoch 715/750 L2X defence Loss 0.3422 Primary task Training Acc 0.864 Val Acc 0.8214 Best Val Acc 0.834
+	Epoch 716/750 L2X defence Loss 0.3434 Primary task Training Acc 0.865 Val Acc 0.8203 Best Val Acc 0.834
+	Epoch 717/750 L2X defence Loss 0.3443 Primary task Training Acc 0.864 Val Acc 0.8205 Best Val Acc 0.834
+	Epoch 718/750 L2X defence Loss 0.3435 Primary task Training Acc 0.864 Val Acc 0.8217 Best Val Acc 0.834
+	Epoch 719/750 L2X defence Loss 0.3426 Primary task Training Acc 0.863 Val Acc 0.8242 Best Val Acc 0.834
+	Epoch 720/750 L2X defence Loss 0.3436 Primary task Training Acc 0.862 Val Acc 0.8185 Best Val Acc 0.834
+	Epoch 721/750 L2X defence Loss 0.3436 Primary task Training Acc 0.864 Val Acc 0.8164 Best Val Acc 0.834
+	Epoch 722/750 L2X defence Loss 0.3433 Primary task Training Acc 0.863 Val Acc 0.8203 Best Val Acc 0.834
+	Epoch 723/750 L2X defence Loss 0.3450 Primary task Training Acc 0.863 Val Acc 0.8182 Best Val Acc 0.834
+	Epoch 724/750 L2X defence Loss 0.3447 Primary task Training Acc 0.861 Val Acc 0.8228 Best Val Acc 0.834
+	Epoch 725/750 L2X defence Loss 0.3431 Primary task Training Acc 0.865 Val Acc 0.8199 Best Val Acc 0.834
+	Epoch 726/750 L2X defence Loss 0.3429 Primary task Training Acc 0.866 Val Acc 0.8304 Best Val Acc 0.834
+	Epoch 727/750 L2X defence Loss 0.3445 Primary task Training Acc 0.863 Val Acc 0.8251 Best Val Acc 0.834
+	Epoch 728/750 L2X defence Loss 0.3425 Primary task Training Acc 0.864 Val Acc 0.8208 Best Val Acc 0.834
+	Epoch 729/750 L2X defence Loss 0.3439 Primary task Training Acc 0.864 Val Acc 0.8215 Best Val Acc 0.834
+	Epoch 730/750 L2X defence Loss 0.3411 Primary task Training Acc 0.865 Val Acc 0.8212 Best Val Acc 0.834
+	Epoch 731/750 L2X defence Loss 0.3452 Primary task Training Acc 0.863 Val Acc 0.8230 Best Val Acc 0.834
+	Epoch 732/750 L2X defence Loss 0.3414 Primary task Training Acc 0.865 Val Acc 0.8224 Best Val Acc 0.834
+	Epoch 733/750 L2X defence Loss 0.3417 Primary task Training Acc 0.863 Val Acc 0.8267 Best Val Acc 0.834
+	Epoch 734/750 L2X defence Loss 0.3461 Primary task Training Acc 0.863 Val Acc 0.8299 Best Val Acc 0.834
+	Epoch 735/750 L2X defence Loss 0.3425 Primary task Training Acc 0.864 Val Acc 0.8171 Best Val Acc 0.834
+	Epoch 736/750 L2X defence Loss 0.3427 Primary task Training Acc 0.864 Val Acc 0.8173 Best Val Acc 0.834
+	Epoch 737/750 L2X defence Loss 0.3424 Primary task Training Acc 0.864 Val Acc 0.8247 Best Val Acc 0.834
+	Epoch 738/750 L2X defence Loss 0.3438 Primary task Training Acc 0.864 Val Acc 0.8222 Best Val Acc 0.834
+	Epoch 739/750 L2X defence Loss 0.3419 Primary task Training Acc 0.864 Val Acc 0.8244 Best Val Acc 0.834
+	Epoch 740/750 L2X defence Loss 0.3411 Primary task Training Acc 0.865 Val Acc 0.8258 Best Val Acc 0.834
+	Epoch 741/750 L2X defence Loss 0.3449 Primary task Training Acc 0.864 Val Acc 0.8162 Best Val Acc 0.834
+	Epoch 742/750 L2X defence Loss 0.3443 Primary task Training Acc 0.864 Val Acc 0.8167 Best Val Acc 0.834
+	Epoch 743/750 L2X defence Loss 0.3425 Primary task Training Acc 0.863 Val Acc 0.8215 Best Val Acc 0.834
+	Epoch 744/750 L2X defence Loss 0.3433 Primary task Training Acc 0.864 Val Acc 0.8198 Best Val Acc 0.834
+	Epoch 745/750 L2X defence Loss 0.3413 Primary task Training Acc 0.865 Val Acc 0.8217 Best Val Acc 0.834
+	Epoch 746/750 L2X defence Loss 0.3397 Primary task Training Acc 0.865 Val Acc 0.8160 Best Val Acc 0.834
+	Epoch 747/750 L2X defence Loss 0.3406 Primary task Training Acc 0.864 Val Acc 0.8194 Best Val Acc 0.834
+	Epoch 748/750 L2X defence Loss 0.3417 Primary task Training Acc 0.865 Val Acc 0.8187 Best Val Acc 0.834
+	Epoch 749/750 L2X defence Loss 0.3392 Primary task Training Acc 0.866 Val Acc 0.8210 Best Val Acc 0.834
+Weights/SERE/ Weights/CL/
+Writing vectors...
+Accuracy 0.843
+l2x_lr row_len=1,tao=0.2
+
+
+
+Train database size 23706 Test database size 3951
+	Epoch 100/1000 Loss 0.3934 primary task p train Acc 0.8393 test Acc 0.8269
+	Epoch 200/1000 Loss 0.3758 primary task p train Acc 0.8492 test Acc 0.8442
+	Epoch 300/1000 Loss 0.3708 primary task p train Acc 0.8516 test Acc 0.8532
+	Epoch 400/1000 Loss 0.3691 primary task p train Acc 0.8522 test Acc 0.8522
+	Epoch 500/1000 Loss 0.3685 primary task p train Acc 0.8523 test Acc 0.8592
+	Epoch 600/1000 Loss 0.3682 primary task p train Acc 0.8524 test Acc 0.8689
+	Epoch 700/1000 Loss 0.3681 primary task p train Acc 0.8527 test Acc 0.8692
+	Epoch 800/1000 Loss 0.3680 primary task p train Acc 0.8526 test Acc 0.8726
+	Epoch 900/1000 Loss 0.3679 primary task p train Acc 0.8526 test Acc 0.8720
+L2X: primary task evaluation (A_P)
+Accuracy 0.8726
+
+
+
+
+
+
+Train database size 23706 Test database size 3951
+	Epoch 100/1000 Loss 0.6615 Adversarial task S1 train Acc 0.6233 test Acc 0.6574
+	Epoch 200/1000 Loss 0.6610 Adversarial task S1 train Acc 0.6235 test Acc 0.6624
+	Epoch 300/1000 Loss 0.6608 Adversarial task S1 train Acc 0.6234 test Acc 0.6694
+	Epoch 400/1000 Loss 0.6606 Adversarial task S1 train Acc 0.6234 test Acc 0.6748
+	Epoch 500/1000 Loss 0.6605 Adversarial task S1 train Acc 0.6234 test Acc 0.6737
+	Epoch 600/1000 Loss 0.6603 Adversarial task S1 train Acc 0.6234 test Acc 0.6765
+	Epoch 700/1000 Loss 0.6603 Adversarial task S1 train Acc 0.6234 test Acc 0.6804
+	Epoch 800/1000 Loss 0.6602 Adversarial task S1 train Acc 0.6233 test Acc 0.6782
+	Epoch 900/1000 Loss 0.6601 Adversarial task S1 train Acc 0.6233 test Acc 0.6795
+L2X: Adverserial task S1 evaluation (A_S1)
+Accuracy 0.6804
+
+
+
+
+
+
+Train database size 23706 Test database size 3951
+	Epoch 100/1000 Loss 0.6609 Adversarial task S2 train Acc 0.6227 test Acc 0.6264
+	Epoch 200/1000 Loss 0.6591 Adversarial task S2 train Acc 0.6231 test Acc 0.6264
+	Epoch 300/1000 Loss 0.6580 Adversarial task S2 train Acc 0.6224 test Acc 0.6352
+	Epoch 400/1000 Loss 0.6573 Adversarial task S2 train Acc 0.6225 test Acc 0.6369
+	Epoch 500/1000 Loss 0.6568 Adversarial task S2 train Acc 0.6227 test Acc 0.6372
+	Epoch 600/1000 Loss 0.6563 Adversarial task S2 train Acc 0.6225 test Acc 0.6464
+	Epoch 700/1000 Loss 0.6560 Adversarial task S2 train Acc 0.6228 test Acc 0.6462
+	Epoch 800/1000 Loss 0.6557 Adversarial task S2 train Acc 0.6229 test Acc 0.6546
+	Epoch 900/1000 Loss 0.6555 Adversarial task S2 train Acc 0.6235 test Acc 0.6524
+L2X: Adverserial task S2 evaluation (A_S2)
+Accuracy 0.6546
+
+
+
+Weights/SERE/ Weights/CL/
+Training started. Train size 23509, Test size 4148
+
+
+	Epoch 1/750 L2X defence Loss 0.5936 Primary task Training Acc 0.768 Val Acc 0.7880 Best Val Acc 0.788
+	Epoch 2/750 L2X defence Loss 0.4979 Primary task Training Acc 0.788 Val Acc 0.7880 Best Val Acc 0.788
+	Epoch 3/750 L2X defence Loss 0.4886 Primary task Training Acc 0.788 Val Acc 0.7880 Best Val Acc 0.788
+	Epoch 4/750 L2X defence Loss 0.4826 Primary task Training Acc 0.788 Val Acc 0.7880 Best Val Acc 0.788
+Weight saved in Weights/SERE/ckpt-1 Weights/CL/ckpt-1
+	Epoch 5/750 L2X defence Loss 0.4764 Primary task Training Acc 0.793 Val Acc 0.7994 Best Val Acc 0.799
+Weight saved in Weights/SERE/ckpt-2 Weights/CL/ckpt-2
+	Epoch 6/750 L2X defence Loss 0.4712 Primary task Training Acc 0.804 Val Acc 0.8045 Best Val Acc 0.804
+Weight saved in Weights/SERE/ckpt-3 Weights/CL/ckpt-3
+	Epoch 7/750 L2X defence Loss 0.4660 Primary task Training Acc 0.805 Val Acc 0.8083 Best Val Acc 0.808
+Weight saved in Weights/SERE/ckpt-4 Weights/CL/ckpt-4
+	Epoch 8/750 L2X defence Loss 0.4609 Primary task Training Acc 0.810 Val Acc 0.8095 Best Val Acc 0.810
+Weight saved in Weights/SERE/ckpt-5 Weights/CL/ckpt-5
+	Epoch 9/750 L2X defence Loss 0.4565 Primary task Training Acc 0.811 Val Acc 0.8141 Best Val Acc 0.814
+Weight saved in Weights/SERE/ckpt-6 Weights/CL/ckpt-6
+	Epoch 10/750 L2X defence Loss 0.4526 Primary task Training Acc 0.812 Val Acc 0.8162 Best Val Acc 0.816
+	Epoch 11/750 L2X defence Loss 0.4504 Primary task Training Acc 0.812 Val Acc 0.8157 Best Val Acc 0.816
+	Epoch 12/750 L2X defence Loss 0.4483 Primary task Training Acc 0.814 Val Acc 0.8139 Best Val Acc 0.816
+	Epoch 13/750 L2X defence Loss 0.4465 Primary task Training Acc 0.815 Val Acc 0.8128 Best Val Acc 0.816
+	Epoch 14/750 L2X defence Loss 0.4449 Primary task Training Acc 0.816 Val Acc 0.8098 Best Val Acc 0.816
+	Epoch 15/750 L2X defence Loss 0.4445 Primary task Training Acc 0.817 Val Acc 0.8150 Best Val Acc 0.816
+	Epoch 16/750 L2X defence Loss 0.4435 Primary task Training Acc 0.818 Val Acc 0.8132 Best Val Acc 0.816
+	Epoch 17/750 L2X defence Loss 0.4424 Primary task Training Acc 0.817 Val Acc 0.8132 Best Val Acc 0.816
+	Epoch 18/750 L2X defence Loss 0.4412 Primary task Training Acc 0.819 Val Acc 0.8128 Best Val Acc 0.816
+	Epoch 19/750 L2X defence Loss 0.4401 Primary task Training Acc 0.819 Val Acc 0.8141 Best Val Acc 0.816
+Weight saved in Weights/SERE/ckpt-7 Weights/CL/ckpt-7
+	Epoch 20/750 L2X defence Loss 0.4394 Primary task Training Acc 0.820 Val Acc 0.8180 Best Val Acc 0.818
+	Epoch 21/750 L2X defence Loss 0.4389 Primary task Training Acc 0.821 Val Acc 0.8141 Best Val Acc 0.818
+	Epoch 22/750 L2X defence Loss 0.4376 Primary task Training Acc 0.821 Val Acc 0.8155 Best Val Acc 0.818
+Weight saved in Weights/SERE/ckpt-8 Weights/CL/ckpt-8
+	Epoch 23/750 L2X defence Loss 0.4378 Primary task Training Acc 0.820 Val Acc 0.8189 Best Val Acc 0.819
+	Epoch 24/750 L2X defence Loss 0.4363 Primary task Training Acc 0.821 Val Acc 0.8185 Best Val Acc 0.819
+	Epoch 25/750 L2X defence Loss 0.4357 Primary task Training Acc 0.821 Val Acc 0.8187 Best Val Acc 0.819
+Weight saved in Weights/SERE/ckpt-9 Weights/CL/ckpt-9
+	Epoch 26/750 L2X defence Loss 0.4350 Primary task Training Acc 0.821 Val Acc 0.8191 Best Val Acc 0.819
+Weight saved in Weights/SERE/ckpt-10 Weights/CL/ckpt-10
+	Epoch 27/750 L2X defence Loss 0.4337 Primary task Training Acc 0.823 Val Acc 0.8192 Best Val Acc 0.819
+	Epoch 28/750 L2X defence Loss 0.4323 Primary task Training Acc 0.823 Val Acc 0.8185 Best Val Acc 0.819
+	Epoch 29/750 L2X defence Loss 0.4317 Primary task Training Acc 0.823 Val Acc 0.8166 Best Val Acc 0.819
+Weight saved in Weights/SERE/ckpt-11 Weights/CL/ckpt-11
+	Epoch 30/750 L2X defence Loss 0.4313 Primary task Training Acc 0.823 Val Acc 0.8208 Best Val Acc 0.821
+	Epoch 31/750 L2X defence Loss 0.4307 Primary task Training Acc 0.824 Val Acc 0.8187 Best Val Acc 0.821
+	Epoch 32/750 L2X defence Loss 0.4299 Primary task Training Acc 0.826 Val Acc 0.8205 Best Val Acc 0.821
+	Epoch 33/750 L2X defence Loss 0.4286 Primary task Training Acc 0.826 Val Acc 0.8192 Best Val Acc 0.821
+	Epoch 34/750 L2X defence Loss 0.4282 Primary task Training Acc 0.825 Val Acc 0.8196 Best Val Acc 0.821
+	Epoch 35/750 L2X defence Loss 0.4290 Primary task Training Acc 0.825 Val Acc 0.8194 Best Val Acc 0.821
+Weight saved in Weights/SERE/ckpt-12 Weights/CL/ckpt-12
+	Epoch 36/750 L2X defence Loss 0.4295 Primary task Training Acc 0.826 Val Acc 0.8219 Best Val Acc 0.822
+	Epoch 37/750 L2X defence Loss 0.4279 Primary task Training Acc 0.827 Val Acc 0.8192 Best Val Acc 0.822
+	Epoch 38/750 L2X defence Loss 0.4274 Primary task Training Acc 0.825 Val Acc 0.8203 Best Val Acc 0.822
+	Epoch 39/750 L2X defence Loss 0.4273 Primary task Training Acc 0.826 Val Acc 0.8215 Best Val Acc 0.822
+	Epoch 40/750 L2X defence Loss 0.4270 Primary task Training Acc 0.827 Val Acc 0.8194 Best Val Acc 0.822
+	Epoch 41/750 L2X defence Loss 0.4272 Primary task Training Acc 0.827 Val Acc 0.8217 Best Val Acc 0.822
+	Epoch 42/750 L2X defence Loss 0.4256 Primary task Training Acc 0.827 Val Acc 0.8182 Best Val Acc 0.822
+	Epoch 43/750 L2X defence Loss 0.4250 Primary task Training Acc 0.827 Val Acc 0.8208 Best Val Acc 0.822
+	Epoch 44/750 L2X defence Loss 0.4255 Primary task Training Acc 0.827 Val Acc 0.8212 Best Val Acc 0.822
+Weight saved in Weights/SERE/ckpt-13 Weights/CL/ckpt-13
+	Epoch 45/750 L2X defence Loss 0.4244 Primary task Training Acc 0.828 Val Acc 0.8233 Best Val Acc 0.823
+	Epoch 46/750 L2X defence Loss 0.4244 Primary task Training Acc 0.828 Val Acc 0.8214 Best Val Acc 0.823
+	Epoch 47/750 L2X defence Loss 0.4239 Primary task Training Acc 0.828 Val Acc 0.8169 Best Val Acc 0.823
+	Epoch 48/750 L2X defence Loss 0.4236 Primary task Training Acc 0.829 Val Acc 0.8233 Best Val Acc 0.823
+	Epoch 49/750 L2X defence Loss 0.4231 Primary task Training Acc 0.829 Val Acc 0.8210 Best Val Acc 0.823
+	Epoch 50/750 L2X defence Loss 0.4229 Primary task Training Acc 0.829 Val Acc 0.8205 Best Val Acc 0.823
+Weight saved in Weights/SERE/ckpt-14 Weights/CL/ckpt-14
+	Epoch 51/750 L2X defence Loss 0.4227 Primary task Training Acc 0.828 Val Acc 0.8237 Best Val Acc 0.824
+	Epoch 52/750 L2X defence Loss 0.4217 Primary task Training Acc 0.831 Val Acc 0.8222 Best Val Acc 0.824
+	Epoch 53/750 L2X defence Loss 0.4212 Primary task Training Acc 0.830 Val Acc 0.8164 Best Val Acc 0.824
+	Epoch 54/750 L2X defence Loss 0.4213 Primary task Training Acc 0.830 Val Acc 0.8189 Best Val Acc 0.824
+Weight saved in Weights/SERE/ckpt-15 Weights/CL/ckpt-15
+	Epoch 55/750 L2X defence Loss 0.4212 Primary task Training Acc 0.830 Val Acc 0.8240 Best Val Acc 0.824
+	Epoch 56/750 L2X defence Loss 0.4201 Primary task Training Acc 0.831 Val Acc 0.8228 Best Val Acc 0.824
+	Epoch 57/750 L2X defence Loss 0.4202 Primary task Training Acc 0.832 Val Acc 0.8240 Best Val Acc 0.824
+	Epoch 58/750 L2X defence Loss 0.4200 Primary task Training Acc 0.830 Val Acc 0.8215 Best Val Acc 0.824
+	Epoch 59/750 L2X defence Loss 0.4202 Primary task Training Acc 0.830 Val Acc 0.8219 Best Val Acc 0.824
+	Epoch 60/750 L2X defence Loss 0.4194 Primary task Training Acc 0.830 Val Acc 0.8192 Best Val Acc 0.824
+	Epoch 61/750 L2X defence Loss 0.4183 Primary task Training Acc 0.831 Val Acc 0.8221 Best Val Acc 0.824
+	Epoch 62/750 L2X defence Loss 0.4192 Primary task Training Acc 0.830 Val Acc 0.8210 Best Val Acc 0.824
+Weight saved in Weights/SERE/ckpt-16 Weights/CL/ckpt-16
+	Epoch 63/750 L2X defence Loss 0.4189 Primary task Training Acc 0.831 Val Acc 0.8260 Best Val Acc 0.826
+	Epoch 64/750 L2X defence Loss 0.4170 Primary task Training Acc 0.832 Val Acc 0.8253 Best Val Acc 0.826
+	Epoch 65/750 L2X defence Loss 0.4186 Primary task Training Acc 0.831 Val Acc 0.8226 Best Val Acc 0.826
+	Epoch 66/750 L2X defence Loss 0.4162 Primary task Training Acc 0.833 Val Acc 0.8215 Best Val Acc 0.826
+	Epoch 67/750 L2X defence Loss 0.4159 Primary task Training Acc 0.832 Val Acc 0.8217 Best Val Acc 0.826
+	Epoch 68/750 L2X defence Loss 0.4178 Primary task Training Acc 0.831 Val Acc 0.8242 Best Val Acc 0.826
+	Epoch 69/750 L2X defence Loss 0.4157 Primary task Training Acc 0.832 Val Acc 0.8244 Best Val Acc 0.826
+	Epoch 70/750 L2X defence Loss 0.4171 Primary task Training Acc 0.831 Val Acc 0.8242 Best Val Acc 0.826
+	Epoch 71/750 L2X defence Loss 0.4163 Primary task Training Acc 0.833 Val Acc 0.8210 Best Val Acc 0.826
+	Epoch 72/750 L2X defence Loss 0.4158 Primary task Training Acc 0.834 Val Acc 0.8201 Best Val Acc 0.826
+	Epoch 73/750 L2X defence Loss 0.4157 Primary task Training Acc 0.832 Val Acc 0.8187 Best Val Acc 0.826
+	Epoch 74/750 L2X defence Loss 0.4159 Primary task Training Acc 0.832 Val Acc 0.8187 Best Val Acc 0.826
+	Epoch 75/750 L2X defence Loss 0.4148 Primary task Training Acc 0.832 Val Acc 0.8231 Best Val Acc 0.826
+	Epoch 76/750 L2X defence Loss 0.4151 Primary task Training Acc 0.833 Val Acc 0.8196 Best Val Acc 0.826
+	Epoch 77/750 L2X defence Loss 0.4148 Primary task Training Acc 0.833 Val Acc 0.8192 Best Val Acc 0.826
+	Epoch 78/750 L2X defence Loss 0.4143 Primary task Training Acc 0.833 Val Acc 0.8174 Best Val Acc 0.826
+	Epoch 79/750 L2X defence Loss 0.4130 Primary task Training Acc 0.834 Val Acc 0.8194 Best Val Acc 0.826
+	Epoch 80/750 L2X defence Loss 0.4135 Primary task Training Acc 0.834 Val Acc 0.8183 Best Val Acc 0.826
+	Epoch 81/750 L2X defence Loss 0.4120 Primary task Training Acc 0.834 Val Acc 0.8215 Best Val Acc 0.826
+	Epoch 82/750 L2X defence Loss 0.4132 Primary task Training Acc 0.834 Val Acc 0.8199 Best Val Acc 0.826
+	Epoch 83/750 L2X defence Loss 0.4126 Primary task Training Acc 0.834 Val Acc 0.8219 Best Val Acc 0.826
+	Epoch 84/750 L2X defence Loss 0.4123 Primary task Training Acc 0.834 Val Acc 0.8242 Best Val Acc 0.826
+	Epoch 85/750 L2X defence Loss 0.4127 Primary task Training Acc 0.833 Val Acc 0.8185 Best Val Acc 0.826
+	Epoch 86/750 L2X defence Loss 0.4117 Primary task Training Acc 0.835 Val Acc 0.8201 Best Val Acc 0.826
+	Epoch 87/750 L2X defence Loss 0.4113 Primary task Training Acc 0.835 Val Acc 0.8185 Best Val Acc 0.826
+	Epoch 88/750 L2X defence Loss 0.4110 Primary task Training Acc 0.835 Val Acc 0.8238 Best Val Acc 0.826
+	Epoch 89/750 L2X defence Loss 0.4113 Primary task Training Acc 0.835 Val Acc 0.8240 Best Val Acc 0.826
+	Epoch 90/750 L2X defence Loss 0.4105 Primary task Training Acc 0.835 Val Acc 0.8231 Best Val Acc 0.826
+	Epoch 91/750 L2X defence Loss 0.4098 Primary task Training Acc 0.834 Val Acc 0.8254 Best Val Acc 0.826
+	Epoch 92/750 L2X defence Loss 0.4103 Primary task Training Acc 0.834 Val Acc 0.8217 Best Val Acc 0.826
+	Epoch 93/750 L2X defence Loss 0.4103 Primary task Training Acc 0.836 Val Acc 0.8208 Best Val Acc 0.826
+	Epoch 94/750 L2X defence Loss 0.4099 Primary task Training Acc 0.835 Val Acc 0.8226 Best Val Acc 0.826
+	Epoch 95/750 L2X defence Loss 0.4082 Primary task Training Acc 0.835 Val Acc 0.8210 Best Val Acc 0.826
+	Epoch 96/750 L2X defence Loss 0.4096 Primary task Training Acc 0.834 Val Acc 0.8164 Best Val Acc 0.826
+	Epoch 97/750 L2X defence Loss 0.4091 Primary task Training Acc 0.834 Val Acc 0.8212 Best Val Acc 0.826
+	Epoch 98/750 L2X defence Loss 0.4094 Primary task Training Acc 0.835 Val Acc 0.8231 Best Val Acc 0.826
+	Epoch 99/750 L2X defence Loss 0.4094 Primary task Training Acc 0.835 Val Acc 0.8210 Best Val Acc 0.826
+	Epoch 100/750 L2X defence Loss 0.4076 Primary task Training Acc 0.836 Val Acc 0.8231 Best Val Acc 0.826
+	Epoch 101/750 L2X defence Loss 0.4079 Primary task Training Acc 0.836 Val Acc 0.8226 Best Val Acc 0.826
+	Epoch 102/750 L2X defence Loss 0.4071 Primary task Training Acc 0.836 Val Acc 0.8222 Best Val Acc 0.826
+	Epoch 103/750 L2X defence Loss 0.4074 Primary task Training Acc 0.836 Val Acc 0.8192 Best Val Acc 0.826
+	Epoch 104/750 L2X defence Loss 0.4077 Primary task Training Acc 0.835 Val Acc 0.8228 Best Val Acc 0.826
+	Epoch 105/750 L2X defence Loss 0.4082 Primary task Training Acc 0.836 Val Acc 0.8203 Best Val Acc 0.826
+	Epoch 106/750 L2X defence Loss 0.4064 Primary task Training Acc 0.836 Val Acc 0.8205 Best Val Acc 0.826
+Weight saved in Weights/SERE/ckpt-17 Weights/CL/ckpt-17
+	Epoch 107/750 L2X defence Loss 0.4059 Primary task Training Acc 0.837 Val Acc 0.8272 Best Val Acc 0.827
+	Epoch 108/750 L2X defence Loss 0.4076 Primary task Training Acc 0.837 Val Acc 0.8228 Best Val Acc 0.827
+	Epoch 109/750 L2X defence Loss 0.4059 Primary task Training Acc 0.838 Val Acc 0.8226 Best Val Acc 0.827
+	Epoch 110/750 L2X defence Loss 0.4057 Primary task Training Acc 0.837 Val Acc 0.8192 Best Val Acc 0.827
+	Epoch 111/750 L2X defence Loss 0.4053 Primary task Training Acc 0.837 Val Acc 0.8212 Best Val Acc 0.827
+	Epoch 112/750 L2X defence Loss 0.4051 Primary task Training Acc 0.837 Val Acc 0.8238 Best Val Acc 0.827
+	Epoch 113/750 L2X defence Loss 0.4058 Primary task Training Acc 0.838 Val Acc 0.8226 Best Val Acc 0.827
+	Epoch 114/750 L2X defence Loss 0.4056 Primary task Training Acc 0.837 Val Acc 0.8212 Best Val Acc 0.827
+	Epoch 115/750 L2X defence Loss 0.4044 Primary task Training Acc 0.837 Val Acc 0.8215 Best Val Acc 0.827
+	Epoch 116/750 L2X defence Loss 0.4050 Primary task Training Acc 0.837 Val Acc 0.8240 Best Val Acc 0.827
+	Epoch 117/750 L2X defence Loss 0.4050 Primary task Training Acc 0.836 Val Acc 0.8217 Best Val Acc 0.827
+	Epoch 118/750 L2X defence Loss 0.4051 Primary task Training Acc 0.839 Val Acc 0.8226 Best Val Acc 0.827
+	Epoch 119/750 L2X defence Loss 0.4047 Primary task Training Acc 0.838 Val Acc 0.8270 Best Val Acc 0.827
+	Epoch 120/750 L2X defence Loss 0.4042 Primary task Training Acc 0.837 Val Acc 0.8222 Best Val Acc 0.827
+	Epoch 121/750 L2X defence Loss 0.4038 Primary task Training Acc 0.839 Val Acc 0.8244 Best Val Acc 0.827
+	Epoch 122/750 L2X defence Loss 0.4036 Primary task Training Acc 0.839 Val Acc 0.8238 Best Val Acc 0.827
+	Epoch 123/750 L2X defence Loss 0.4037 Primary task Training Acc 0.838 Val Acc 0.8222 Best Val Acc 0.827
+	Epoch 124/750 L2X defence Loss 0.4028 Primary task Training Acc 0.838 Val Acc 0.8240 Best Val Acc 0.827
+	Epoch 125/750 L2X defence Loss 0.4027 Primary task Training Acc 0.838 Val Acc 0.8208 Best Val Acc 0.827
+Weight saved in Weights/SERE/ckpt-18 Weights/CL/ckpt-18
+	Epoch 126/750 L2X defence Loss 0.4029 Primary task Training Acc 0.839 Val Acc 0.8276 Best Val Acc 0.828
+	Epoch 127/750 L2X defence Loss 0.4028 Primary task Training Acc 0.837 Val Acc 0.8251 Best Val Acc 0.828
+Weight saved in Weights/SERE/ckpt-19 Weights/CL/ckpt-19
+	Epoch 128/750 L2X defence Loss 0.4046 Primary task Training Acc 0.836 Val Acc 0.8297 Best Val Acc 0.830
+	Epoch 129/750 L2X defence Loss 0.4030 Primary task Training Acc 0.837 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 130/750 L2X defence Loss 0.4020 Primary task Training Acc 0.840 Val Acc 0.8251 Best Val Acc 0.830
+	Epoch 131/750 L2X defence Loss 0.4027 Primary task Training Acc 0.839 Val Acc 0.8219 Best Val Acc 0.830
+	Epoch 132/750 L2X defence Loss 0.4018 Primary task Training Acc 0.839 Val Acc 0.8256 Best Val Acc 0.830
+	Epoch 133/750 L2X defence Loss 0.4016 Primary task Training Acc 0.839 Val Acc 0.8231 Best Val Acc 0.830
+	Epoch 134/750 L2X defence Loss 0.4015 Primary task Training Acc 0.840 Val Acc 0.8226 Best Val Acc 0.830
+	Epoch 135/750 L2X defence Loss 0.4012 Primary task Training Acc 0.838 Val Acc 0.8215 Best Val Acc 0.830
+	Epoch 136/750 L2X defence Loss 0.4019 Primary task Training Acc 0.838 Val Acc 0.8267 Best Val Acc 0.830
+	Epoch 137/750 L2X defence Loss 0.4015 Primary task Training Acc 0.839 Val Acc 0.8265 Best Val Acc 0.830
+Weight saved in Weights/SERE/ckpt-20 Weights/CL/ckpt-20
+	Epoch 138/750 L2X defence Loss 0.4012 Primary task Training Acc 0.840 Val Acc 0.8299 Best Val Acc 0.830
+	Epoch 139/750 L2X defence Loss 0.3997 Primary task Training Acc 0.840 Val Acc 0.8249 Best Val Acc 0.830
+	Epoch 140/750 L2X defence Loss 0.4009 Primary task Training Acc 0.840 Val Acc 0.8228 Best Val Acc 0.830
+	Epoch 141/750 L2X defence Loss 0.3993 Primary task Training Acc 0.838 Val Acc 0.8222 Best Val Acc 0.830
+	Epoch 142/750 L2X defence Loss 0.4011 Primary task Training Acc 0.839 Val Acc 0.8274 Best Val Acc 0.830
+	Epoch 143/750 L2X defence Loss 0.4004 Primary task Training Acc 0.839 Val Acc 0.8267 Best Val Acc 0.830
+	Epoch 144/750 L2X defence Loss 0.3996 Primary task Training Acc 0.839 Val Acc 0.8244 Best Val Acc 0.830
+	Epoch 145/750 L2X defence Loss 0.4011 Primary task Training Acc 0.839 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 146/750 L2X defence Loss 0.4002 Primary task Training Acc 0.840 Val Acc 0.8206 Best Val Acc 0.830
+	Epoch 147/750 L2X defence Loss 0.4002 Primary task Training Acc 0.839 Val Acc 0.8251 Best Val Acc 0.830
+	Epoch 148/750 L2X defence Loss 0.3991 Primary task Training Acc 0.841 Val Acc 0.8251 Best Val Acc 0.830
+	Epoch 149/750 L2X defence Loss 0.4006 Primary task Training Acc 0.839 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 150/750 L2X defence Loss 0.3989 Primary task Training Acc 0.840 Val Acc 0.8222 Best Val Acc 0.830
+	Epoch 151/750 L2X defence Loss 0.3990 Primary task Training Acc 0.840 Val Acc 0.8251 Best Val Acc 0.830
+	Epoch 152/750 L2X defence Loss 0.3995 Primary task Training Acc 0.839 Val Acc 0.8267 Best Val Acc 0.830
+	Epoch 153/750 L2X defence Loss 0.3984 Primary task Training Acc 0.839 Val Acc 0.8272 Best Val Acc 0.830
+	Epoch 154/750 L2X defence Loss 0.3996 Primary task Training Acc 0.839 Val Acc 0.8253 Best Val Acc 0.830
+	Epoch 155/750 L2X defence Loss 0.3989 Primary task Training Acc 0.840 Val Acc 0.8224 Best Val Acc 0.830
+	Epoch 156/750 L2X defence Loss 0.3981 Primary task Training Acc 0.840 Val Acc 0.8219 Best Val Acc 0.830
+	Epoch 157/750 L2X defence Loss 0.3970 Primary task Training Acc 0.840 Val Acc 0.8263 Best Val Acc 0.830
+	Epoch 158/750 L2X defence Loss 0.3983 Primary task Training Acc 0.841 Val Acc 0.8251 Best Val Acc 0.830
+	Epoch 159/750 L2X defence Loss 0.3984 Primary task Training Acc 0.840 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 160/750 L2X defence Loss 0.3972 Primary task Training Acc 0.842 Val Acc 0.8258 Best Val Acc 0.830
+	Epoch 161/750 L2X defence Loss 0.3972 Primary task Training Acc 0.841 Val Acc 0.8240 Best Val Acc 0.830
+	Epoch 162/750 L2X defence Loss 0.3958 Primary task Training Acc 0.842 Val Acc 0.8283 Best Val Acc 0.830
+	Epoch 163/750 L2X defence Loss 0.3978 Primary task Training Acc 0.840 Val Acc 0.8265 Best Val Acc 0.830
+	Epoch 164/750 L2X defence Loss 0.3962 Primary task Training Acc 0.841 Val Acc 0.8244 Best Val Acc 0.830
+	Epoch 165/750 L2X defence Loss 0.3966 Primary task Training Acc 0.841 Val Acc 0.8260 Best Val Acc 0.830
+	Epoch 166/750 L2X defence Loss 0.3967 Primary task Training Acc 0.839 Val Acc 0.8274 Best Val Acc 0.830
+	Epoch 167/750 L2X defence Loss 0.3967 Primary task Training Acc 0.841 Val Acc 0.8240 Best Val Acc 0.830
+	Epoch 168/750 L2X defence Loss 0.3972 Primary task Training Acc 0.840 Val Acc 0.8281 Best Val Acc 0.830
+	Epoch 169/750 L2X defence Loss 0.3965 Primary task Training Acc 0.841 Val Acc 0.8235 Best Val Acc 0.830
+	Epoch 170/750 L2X defence Loss 0.3957 Primary task Training Acc 0.841 Val Acc 0.8237 Best Val Acc 0.830
+	Epoch 171/750 L2X defence Loss 0.3952 Primary task Training Acc 0.840 Val Acc 0.8272 Best Val Acc 0.830
+	Epoch 172/750 L2X defence Loss 0.3958 Primary task Training Acc 0.842 Val Acc 0.8256 Best Val Acc 0.830
+	Epoch 173/750 L2X defence Loss 0.3956 Primary task Training Acc 0.841 Val Acc 0.8221 Best Val Acc 0.830
+	Epoch 174/750 L2X defence Loss 0.3956 Primary task Training Acc 0.841 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 175/750 L2X defence Loss 0.3943 Primary task Training Acc 0.843 Val Acc 0.8261 Best Val Acc 0.830
+	Epoch 176/750 L2X defence Loss 0.3956 Primary task Training Acc 0.843 Val Acc 0.8269 Best Val Acc 0.830
+	Epoch 177/750 L2X defence Loss 0.3959 Primary task Training Acc 0.841 Val Acc 0.8238 Best Val Acc 0.830
+	Epoch 178/750 L2X defence Loss 0.3948 Primary task Training Acc 0.841 Val Acc 0.8260 Best Val Acc 0.830
+	Epoch 179/750 L2X defence Loss 0.3950 Primary task Training Acc 0.842 Val Acc 0.8240 Best Val Acc 0.830
+	Epoch 180/750 L2X defence Loss 0.3946 Primary task Training Acc 0.842 Val Acc 0.8258 Best Val Acc 0.830
+	Epoch 181/750 L2X defence Loss 0.3946 Primary task Training Acc 0.842 Val Acc 0.8274 Best Val Acc 0.830
+	Epoch 182/750 L2X defence Loss 0.3967 Primary task Training Acc 0.841 Val Acc 0.8260 Best Val Acc 0.830
+	Epoch 183/750 L2X defence Loss 0.3944 Primary task Training Acc 0.842 Val Acc 0.8256 Best Val Acc 0.830
+	Epoch 184/750 L2X defence Loss 0.3956 Primary task Training Acc 0.840 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 185/750 L2X defence Loss 0.3928 Primary task Training Acc 0.843 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 186/750 L2X defence Loss 0.3942 Primary task Training Acc 0.842 Val Acc 0.8244 Best Val Acc 0.830
+	Epoch 187/750 L2X defence Loss 0.3934 Primary task Training Acc 0.840 Val Acc 0.8249 Best Val Acc 0.830
+	Epoch 188/750 L2X defence Loss 0.3939 Primary task Training Acc 0.842 Val Acc 0.8293 Best Val Acc 0.830
+	Epoch 189/750 L2X defence Loss 0.3937 Primary task Training Acc 0.840 Val Acc 0.8276 Best Val Acc 0.830
+	Epoch 190/750 L2X defence Loss 0.3926 Primary task Training Acc 0.842 Val Acc 0.8279 Best Val Acc 0.830
+	Epoch 191/750 L2X defence Loss 0.3928 Primary task Training Acc 0.842 Val Acc 0.8242 Best Val Acc 0.830
+	Epoch 192/750 L2X defence Loss 0.3938 Primary task Training Acc 0.842 Val Acc 0.8256 Best Val Acc 0.830
+	Epoch 193/750 L2X defence Loss 0.3940 Primary task Training Acc 0.842 Val Acc 0.8272 Best Val Acc 0.830
+	Epoch 194/750 L2X defence Loss 0.3933 Primary task Training Acc 0.843 Val Acc 0.8277 Best Val Acc 0.830
+	Epoch 195/750 L2X defence Loss 0.3928 Primary task Training Acc 0.844 Val Acc 0.8256 Best Val Acc 0.830
+	Epoch 196/750 L2X defence Loss 0.3941 Primary task Training Acc 0.842 Val Acc 0.8249 Best Val Acc 0.830
+	Epoch 197/750 L2X defence Loss 0.3925 Primary task Training Acc 0.842 Val Acc 0.8246 Best Val Acc 0.830
+	Epoch 198/750 L2X defence Loss 0.3919 Primary task Training Acc 0.843 Val Acc 0.8288 Best Val Acc 0.830
+	Epoch 199/750 L2X defence Loss 0.3923 Primary task Training Acc 0.842 Val Acc 0.8290 Best Val Acc 0.830
+	Epoch 200/750 L2X defence Loss 0.3923 Primary task Training Acc 0.842 Val Acc 0.8244 Best Val Acc 0.830
+	Epoch 201/750 L2X defence Loss 0.3935 Primary task Training Acc 0.843 Val Acc 0.8240 Best Val Acc 0.830
+	Epoch 202/750 L2X defence Loss 0.3915 Primary task Training Acc 0.842 Val Acc 0.8265 Best Val Acc 0.830
+	Epoch 203/750 L2X defence Loss 0.3902 Primary task Training Acc 0.845 Val Acc 0.8274 Best Val Acc 0.830
+	Epoch 204/750 L2X defence Loss 0.3924 Primary task Training Acc 0.842 Val Acc 0.8254 Best Val Acc 0.830
+	Epoch 205/750 L2X defence Loss 0.3912 Primary task Training Acc 0.844 Val Acc 0.8267 Best Val Acc 0.830
+	Epoch 206/750 L2X defence Loss 0.3923 Primary task Training Acc 0.843 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 207/750 L2X defence Loss 0.3914 Primary task Training Acc 0.843 Val Acc 0.8242 Best Val Acc 0.830
+	Epoch 208/750 L2X defence Loss 0.3908 Primary task Training Acc 0.843 Val Acc 0.8260 Best Val Acc 0.830
+	Epoch 209/750 L2X defence Loss 0.3917 Primary task Training Acc 0.842 Val Acc 0.8222 Best Val Acc 0.830
+	Epoch 210/750 L2X defence Loss 0.3914 Primary task Training Acc 0.843 Val Acc 0.8246 Best Val Acc 0.830
+	Epoch 211/750 L2X defence Loss 0.3923 Primary task Training Acc 0.842 Val Acc 0.8281 Best Val Acc 0.830
+	Epoch 212/750 L2X defence Loss 0.3899 Primary task Training Acc 0.844 Val Acc 0.8249 Best Val Acc 0.830
+	Epoch 213/750 L2X defence Loss 0.3907 Primary task Training Acc 0.844 Val Acc 0.8260 Best Val Acc 0.830
+	Epoch 214/750 L2X defence Loss 0.3907 Primary task Training Acc 0.843 Val Acc 0.8231 Best Val Acc 0.830
+	Epoch 215/750 L2X defence Loss 0.3934 Primary task Training Acc 0.843 Val Acc 0.8237 Best Val Acc 0.830
+	Epoch 216/750 L2X defence Loss 0.3901 Primary task Training Acc 0.843 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 217/750 L2X defence Loss 0.3903 Primary task Training Acc 0.844 Val Acc 0.8253 Best Val Acc 0.830
+	Epoch 218/750 L2X defence Loss 0.3907 Primary task Training Acc 0.842 Val Acc 0.8228 Best Val Acc 0.830
+	Epoch 219/750 L2X defence Loss 0.3905 Primary task Training Acc 0.842 Val Acc 0.8267 Best Val Acc 0.830
+	Epoch 220/750 L2X defence Loss 0.3901 Primary task Training Acc 0.843 Val Acc 0.8274 Best Val Acc 0.830
+	Epoch 221/750 L2X defence Loss 0.3911 Primary task Training Acc 0.843 Val Acc 0.8191 Best Val Acc 0.830
+	Epoch 222/750 L2X defence Loss 0.3900 Primary task Training Acc 0.843 Val Acc 0.8244 Best Val Acc 0.830
+	Epoch 223/750 L2X defence Loss 0.3900 Primary task Training Acc 0.844 Val Acc 0.8238 Best Val Acc 0.830
+	Epoch 224/750 L2X defence Loss 0.3887 Primary task Training Acc 0.844 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 225/750 L2X defence Loss 0.3886 Primary task Training Acc 0.844 Val Acc 0.8265 Best Val Acc 0.830
+	Epoch 226/750 L2X defence Loss 0.3879 Primary task Training Acc 0.845 Val Acc 0.8251 Best Val Acc 0.830
+	Epoch 227/750 L2X defence Loss 0.3888 Primary task Training Acc 0.844 Val Acc 0.8251 Best Val Acc 0.830
+	Epoch 228/750 L2X defence Loss 0.3894 Primary task Training Acc 0.844 Val Acc 0.8215 Best Val Acc 0.830
+	Epoch 229/750 L2X defence Loss 0.3894 Primary task Training Acc 0.844 Val Acc 0.8242 Best Val Acc 0.830
+	Epoch 230/750 L2X defence Loss 0.3899 Primary task Training Acc 0.844 Val Acc 0.8270 Best Val Acc 0.830
+	Epoch 231/750 L2X defence Loss 0.3884 Primary task Training Acc 0.843 Val Acc 0.8246 Best Val Acc 0.830
+	Epoch 232/750 L2X defence Loss 0.3872 Primary task Training Acc 0.845 Val Acc 0.8235 Best Val Acc 0.830
+	Epoch 233/750 L2X defence Loss 0.3888 Primary task Training Acc 0.845 Val Acc 0.8244 Best Val Acc 0.830
+	Epoch 234/750 L2X defence Loss 0.3886 Primary task Training Acc 0.843 Val Acc 0.8256 Best Val Acc 0.830
+	Epoch 235/750 L2X defence Loss 0.3882 Primary task Training Acc 0.845 Val Acc 0.8251 Best Val Acc 0.830
+	Epoch 236/750 L2X defence Loss 0.3887 Primary task Training Acc 0.844 Val Acc 0.8263 Best Val Acc 0.830
+	Epoch 237/750 L2X defence Loss 0.3867 Primary task Training Acc 0.844 Val Acc 0.8253 Best Val Acc 0.830
+	Epoch 238/750 L2X defence Loss 0.3878 Primary task Training Acc 0.844 Val Acc 0.8235 Best Val Acc 0.830
+	Epoch 239/750 L2X defence Loss 0.3869 Primary task Training Acc 0.845 Val Acc 0.8231 Best Val Acc 0.830
+	Epoch 240/750 L2X defence Loss 0.3880 Primary task Training Acc 0.844 Val Acc 0.8224 Best Val Acc 0.830
+	Epoch 241/750 L2X defence Loss 0.3870 Primary task Training Acc 0.846 Val Acc 0.8267 Best Val Acc 0.830
+	Epoch 242/750 L2X defence Loss 0.3868 Primary task Training Acc 0.845 Val Acc 0.8263 Best Val Acc 0.830
+	Epoch 243/750 L2X defence Loss 0.3872 Primary task Training Acc 0.846 Val Acc 0.8242 Best Val Acc 0.830
+	Epoch 244/750 L2X defence Loss 0.3874 Primary task Training Acc 0.845 Val Acc 0.8249 Best Val Acc 0.830
+	Epoch 245/750 L2X defence Loss 0.3869 Primary task Training Acc 0.845 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 246/750 L2X defence Loss 0.3879 Primary task Training Acc 0.844 Val Acc 0.8244 Best Val Acc 0.830
+	Epoch 247/750 L2X defence Loss 0.3858 Primary task Training Acc 0.844 Val Acc 0.8260 Best Val Acc 0.830
+	Epoch 248/750 L2X defence Loss 0.3876 Primary task Training Acc 0.844 Val Acc 0.8242 Best Val Acc 0.830
+	Epoch 249/750 L2X defence Loss 0.3861 Primary task Training Acc 0.845 Val Acc 0.8228 Best Val Acc 0.830
+	Epoch 250/750 L2X defence Loss 0.3881 Primary task Training Acc 0.844 Val Acc 0.8258 Best Val Acc 0.830
+	Epoch 251/750 L2X defence Loss 0.3854 Primary task Training Acc 0.845 Val Acc 0.8249 Best Val Acc 0.830
+	Epoch 252/750 L2X defence Loss 0.3867 Primary task Training Acc 0.845 Val Acc 0.8253 Best Val Acc 0.830
+	Epoch 253/750 L2X defence Loss 0.3853 Primary task Training Acc 0.846 Val Acc 0.8265 Best Val Acc 0.830
+	Epoch 254/750 L2X defence Loss 0.3839 Primary task Training Acc 0.847 Val Acc 0.8270 Best Val Acc 0.830
+	Epoch 255/750 L2X defence Loss 0.3879 Primary task Training Acc 0.845 Val Acc 0.8272 Best Val Acc 0.830
+	Epoch 256/750 L2X defence Loss 0.3856 Primary task Training Acc 0.845 Val Acc 0.8288 Best Val Acc 0.830
+	Epoch 257/750 L2X defence Loss 0.3861 Primary task Training Acc 0.846 Val Acc 0.8285 Best Val Acc 0.830
+	Epoch 258/750 L2X defence Loss 0.3861 Primary task Training Acc 0.846 Val Acc 0.8249 Best Val Acc 0.830
+	Epoch 259/750 L2X defence Loss 0.3852 Primary task Training Acc 0.845 Val Acc 0.8244 Best Val Acc 0.830
+	Epoch 260/750 L2X defence Loss 0.3867 Primary task Training Acc 0.844 Val Acc 0.8205 Best Val Acc 0.830
+	Epoch 261/750 L2X defence Loss 0.3846 Primary task Training Acc 0.847 Val Acc 0.8235 Best Val Acc 0.830
+	Epoch 262/750 L2X defence Loss 0.3866 Primary task Training Acc 0.845 Val Acc 0.8276 Best Val Acc 0.830
+	Epoch 263/750 L2X defence Loss 0.3859 Primary task Training Acc 0.845 Val Acc 0.8253 Best Val Acc 0.830
+	Epoch 264/750 L2X defence Loss 0.3852 Primary task Training Acc 0.845 Val Acc 0.8281 Best Val Acc 0.830
+	Epoch 265/750 L2X defence Loss 0.3843 Primary task Training Acc 0.845 Val Acc 0.8274 Best Val Acc 0.830
+	Epoch 266/750 L2X defence Loss 0.3846 Primary task Training Acc 0.845 Val Acc 0.8242 Best Val Acc 0.830
+	Epoch 267/750 L2X defence Loss 0.3846 Primary task Training Acc 0.845 Val Acc 0.8240 Best Val Acc 0.830
+	Epoch 268/750 L2X defence Loss 0.3848 Primary task Training Acc 0.847 Val Acc 0.8219 Best Val Acc 0.830
+	Epoch 269/750 L2X defence Loss 0.3834 Primary task Training Acc 0.847 Val Acc 0.8226 Best Val Acc 0.830
+	Epoch 270/750 L2X defence Loss 0.3839 Primary task Training Acc 0.846 Val Acc 0.8221 Best Val Acc 0.830
+	Epoch 271/750 L2X defence Loss 0.3849 Primary task Training Acc 0.847 Val Acc 0.8242 Best Val Acc 0.830
+	Epoch 272/750 L2X defence Loss 0.3832 Primary task Training Acc 0.846 Val Acc 0.8237 Best Val Acc 0.830
+	Epoch 273/750 L2X defence Loss 0.3828 Primary task Training Acc 0.847 Val Acc 0.8249 Best Val Acc 0.830
+	Epoch 274/750 L2X defence Loss 0.3829 Primary task Training Acc 0.846 Val Acc 0.8270 Best Val Acc 0.830
+	Epoch 275/750 L2X defence Loss 0.3849 Primary task Training Acc 0.846 Val Acc 0.8251 Best Val Acc 0.830
+	Epoch 276/750 L2X defence Loss 0.3827 Primary task Training Acc 0.846 Val Acc 0.8249 Best Val Acc 0.830
+	Epoch 277/750 L2X defence Loss 0.3847 Primary task Training Acc 0.846 Val Acc 0.8256 Best Val Acc 0.830
+	Epoch 278/750 L2X defence Loss 0.3819 Primary task Training Acc 0.849 Val Acc 0.8244 Best Val Acc 0.830
+	Epoch 279/750 L2X defence Loss 0.3834 Primary task Training Acc 0.846 Val Acc 0.8260 Best Val Acc 0.830
+	Epoch 280/750 L2X defence Loss 0.3840 Primary task Training Acc 0.847 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 281/750 L2X defence Loss 0.3847 Primary task Training Acc 0.845 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 282/750 L2X defence Loss 0.3814 Primary task Training Acc 0.846 Val Acc 0.8231 Best Val Acc 0.830
+	Epoch 283/750 L2X defence Loss 0.3827 Primary task Training Acc 0.845 Val Acc 0.8261 Best Val Acc 0.830
+	Epoch 284/750 L2X defence Loss 0.3816 Primary task Training Acc 0.847 Val Acc 0.8269 Best Val Acc 0.830
+	Epoch 285/750 L2X defence Loss 0.3840 Primary task Training Acc 0.847 Val Acc 0.8274 Best Val Acc 0.830
+	Epoch 286/750 L2X defence Loss 0.3823 Primary task Training Acc 0.845 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 287/750 L2X defence Loss 0.3814 Primary task Training Acc 0.849 Val Acc 0.8235 Best Val Acc 0.830
+	Epoch 288/750 L2X defence Loss 0.3834 Primary task Training Acc 0.847 Val Acc 0.8256 Best Val Acc 0.830
+	Epoch 289/750 L2X defence Loss 0.3811 Primary task Training Acc 0.847 Val Acc 0.8279 Best Val Acc 0.830
+	Epoch 290/750 L2X defence Loss 0.3830 Primary task Training Acc 0.848 Val Acc 0.8221 Best Val Acc 0.830
+	Epoch 291/750 L2X defence Loss 0.3818 Primary task Training Acc 0.847 Val Acc 0.8272 Best Val Acc 0.830
+	Epoch 292/750 L2X defence Loss 0.3813 Primary task Training Acc 0.847 Val Acc 0.8214 Best Val Acc 0.830
+	Epoch 293/750 L2X defence Loss 0.3815 Primary task Training Acc 0.846 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 294/750 L2X defence Loss 0.3822 Primary task Training Acc 0.847 Val Acc 0.8272 Best Val Acc 0.830
+	Epoch 295/750 L2X defence Loss 0.3800 Primary task Training Acc 0.847 Val Acc 0.8251 Best Val Acc 0.830
+	Epoch 296/750 L2X defence Loss 0.3812 Primary task Training Acc 0.847 Val Acc 0.8194 Best Val Acc 0.830
+	Epoch 297/750 L2X defence Loss 0.3831 Primary task Training Acc 0.846 Val Acc 0.8272 Best Val Acc 0.830
+	Epoch 298/750 L2X defence Loss 0.3826 Primary task Training Acc 0.847 Val Acc 0.8240 Best Val Acc 0.830
+	Epoch 299/750 L2X defence Loss 0.3813 Primary task Training Acc 0.848 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 300/750 L2X defence Loss 0.3810 Primary task Training Acc 0.848 Val Acc 0.8256 Best Val Acc 0.830
+	Epoch 301/750 L2X defence Loss 0.3823 Primary task Training Acc 0.847 Val Acc 0.8272 Best Val Acc 0.830
+	Epoch 302/750 L2X defence Loss 0.3820 Primary task Training Acc 0.847 Val Acc 0.8235 Best Val Acc 0.830
+	Epoch 303/750 L2X defence Loss 0.3821 Primary task Training Acc 0.846 Val Acc 0.8249 Best Val Acc 0.830
+	Epoch 304/750 L2X defence Loss 0.3827 Primary task Training Acc 0.848 Val Acc 0.8231 Best Val Acc 0.830
+	Epoch 305/750 L2X defence Loss 0.3814 Primary task Training Acc 0.849 Val Acc 0.8226 Best Val Acc 0.830
+	Epoch 306/750 L2X defence Loss 0.3807 Primary task Training Acc 0.847 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 307/750 L2X defence Loss 0.3795 Primary task Training Acc 0.849 Val Acc 0.8251 Best Val Acc 0.830
+	Epoch 308/750 L2X defence Loss 0.3805 Primary task Training Acc 0.846 Val Acc 0.8237 Best Val Acc 0.830
+	Epoch 309/750 L2X defence Loss 0.3824 Primary task Training Acc 0.847 Val Acc 0.8274 Best Val Acc 0.830
+	Epoch 310/750 L2X defence Loss 0.3787 Primary task Training Acc 0.849 Val Acc 0.8281 Best Val Acc 0.830
+	Epoch 311/750 L2X defence Loss 0.3806 Primary task Training Acc 0.847 Val Acc 0.8258 Best Val Acc 0.830
+	Epoch 312/750 L2X defence Loss 0.3792 Primary task Training Acc 0.848 Val Acc 0.8258 Best Val Acc 0.830
+	Epoch 313/750 L2X defence Loss 0.3805 Primary task Training Acc 0.847 Val Acc 0.8265 Best Val Acc 0.830
+	Epoch 314/750 L2X defence Loss 0.3791 Primary task Training Acc 0.848 Val Acc 0.8251 Best Val Acc 0.830
+	Epoch 315/750 L2X defence Loss 0.3810 Primary task Training Acc 0.848 Val Acc 0.8286 Best Val Acc 0.830
+	Epoch 316/750 L2X defence Loss 0.3817 Primary task Training Acc 0.848 Val Acc 0.8290 Best Val Acc 0.830
+Weight saved in Weights/SERE/ckpt-21 Weights/CL/ckpt-21
+	Epoch 317/750 L2X defence Loss 0.3802 Primary task Training Acc 0.848 Val Acc 0.8300 Best Val Acc 0.830
+	Epoch 318/750 L2X defence Loss 0.3803 Primary task Training Acc 0.848 Val Acc 0.8217 Best Val Acc 0.830
+	Epoch 319/750 L2X defence Loss 0.3797 Primary task Training Acc 0.848 Val Acc 0.8237 Best Val Acc 0.830
+	Epoch 320/750 L2X defence Loss 0.3795 Primary task Training Acc 0.849 Val Acc 0.8251 Best Val Acc 0.830
+	Epoch 321/750 L2X defence Loss 0.3791 Primary task Training Acc 0.848 Val Acc 0.8272 Best Val Acc 0.830
+	Epoch 322/750 L2X defence Loss 0.3804 Primary task Training Acc 0.848 Val Acc 0.8230 Best Val Acc 0.830
+	Epoch 323/750 L2X defence Loss 0.3789 Primary task Training Acc 0.848 Val Acc 0.8297 Best Val Acc 0.830
+	Epoch 324/750 L2X defence Loss 0.3810 Primary task Training Acc 0.848 Val Acc 0.8231 Best Val Acc 0.830
+	Epoch 325/750 L2X defence Loss 0.3778 Primary task Training Acc 0.847 Val Acc 0.8256 Best Val Acc 0.830
+	Epoch 326/750 L2X defence Loss 0.3779 Primary task Training Acc 0.847 Val Acc 0.8237 Best Val Acc 0.830
+	Epoch 327/750 L2X defence Loss 0.3799 Primary task Training Acc 0.847 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 328/750 L2X defence Loss 0.3782 Primary task Training Acc 0.848 Val Acc 0.8240 Best Val Acc 0.830
+	Epoch 329/750 L2X defence Loss 0.3794 Primary task Training Acc 0.848 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 330/750 L2X defence Loss 0.3776 Primary task Training Acc 0.848 Val Acc 0.8219 Best Val Acc 0.830
+	Epoch 331/750 L2X defence Loss 0.3778 Primary task Training Acc 0.850 Val Acc 0.8258 Best Val Acc 0.830
+	Epoch 332/750 L2X defence Loss 0.3793 Primary task Training Acc 0.849 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 333/750 L2X defence Loss 0.3773 Primary task Training Acc 0.850 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 334/750 L2X defence Loss 0.3782 Primary task Training Acc 0.847 Val Acc 0.8235 Best Val Acc 0.830
+	Epoch 335/750 L2X defence Loss 0.3770 Primary task Training Acc 0.851 Val Acc 0.8267 Best Val Acc 0.830
+	Epoch 336/750 L2X defence Loss 0.3779 Primary task Training Acc 0.849 Val Acc 0.8224 Best Val Acc 0.830
+	Epoch 337/750 L2X defence Loss 0.3771 Primary task Training Acc 0.849 Val Acc 0.8256 Best Val Acc 0.830
+	Epoch 338/750 L2X defence Loss 0.3772 Primary task Training Acc 0.849 Val Acc 0.8219 Best Val Acc 0.830
+	Epoch 339/750 L2X defence Loss 0.3786 Primary task Training Acc 0.850 Val Acc 0.8212 Best Val Acc 0.830
+	Epoch 340/750 L2X defence Loss 0.3750 Primary task Training Acc 0.850 Val Acc 0.8274 Best Val Acc 0.830
+	Epoch 341/750 L2X defence Loss 0.3774 Primary task Training Acc 0.849 Val Acc 0.8260 Best Val Acc 0.830
+	Epoch 342/750 L2X defence Loss 0.3769 Primary task Training Acc 0.849 Val Acc 0.8256 Best Val Acc 0.830
+	Epoch 343/750 L2X defence Loss 0.3788 Primary task Training Acc 0.849 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 344/750 L2X defence Loss 0.3795 Primary task Training Acc 0.848 Val Acc 0.8249 Best Val Acc 0.830
+	Epoch 345/750 L2X defence Loss 0.3787 Primary task Training Acc 0.848 Val Acc 0.8231 Best Val Acc 0.830
+	Epoch 346/750 L2X defence Loss 0.3756 Primary task Training Acc 0.849 Val Acc 0.8251 Best Val Acc 0.830
+	Epoch 347/750 L2X defence Loss 0.3774 Primary task Training Acc 0.849 Val Acc 0.8263 Best Val Acc 0.830
+	Epoch 348/750 L2X defence Loss 0.3787 Primary task Training Acc 0.848 Val Acc 0.8253 Best Val Acc 0.830
+	Epoch 349/750 L2X defence Loss 0.3775 Primary task Training Acc 0.850 Val Acc 0.8249 Best Val Acc 0.830
+	Epoch 350/750 L2X defence Loss 0.3754 Primary task Training Acc 0.850 Val Acc 0.8260 Best Val Acc 0.830
+	Epoch 351/750 L2X defence Loss 0.3767 Primary task Training Acc 0.849 Val Acc 0.8228 Best Val Acc 0.830
+	Epoch 352/750 L2X defence Loss 0.3759 Primary task Training Acc 0.850 Val Acc 0.8235 Best Val Acc 0.830
+	Epoch 353/750 L2X defence Loss 0.3766 Primary task Training Acc 0.850 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 354/750 L2X defence Loss 0.3768 Primary task Training Acc 0.849 Val Acc 0.8242 Best Val Acc 0.830
+	Epoch 355/750 L2X defence Loss 0.3765 Primary task Training Acc 0.847 Val Acc 0.8251 Best Val Acc 0.830
+	Epoch 356/750 L2X defence Loss 0.3757 Primary task Training Acc 0.850 Val Acc 0.8240 Best Val Acc 0.830
+	Epoch 357/750 L2X defence Loss 0.3761 Primary task Training Acc 0.850 Val Acc 0.8270 Best Val Acc 0.830
+	Epoch 358/750 L2X defence Loss 0.3761 Primary task Training Acc 0.850 Val Acc 0.8244 Best Val Acc 0.830
+	Epoch 359/750 L2X defence Loss 0.3759 Primary task Training Acc 0.850 Val Acc 0.8240 Best Val Acc 0.830
+	Epoch 360/750 L2X defence Loss 0.3770 Primary task Training Acc 0.849 Val Acc 0.8265 Best Val Acc 0.830
+	Epoch 361/750 L2X defence Loss 0.3750 Primary task Training Acc 0.848 Val Acc 0.8249 Best Val Acc 0.830
+	Epoch 362/750 L2X defence Loss 0.3755 Primary task Training Acc 0.851 Val Acc 0.8256 Best Val Acc 0.830
+	Epoch 363/750 L2X defence Loss 0.3746 Primary task Training Acc 0.851 Val Acc 0.8251 Best Val Acc 0.830
+	Epoch 364/750 L2X defence Loss 0.3753 Primary task Training Acc 0.849 Val Acc 0.8226 Best Val Acc 0.830
+	Epoch 365/750 L2X defence Loss 0.3768 Primary task Training Acc 0.850 Val Acc 0.8249 Best Val Acc 0.830
+	Epoch 366/750 L2X defence Loss 0.3744 Primary task Training Acc 0.850 Val Acc 0.8224 Best Val Acc 0.830
+	Epoch 367/750 L2X defence Loss 0.3759 Primary task Training Acc 0.849 Val Acc 0.8231 Best Val Acc 0.830
+	Epoch 368/750 L2X defence Loss 0.3741 Primary task Training Acc 0.850 Val Acc 0.8249 Best Val Acc 0.830
+	Epoch 369/750 L2X defence Loss 0.3751 Primary task Training Acc 0.851 Val Acc 0.8226 Best Val Acc 0.830
+	Epoch 370/750 L2X defence Loss 0.3759 Primary task Training Acc 0.851 Val Acc 0.8258 Best Val Acc 0.830
+	Epoch 371/750 L2X defence Loss 0.3731 Primary task Training Acc 0.851 Val Acc 0.8235 Best Val Acc 0.830
+	Epoch 372/750 L2X defence Loss 0.3741 Primary task Training Acc 0.850 Val Acc 0.8226 Best Val Acc 0.830
+	Epoch 373/750 L2X defence Loss 0.3765 Primary task Training Acc 0.849 Val Acc 0.8267 Best Val Acc 0.830
+	Epoch 374/750 L2X defence Loss 0.3747 Primary task Training Acc 0.850 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 375/750 L2X defence Loss 0.3745 Primary task Training Acc 0.850 Val Acc 0.8231 Best Val Acc 0.830
+	Epoch 376/750 L2X defence Loss 0.3736 Primary task Training Acc 0.850 Val Acc 0.8224 Best Val Acc 0.830
+	Epoch 377/750 L2X defence Loss 0.3723 Primary task Training Acc 0.852 Val Acc 0.8263 Best Val Acc 0.830
+	Epoch 378/750 L2X defence Loss 0.3746 Primary task Training Acc 0.851 Val Acc 0.8224 Best Val Acc 0.830
+	Epoch 379/750 L2X defence Loss 0.3738 Primary task Training Acc 0.851 Val Acc 0.8267 Best Val Acc 0.830
+	Epoch 380/750 L2X defence Loss 0.3727 Primary task Training Acc 0.851 Val Acc 0.8263 Best Val Acc 0.830
+	Epoch 381/750 L2X defence Loss 0.3748 Primary task Training Acc 0.850 Val Acc 0.8224 Best Val Acc 0.830
+	Epoch 382/750 L2X defence Loss 0.3728 Primary task Training Acc 0.850 Val Acc 0.8224 Best Val Acc 0.830
+	Epoch 383/750 L2X defence Loss 0.3748 Primary task Training Acc 0.850 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 384/750 L2X defence Loss 0.3747 Primary task Training Acc 0.851 Val Acc 0.8237 Best Val Acc 0.830
+	Epoch 385/750 L2X defence Loss 0.3740 Primary task Training Acc 0.852 Val Acc 0.8226 Best Val Acc 0.830
+	Epoch 386/750 L2X defence Loss 0.3743 Primary task Training Acc 0.850 Val Acc 0.8226 Best Val Acc 0.830
+	Epoch 387/750 L2X defence Loss 0.3739 Primary task Training Acc 0.851 Val Acc 0.8244 Best Val Acc 0.830
+	Epoch 388/750 L2X defence Loss 0.3737 Primary task Training Acc 0.852 Val Acc 0.8226 Best Val Acc 0.830
+	Epoch 389/750 L2X defence Loss 0.3745 Primary task Training Acc 0.850 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 390/750 L2X defence Loss 0.3739 Primary task Training Acc 0.851 Val Acc 0.8244 Best Val Acc 0.830
+	Epoch 391/750 L2X defence Loss 0.3733 Primary task Training Acc 0.853 Val Acc 0.8240 Best Val Acc 0.830
+	Epoch 392/750 L2X defence Loss 0.3729 Primary task Training Acc 0.851 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 393/750 L2X defence Loss 0.3715 Primary task Training Acc 0.852 Val Acc 0.8263 Best Val Acc 0.830
+	Epoch 394/750 L2X defence Loss 0.3753 Primary task Training Acc 0.852 Val Acc 0.8231 Best Val Acc 0.830
+	Epoch 395/750 L2X defence Loss 0.3744 Primary task Training Acc 0.851 Val Acc 0.8238 Best Val Acc 0.830
+	Epoch 396/750 L2X defence Loss 0.3731 Primary task Training Acc 0.852 Val Acc 0.8244 Best Val Acc 0.830
+	Epoch 397/750 L2X defence Loss 0.3712 Primary task Training Acc 0.853 Val Acc 0.8219 Best Val Acc 0.830
+	Epoch 398/750 L2X defence Loss 0.3734 Primary task Training Acc 0.853 Val Acc 0.8224 Best Val Acc 0.830
+	Epoch 399/750 L2X defence Loss 0.3735 Primary task Training Acc 0.851 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 400/750 L2X defence Loss 0.3728 Primary task Training Acc 0.851 Val Acc 0.8226 Best Val Acc 0.830
+	Epoch 401/750 L2X defence Loss 0.3746 Primary task Training Acc 0.849 Val Acc 0.8182 Best Val Acc 0.830
+	Epoch 402/750 L2X defence Loss 0.3720 Primary task Training Acc 0.851 Val Acc 0.8210 Best Val Acc 0.830
+	Epoch 403/750 L2X defence Loss 0.3752 Primary task Training Acc 0.850 Val Acc 0.8203 Best Val Acc 0.830
+	Epoch 404/750 L2X defence Loss 0.3719 Primary task Training Acc 0.852 Val Acc 0.8228 Best Val Acc 0.830
+	Epoch 405/750 L2X defence Loss 0.3717 Primary task Training Acc 0.851 Val Acc 0.8244 Best Val Acc 0.830
+	Epoch 406/750 L2X defence Loss 0.3714 Primary task Training Acc 0.852 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 407/750 L2X defence Loss 0.3736 Primary task Training Acc 0.851 Val Acc 0.8219 Best Val Acc 0.830
+	Epoch 408/750 L2X defence Loss 0.3721 Primary task Training Acc 0.851 Val Acc 0.8212 Best Val Acc 0.830
+	Epoch 409/750 L2X defence Loss 0.3732 Primary task Training Acc 0.851 Val Acc 0.8242 Best Val Acc 0.830
+	Epoch 410/750 L2X defence Loss 0.3709 Primary task Training Acc 0.851 Val Acc 0.8200 Best Val Acc 0.830
+	Epoch 411/750 L2X defence Loss 0.3724 Primary task Training Acc 0.852 Val Acc 0.8189 Best Val Acc 0.830
+	Epoch 412/750 L2X defence Loss 0.3733 Primary task Training Acc 0.851 Val Acc 0.8226 Best Val Acc 0.830
+	Epoch 413/750 L2X defence Loss 0.3728 Primary task Training Acc 0.852 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 414/750 L2X defence Loss 0.3707 Primary task Training Acc 0.852 Val Acc 0.8212 Best Val Acc 0.830
+	Epoch 415/750 L2X defence Loss 0.3716 Primary task Training Acc 0.852 Val Acc 0.8231 Best Val Acc 0.830
+	Epoch 416/750 L2X defence Loss 0.3701 Primary task Training Acc 0.852 Val Acc 0.8214 Best Val Acc 0.830
+	Epoch 417/750 L2X defence Loss 0.3706 Primary task Training Acc 0.851 Val Acc 0.8192 Best Val Acc 0.830
+	Epoch 418/750 L2X defence Loss 0.3720 Primary task Training Acc 0.852 Val Acc 0.8221 Best Val Acc 0.830
+	Epoch 419/750 L2X defence Loss 0.3724 Primary task Training Acc 0.851 Val Acc 0.8258 Best Val Acc 0.830
+	Epoch 420/750 L2X defence Loss 0.3704 Primary task Training Acc 0.852 Val Acc 0.8224 Best Val Acc 0.830
+	Epoch 421/750 L2X defence Loss 0.3720 Primary task Training Acc 0.851 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 422/750 L2X defence Loss 0.3715 Primary task Training Acc 0.852 Val Acc 0.8192 Best Val Acc 0.830
+	Epoch 423/750 L2X defence Loss 0.3718 Primary task Training Acc 0.852 Val Acc 0.8244 Best Val Acc 0.830
+	Epoch 424/750 L2X defence Loss 0.3720 Primary task Training Acc 0.850 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 425/750 L2X defence Loss 0.3721 Primary task Training Acc 0.851 Val Acc 0.8212 Best Val Acc 0.830
+	Epoch 426/750 L2X defence Loss 0.3692 Primary task Training Acc 0.853 Val Acc 0.8231 Best Val Acc 0.830
+	Epoch 427/750 L2X defence Loss 0.3726 Primary task Training Acc 0.852 Val Acc 0.8231 Best Val Acc 0.830
+	Epoch 428/750 L2X defence Loss 0.3710 Primary task Training Acc 0.854 Val Acc 0.8206 Best Val Acc 0.830
+	Epoch 429/750 L2X defence Loss 0.3720 Primary task Training Acc 0.851 Val Acc 0.8224 Best Val Acc 0.830
+	Epoch 430/750 L2X defence Loss 0.3687 Primary task Training Acc 0.853 Val Acc 0.8231 Best Val Acc 0.830
+	Epoch 431/750 L2X defence Loss 0.3701 Primary task Training Acc 0.851 Val Acc 0.8251 Best Val Acc 0.830
+	Epoch 432/750 L2X defence Loss 0.3715 Primary task Training Acc 0.850 Val Acc 0.8224 Best Val Acc 0.830
+	Epoch 433/750 L2X defence Loss 0.3719 Primary task Training Acc 0.852 Val Acc 0.8210 Best Val Acc 0.830
+	Epoch 434/750 L2X defence Loss 0.3707 Primary task Training Acc 0.852 Val Acc 0.8237 Best Val Acc 0.830
+	Epoch 435/750 L2X defence Loss 0.3693 Primary task Training Acc 0.854 Val Acc 0.8242 Best Val Acc 0.830
+	Epoch 436/750 L2X defence Loss 0.3686 Primary task Training Acc 0.853 Val Acc 0.8217 Best Val Acc 0.830
+	Epoch 437/750 L2X defence Loss 0.3717 Primary task Training Acc 0.851 Val Acc 0.8242 Best Val Acc 0.830
+	Epoch 438/750 L2X defence Loss 0.3718 Primary task Training Acc 0.851 Val Acc 0.8208 Best Val Acc 0.830
+	Epoch 439/750 L2X defence Loss 0.3683 Primary task Training Acc 0.854 Val Acc 0.8251 Best Val Acc 0.830
+	Epoch 440/750 L2X defence Loss 0.3689 Primary task Training Acc 0.853 Val Acc 0.8237 Best Val Acc 0.830
+	Epoch 441/750 L2X defence Loss 0.3698 Primary task Training Acc 0.854 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 442/750 L2X defence Loss 0.3693 Primary task Training Acc 0.852 Val Acc 0.8221 Best Val Acc 0.830
+	Epoch 443/750 L2X defence Loss 0.3687 Primary task Training Acc 0.853 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 444/750 L2X defence Loss 0.3708 Primary task Training Acc 0.853 Val Acc 0.8251 Best Val Acc 0.830
+	Epoch 445/750 L2X defence Loss 0.3697 Primary task Training Acc 0.853 Val Acc 0.8221 Best Val Acc 0.830
+	Epoch 446/750 L2X defence Loss 0.3697 Primary task Training Acc 0.854 Val Acc 0.8221 Best Val Acc 0.830
+	Epoch 447/750 L2X defence Loss 0.3693 Primary task Training Acc 0.854 Val Acc 0.8251 Best Val Acc 0.830
+	Epoch 448/750 L2X defence Loss 0.3681 Primary task Training Acc 0.854 Val Acc 0.8240 Best Val Acc 0.830
+	Epoch 449/750 L2X defence Loss 0.3694 Primary task Training Acc 0.852 Val Acc 0.8210 Best Val Acc 0.830
+	Epoch 450/750 L2X defence Loss 0.3701 Primary task Training Acc 0.853 Val Acc 0.8219 Best Val Acc 0.830
+	Epoch 451/750 L2X defence Loss 0.3695 Primary task Training Acc 0.851 Val Acc 0.8256 Best Val Acc 0.830
+	Epoch 452/750 L2X defence Loss 0.3685 Primary task Training Acc 0.853 Val Acc 0.8240 Best Val Acc 0.830
+	Epoch 453/750 L2X defence Loss 0.3696 Primary task Training Acc 0.854 Val Acc 0.8244 Best Val Acc 0.830
+	Epoch 454/750 L2X defence Loss 0.3697 Primary task Training Acc 0.853 Val Acc 0.8219 Best Val Acc 0.830
+	Epoch 455/750 L2X defence Loss 0.3691 Primary task Training Acc 0.853 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 456/750 L2X defence Loss 0.3688 Primary task Training Acc 0.853 Val Acc 0.8249 Best Val Acc 0.830
+	Epoch 457/750 L2X defence Loss 0.3709 Primary task Training Acc 0.852 Val Acc 0.8251 Best Val Acc 0.830
+	Epoch 458/750 L2X defence Loss 0.3670 Primary task Training Acc 0.853 Val Acc 0.8256 Best Val Acc 0.830
+	Epoch 459/750 L2X defence Loss 0.3671 Primary task Training Acc 0.854 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 460/750 L2X defence Loss 0.3698 Primary task Training Acc 0.853 Val Acc 0.8205 Best Val Acc 0.830
+	Epoch 461/750 L2X defence Loss 0.3676 Primary task Training Acc 0.854 Val Acc 0.8221 Best Val Acc 0.830
+	Epoch 462/750 L2X defence Loss 0.3685 Primary task Training Acc 0.854 Val Acc 0.8249 Best Val Acc 0.830
+	Epoch 463/750 L2X defence Loss 0.3677 Primary task Training Acc 0.854 Val Acc 0.8235 Best Val Acc 0.830
+	Epoch 464/750 L2X defence Loss 0.3669 Primary task Training Acc 0.853 Val Acc 0.8265 Best Val Acc 0.830
+	Epoch 465/750 L2X defence Loss 0.3676 Primary task Training Acc 0.853 Val Acc 0.8263 Best Val Acc 0.830
+	Epoch 466/750 L2X defence Loss 0.3688 Primary task Training Acc 0.854 Val Acc 0.8256 Best Val Acc 0.830
+	Epoch 467/750 L2X defence Loss 0.3670 Primary task Training Acc 0.855 Val Acc 0.8253 Best Val Acc 0.830
+	Epoch 468/750 L2X defence Loss 0.3671 Primary task Training Acc 0.854 Val Acc 0.8260 Best Val Acc 0.830
+	Epoch 469/750 L2X defence Loss 0.3664 Primary task Training Acc 0.853 Val Acc 0.8258 Best Val Acc 0.830
+	Epoch 470/750 L2X defence Loss 0.3691 Primary task Training Acc 0.853 Val Acc 0.8274 Best Val Acc 0.830
+	Epoch 471/750 L2X defence Loss 0.3666 Primary task Training Acc 0.854 Val Acc 0.8240 Best Val Acc 0.830
+	Epoch 472/750 L2X defence Loss 0.3676 Primary task Training Acc 0.853 Val Acc 0.8267 Best Val Acc 0.830
+	Epoch 473/750 L2X defence Loss 0.3689 Primary task Training Acc 0.854 Val Acc 0.8224 Best Val Acc 0.830
+	Epoch 474/750 L2X defence Loss 0.3669 Primary task Training Acc 0.855 Val Acc 0.8228 Best Val Acc 0.830
+	Epoch 475/750 L2X defence Loss 0.3683 Primary task Training Acc 0.853 Val Acc 0.8237 Best Val Acc 0.830
+	Epoch 476/750 L2X defence Loss 0.3681 Primary task Training Acc 0.854 Val Acc 0.8219 Best Val Acc 0.830
+	Epoch 477/750 L2X defence Loss 0.3669 Primary task Training Acc 0.853 Val Acc 0.8265 Best Val Acc 0.830
+	Epoch 478/750 L2X defence Loss 0.3664 Primary task Training Acc 0.856 Val Acc 0.8228 Best Val Acc 0.830
+	Epoch 479/750 L2X defence Loss 0.3654 Primary task Training Acc 0.853 Val Acc 0.8242 Best Val Acc 0.830
+	Epoch 480/750 L2X defence Loss 0.3677 Primary task Training Acc 0.855 Val Acc 0.8222 Best Val Acc 0.830
+	Epoch 481/750 L2X defence Loss 0.3664 Primary task Training Acc 0.853 Val Acc 0.8226 Best Val Acc 0.830
+	Epoch 482/750 L2X defence Loss 0.3665 Primary task Training Acc 0.852 Val Acc 0.8267 Best Val Acc 0.830
+	Epoch 483/750 L2X defence Loss 0.3671 Primary task Training Acc 0.855 Val Acc 0.8203 Best Val Acc 0.830
+	Epoch 484/750 L2X defence Loss 0.3668 Primary task Training Acc 0.853 Val Acc 0.8253 Best Val Acc 0.830
+	Epoch 485/750 L2X defence Loss 0.3675 Primary task Training Acc 0.853 Val Acc 0.8240 Best Val Acc 0.830
+	Epoch 486/750 L2X defence Loss 0.3668 Primary task Training Acc 0.854 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 487/750 L2X defence Loss 0.3666 Primary task Training Acc 0.854 Val Acc 0.8242 Best Val Acc 0.830
+	Epoch 488/750 L2X defence Loss 0.3658 Primary task Training Acc 0.854 Val Acc 0.8224 Best Val Acc 0.830
+	Epoch 489/750 L2X defence Loss 0.3662 Primary task Training Acc 0.854 Val Acc 0.8251 Best Val Acc 0.830
+	Epoch 490/750 L2X defence Loss 0.3680 Primary task Training Acc 0.853 Val Acc 0.8263 Best Val Acc 0.830
+	Epoch 491/750 L2X defence Loss 0.3663 Primary task Training Acc 0.855 Val Acc 0.8254 Best Val Acc 0.830
+	Epoch 492/750 L2X defence Loss 0.3660 Primary task Training Acc 0.854 Val Acc 0.8198 Best Val Acc 0.830
+	Epoch 493/750 L2X defence Loss 0.3659 Primary task Training Acc 0.854 Val Acc 0.8281 Best Val Acc 0.830
+	Epoch 494/750 L2X defence Loss 0.3643 Primary task Training Acc 0.857 Val Acc 0.8256 Best Val Acc 0.830
+	Epoch 495/750 L2X defence Loss 0.3669 Primary task Training Acc 0.853 Val Acc 0.8203 Best Val Acc 0.830
+	Epoch 496/750 L2X defence Loss 0.3672 Primary task Training Acc 0.852 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 497/750 L2X defence Loss 0.3638 Primary task Training Acc 0.854 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 498/750 L2X defence Loss 0.3648 Primary task Training Acc 0.854 Val Acc 0.8228 Best Val Acc 0.830
+	Epoch 499/750 L2X defence Loss 0.3668 Primary task Training Acc 0.854 Val Acc 0.8256 Best Val Acc 0.830
+	Epoch 500/750 L2X defence Loss 0.3650 Primary task Training Acc 0.855 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 501/750 L2X defence Loss 0.3669 Primary task Training Acc 0.856 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 502/750 L2X defence Loss 0.3664 Primary task Training Acc 0.855 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 503/750 L2X defence Loss 0.3661 Primary task Training Acc 0.855 Val Acc 0.8231 Best Val Acc 0.830
+	Epoch 504/750 L2X defence Loss 0.3663 Primary task Training Acc 0.856 Val Acc 0.8237 Best Val Acc 0.830
+	Epoch 505/750 L2X defence Loss 0.3637 Primary task Training Acc 0.855 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 506/750 L2X defence Loss 0.3659 Primary task Training Acc 0.855 Val Acc 0.8203 Best Val Acc 0.830
+	Epoch 507/750 L2X defence Loss 0.3657 Primary task Training Acc 0.854 Val Acc 0.8237 Best Val Acc 0.830
+	Epoch 508/750 L2X defence Loss 0.3648 Primary task Training Acc 0.855 Val Acc 0.8231 Best Val Acc 0.830
+	Epoch 509/750 L2X defence Loss 0.3647 Primary task Training Acc 0.853 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 510/750 L2X defence Loss 0.3642 Primary task Training Acc 0.855 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 511/750 L2X defence Loss 0.3653 Primary task Training Acc 0.856 Val Acc 0.8219 Best Val Acc 0.830
+	Epoch 512/750 L2X defence Loss 0.3655 Primary task Training Acc 0.855 Val Acc 0.8258 Best Val Acc 0.830
+	Epoch 513/750 L2X defence Loss 0.3646 Primary task Training Acc 0.855 Val Acc 0.8274 Best Val Acc 0.830
+	Epoch 514/750 L2X defence Loss 0.3629 Primary task Training Acc 0.855 Val Acc 0.8235 Best Val Acc 0.830
+	Epoch 515/750 L2X defence Loss 0.3660 Primary task Training Acc 0.855 Val Acc 0.8247 Best Val Acc 0.830
+	Epoch 516/750 L2X defence Loss 0.3660 Primary task Training Acc 0.854 Val Acc 0.8205 Best Val Acc 0.830
+	Epoch 517/750 L2X defence Loss 0.3649 Primary task Training Acc 0.854 Val Acc 0.8208 Best Val Acc 0.830
+	Epoch 518/750 L2X defence Loss 0.3639 Primary task Training Acc 0.854 Val Acc 0.8267 Best Val Acc 0.830
+	Epoch 519/750 L2X defence Loss 0.3626 Primary task Training Acc 0.856 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 520/750 L2X defence Loss 0.3649 Primary task Training Acc 0.856 Val Acc 0.8249 Best Val Acc 0.830
+	Epoch 521/750 L2X defence Loss 0.3620 Primary task Training Acc 0.856 Val Acc 0.8191 Best Val Acc 0.830
+	Epoch 522/750 L2X defence Loss 0.3636 Primary task Training Acc 0.854 Val Acc 0.8235 Best Val Acc 0.830
+	Epoch 523/750 L2X defence Loss 0.3636 Primary task Training Acc 0.856 Val Acc 0.8203 Best Val Acc 0.830
+	Epoch 524/750 L2X defence Loss 0.3630 Primary task Training Acc 0.856 Val Acc 0.8244 Best Val Acc 0.830
+	Epoch 525/750 L2X defence Loss 0.3642 Primary task Training Acc 0.857 Val Acc 0.8253 Best Val Acc 0.830
+	Epoch 526/750 L2X defence Loss 0.3652 Primary task Training Acc 0.854 Val Acc 0.8217 Best Val Acc 0.830
+	Epoch 527/750 L2X defence Loss 0.3634 Primary task Training Acc 0.856 Val Acc 0.8215 Best Val Acc 0.830
+	Epoch 528/750 L2X defence Loss 0.3641 Primary task Training Acc 0.854 Val Acc 0.8224 Best Val Acc 0.830
+	Epoch 529/750 L2X defence Loss 0.3636 Primary task Training Acc 0.855 Val Acc 0.8198 Best Val Acc 0.830
+	Epoch 530/750 L2X defence Loss 0.3629 Primary task Training Acc 0.856 Val Acc 0.8228 Best Val Acc 0.830
+	Epoch 531/750 L2X defence Loss 0.3620 Primary task Training Acc 0.858 Val Acc 0.8221 Best Val Acc 0.830
+	Epoch 532/750 L2X defence Loss 0.3640 Primary task Training Acc 0.855 Val Acc 0.8235 Best Val Acc 0.830
+	Epoch 533/750 L2X defence Loss 0.3617 Primary task Training Acc 0.855 Val Acc 0.8226 Best Val Acc 0.830
+	Epoch 534/750 L2X defence Loss 0.3624 Primary task Training Acc 0.856 Val Acc 0.8237 Best Val Acc 0.830
+	Epoch 535/750 L2X defence Loss 0.3630 Primary task Training Acc 0.856 Val Acc 0.8221 Best Val Acc 0.830
+	Epoch 536/750 L2X defence Loss 0.3639 Primary task Training Acc 0.856 Val Acc 0.8240 Best Val Acc 0.830
+	Epoch 537/750 L2X defence Loss 0.3640 Primary task Training Acc 0.855 Val Acc 0.8263 Best Val Acc 0.830
+	Epoch 538/750 L2X defence Loss 0.3622 Primary task Training Acc 0.856 Val Acc 0.8284 Best Val Acc 0.830
+	Epoch 539/750 L2X defence Loss 0.3632 Primary task Training Acc 0.855 Val Acc 0.8219 Best Val Acc 0.830
+	Epoch 540/750 L2X defence Loss 0.3625 Primary task Training Acc 0.856 Val Acc 0.8261 Best Val Acc 0.830
+	Epoch 541/750 L2X defence Loss 0.3623 Primary task Training Acc 0.857 Val Acc 0.8242 Best Val Acc 0.830
+	Epoch 542/750 L2X defence Loss 0.3638 Primary task Training Acc 0.854 Val Acc 0.8235 Best Val Acc 0.830
+	Epoch 543/750 L2X defence Loss 0.3622 Primary task Training Acc 0.857 Val Acc 0.8226 Best Val Acc 0.830
+	Epoch 544/750 L2X defence Loss 0.3631 Primary task Training Acc 0.856 Val Acc 0.8212 Best Val Acc 0.830
+	Epoch 545/750 L2X defence Loss 0.3605 Primary task Training Acc 0.856 Val Acc 0.8198 Best Val Acc 0.830
+	Epoch 546/750 L2X defence Loss 0.3640 Primary task Training Acc 0.855 Val Acc 0.8228 Best Val Acc 0.830
+	Epoch 547/750 L2X defence Loss 0.3620 Primary task Training Acc 0.855 Val Acc 0.8237 Best Val Acc 0.830
+	Epoch 548/750 L2X defence Loss 0.3639 Primary task Training Acc 0.856 Val Acc 0.8240 Best Val Acc 0.830
+	Epoch 549/750 L2X defence Loss 0.3604 Primary task Training Acc 0.857 Val Acc 0.8231 Best Val Acc 0.830
+	Epoch 550/750 L2X defence Loss 0.3631 Primary task Training Acc 0.855 Val Acc 0.8265 Best Val Acc 0.830
+	Epoch 551/750 L2X defence Loss 0.3594 Primary task Training Acc 0.858 Val Acc 0.8222 Best Val Acc 0.830
+	Epoch 552/750 L2X defence Loss 0.3618 Primary task Training Acc 0.856 Val Acc 0.8226 Best Val Acc 0.830
+	Epoch 553/750 L2X defence Loss 0.3614 Primary task Training Acc 0.857 Val Acc 0.8201 Best Val Acc 0.830
+	Epoch 554/750 L2X defence Loss 0.3629 Primary task Training Acc 0.855 Val Acc 0.8217 Best Val Acc 0.830
+	Epoch 555/750 L2X defence Loss 0.3626 Primary task Training Acc 0.856 Val Acc 0.8166 Best Val Acc 0.830
+	Epoch 556/750 L2X defence Loss 0.3639 Primary task Training Acc 0.856 Val Acc 0.8224 Best Val Acc 0.830
+	Epoch 557/750 L2X defence Loss 0.3621 Primary task Training Acc 0.856 Val Acc 0.8235 Best Val Acc 0.830
+	Epoch 558/750 L2X defence Loss 0.3625 Primary task Training Acc 0.856 Val Acc 0.8228 Best Val Acc 0.830
+	Epoch 559/750 L2X defence Loss 0.3592 Primary task Training Acc 0.857 Val Acc 0.8203 Best Val Acc 0.830
+	Epoch 560/750 L2X defence Loss 0.3631 Primary task Training Acc 0.856 Val Acc 0.8223 Best Val Acc 0.830
+	Epoch 561/750 L2X defence Loss 0.3599 Primary task Training Acc 0.858 Val Acc 0.8212 Best Val Acc 0.830
+	Epoch 562/750 L2X defence Loss 0.3607 Primary task Training Acc 0.856 Val Acc 0.8228 Best Val Acc 0.830
+	Epoch 563/750 L2X defence Loss 0.3596 Primary task Training Acc 0.857 Val Acc 0.8219 Best Val Acc 0.830
+	Epoch 564/750 L2X defence Loss 0.3628 Primary task Training Acc 0.856 Val Acc 0.8258 Best Val Acc 0.830
+	Epoch 565/750 L2X defence Loss 0.3616 Primary task Training Acc 0.857 Val Acc 0.8222 Best Val Acc 0.830
+	Epoch 566/750 L2X defence Loss 0.3601 Primary task Training Acc 0.857 Val Acc 0.8231 Best Val Acc 0.830
+	Epoch 567/750 L2X defence Loss 0.3620 Primary task Training Acc 0.856 Val Acc 0.8208 Best Val Acc 0.830
+	Epoch 568/750 L2X defence Loss 0.3610 Primary task Training Acc 0.858 Val Acc 0.8203 Best Val Acc 0.830
+	Epoch 569/750 L2X defence Loss 0.3619 Primary task Training Acc 0.854 Val Acc 0.8231 Best Val Acc 0.830
+	Epoch 570/750 L2X defence Loss 0.3624 Primary task Training Acc 0.856 Val Acc 0.8235 Best Val Acc 0.830
+	Epoch 571/750 L2X defence Loss 0.3622 Primary task Training Acc 0.857 Val Acc 0.8180 Best Val Acc 0.830
+	Epoch 572/750 L2X defence Loss 0.3595 Primary task Training Acc 0.858 Val Acc 0.8242 Best Val Acc 0.830
+	Epoch 573/750 L2X defence Loss 0.3597 Primary task Training Acc 0.856 Val Acc 0.8210 Best Val Acc 0.830
+	Epoch 574/750 L2X defence Loss 0.3594 Primary task Training Acc 0.856 Val Acc 0.8219 Best Val Acc 0.830
+	Epoch 575/750 L2X defence Loss 0.3618 Primary task Training Acc 0.856 Val Acc 0.8221 Best Val Acc 0.830
+	Epoch 576/750 L2X defence Loss 0.3609 Primary task Training Acc 0.856 Val Acc 0.8249 Best Val Acc 0.830
+	Epoch 577/750 L2X defence Loss 0.3594 Primary task Training Acc 0.858 Val Acc 0.8199 Best Val Acc 0.830
+	Epoch 578/750 L2X defence Loss 0.3594 Primary task Training Acc 0.856 Val Acc 0.8215 Best Val Acc 0.830
+	Epoch 579/750 L2X defence Loss 0.3598 Primary task Training Acc 0.857 Val Acc 0.8210 Best Val Acc 0.830
+	Epoch 580/750 L2X defence Loss 0.3608 Primary task Training Acc 0.856 Val Acc 0.8226 Best Val Acc 0.830
+	Epoch 581/750 L2X defence Loss 0.3599 Primary task Training Acc 0.857 Val Acc 0.8242 Best Val Acc 0.830
+	Epoch 582/750 L2X defence Loss 0.3623 Primary task Training Acc 0.854 Val Acc 0.8242 Best Val Acc 0.830
+	Epoch 583/750 L2X defence Loss 0.3605 Primary task Training Acc 0.857 Val Acc 0.8217 Best Val Acc 0.830
+	Epoch 584/750 L2X defence Loss 0.3583 Primary task Training Acc 0.857 Val Acc 0.8253 Best Val Acc 0.830
+	Epoch 585/750 L2X defence Loss 0.3602 Primary task Training Acc 0.857 Val Acc 0.8164 Best Val Acc 0.830
+	Epoch 586/750 L2X defence Loss 0.3599 Primary task Training Acc 0.857 Val Acc 0.8208 Best Val Acc 0.830
+	Epoch 587/750 L2X defence Loss 0.3605 Primary task Training Acc 0.857 Val Acc 0.8201 Best Val Acc 0.830
+	Epoch 588/750 L2X defence Loss 0.3610 Primary task Training Acc 0.858 Val Acc 0.8132 Best Val Acc 0.830
+	Epoch 589/750 L2X defence Loss 0.3577 Primary task Training Acc 0.859 Val Acc 0.8208 Best Val Acc 0.830
+	Epoch 590/750 L2X defence Loss 0.3598 Primary task Training Acc 0.856 Val Acc 0.8196 Best Val Acc 0.830
+	Epoch 591/750 L2X defence Loss 0.3589 Primary task Training Acc 0.858 Val Acc 0.8201 Best Val Acc 0.830
+	Epoch 592/750 L2X defence Loss 0.3588 Primary task Training Acc 0.857 Val Acc 0.8201 Best Val Acc 0.830
+	Epoch 593/750 L2X defence Loss 0.3586 Primary task Training Acc 0.858 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 594/750 L2X defence Loss 0.3582 Primary task Training Acc 0.858 Val Acc 0.8150 Best Val Acc 0.830
+	Epoch 595/750 L2X defence Loss 0.3598 Primary task Training Acc 0.856 Val Acc 0.8201 Best Val Acc 0.830
+	Epoch 596/750 L2X defence Loss 0.3577 Primary task Training Acc 0.859 Val Acc 0.8219 Best Val Acc 0.830
+	Epoch 597/750 L2X defence Loss 0.3591 Primary task Training Acc 0.858 Val Acc 0.8208 Best Val Acc 0.830
+	Epoch 598/750 L2X defence Loss 0.3598 Primary task Training Acc 0.856 Val Acc 0.8212 Best Val Acc 0.830
+	Epoch 599/750 L2X defence Loss 0.3587 Primary task Training Acc 0.857 Val Acc 0.8160 Best Val Acc 0.830
+	Epoch 600/750 L2X defence Loss 0.3585 Primary task Training Acc 0.858 Val Acc 0.8224 Best Val Acc 0.830
+	Epoch 601/750 L2X defence Loss 0.3595 Primary task Training Acc 0.856 Val Acc 0.8189 Best Val Acc 0.830
+	Epoch 602/750 L2X defence Loss 0.3578 Primary task Training Acc 0.859 Val Acc 0.8219 Best Val Acc 0.830
+	Epoch 603/750 L2X defence Loss 0.3597 Primary task Training Acc 0.858 Val Acc 0.8185 Best Val Acc 0.830
+	Epoch 604/750 L2X defence Loss 0.3572 Primary task Training Acc 0.860 Val Acc 0.8203 Best Val Acc 0.830
+	Epoch 605/750 L2X defence Loss 0.3594 Primary task Training Acc 0.857 Val Acc 0.8258 Best Val Acc 0.830
+	Epoch 606/750 L2X defence Loss 0.3577 Primary task Training Acc 0.858 Val Acc 0.8182 Best Val Acc 0.830
+	Epoch 607/750 L2X defence Loss 0.3588 Primary task Training Acc 0.857 Val Acc 0.8221 Best Val Acc 0.830
+	Epoch 608/750 L2X defence Loss 0.3590 Primary task Training Acc 0.858 Val Acc 0.8210 Best Val Acc 0.830
+	Epoch 609/750 L2X defence Loss 0.3588 Primary task Training Acc 0.857 Val Acc 0.8166 Best Val Acc 0.830
+	Epoch 610/750 L2X defence Loss 0.3601 Primary task Training Acc 0.857 Val Acc 0.8201 Best Val Acc 0.830
+	Epoch 611/750 L2X defence Loss 0.3582 Primary task Training Acc 0.857 Val Acc 0.8203 Best Val Acc 0.830
+	Epoch 612/750 L2X defence Loss 0.3564 Primary task Training Acc 0.859 Val Acc 0.8201 Best Val Acc 0.830
+	Epoch 613/750 L2X defence Loss 0.3593 Primary task Training Acc 0.857 Val Acc 0.8197 Best Val Acc 0.830
+	Epoch 614/750 L2X defence Loss 0.3568 Primary task Training Acc 0.858 Val Acc 0.8210 Best Val Acc 0.830
+	Epoch 615/750 L2X defence Loss 0.3581 Primary task Training Acc 0.860 Val Acc 0.8231 Best Val Acc 0.830
+	Epoch 616/750 L2X defence Loss 0.3575 Primary task Training Acc 0.860 Val Acc 0.8239 Best Val Acc 0.830
+	Epoch 617/750 L2X defence Loss 0.3575 Primary task Training Acc 0.859 Val Acc 0.8189 Best Val Acc 0.830
+	Epoch 618/750 L2X defence Loss 0.3591 Primary task Training Acc 0.857 Val Acc 0.8240 Best Val Acc 0.830
+	Epoch 619/750 L2X defence Loss 0.3598 Primary task Training Acc 0.858 Val Acc 0.8230 Best Val Acc 0.830
+	Epoch 620/750 L2X defence Loss 0.3589 Primary task Training Acc 0.856 Val Acc 0.8212 Best Val Acc 0.830
+	Epoch 621/750 L2X defence Loss 0.3595 Primary task Training Acc 0.856 Val Acc 0.8231 Best Val Acc 0.830
+	Epoch 622/750 L2X defence Loss 0.3573 Primary task Training Acc 0.859 Val Acc 0.8180 Best Val Acc 0.830
+	Epoch 623/750 L2X defence Loss 0.3587 Primary task Training Acc 0.858 Val Acc 0.8198 Best Val Acc 0.830
+	Epoch 624/750 L2X defence Loss 0.3571 Primary task Training Acc 0.857 Val Acc 0.8176 Best Val Acc 0.830
+	Epoch 625/750 L2X defence Loss 0.3564 Primary task Training Acc 0.858 Val Acc 0.8201 Best Val Acc 0.830
+	Epoch 626/750 L2X defence Loss 0.3570 Primary task Training Acc 0.858 Val Acc 0.8212 Best Val Acc 0.830
+	Epoch 627/750 L2X defence Loss 0.3551 Primary task Training Acc 0.859 Val Acc 0.8212 Best Val Acc 0.830
+	Epoch 628/750 L2X defence Loss 0.3573 Primary task Training Acc 0.858 Val Acc 0.8205 Best Val Acc 0.830
+	Epoch 629/750 L2X defence Loss 0.3580 Primary task Training Acc 0.857 Val Acc 0.8212 Best Val Acc 0.830
+	Epoch 630/750 L2X defence Loss 0.3570 Primary task Training Acc 0.859 Val Acc 0.8217 Best Val Acc 0.830
+	Epoch 631/750 L2X defence Loss 0.3575 Primary task Training Acc 0.858 Val Acc 0.8199 Best Val Acc 0.830
+	Epoch 632/750 L2X defence Loss 0.3565 Primary task Training Acc 0.857 Val Acc 0.8189 Best Val Acc 0.830
+	Epoch 633/750 L2X defence Loss 0.3569 Primary task Training Acc 0.858 Val Acc 0.8153 Best Val Acc 0.830
+	Epoch 634/750 L2X defence Loss 0.3561 Primary task Training Acc 0.858 Val Acc 0.8176 Best Val Acc 0.830
+	Epoch 635/750 L2X defence Loss 0.3561 Primary task Training Acc 0.858 Val Acc 0.8199 Best Val Acc 0.830
+	Epoch 636/750 L2X defence Loss 0.3567 Primary task Training Acc 0.858 Val Acc 0.8130 Best Val Acc 0.830
+	Epoch 637/750 L2X defence Loss 0.3576 Primary task Training Acc 0.859 Val Acc 0.8208 Best Val Acc 0.830
+	Epoch 638/750 L2X defence Loss 0.3556 Primary task Training Acc 0.860 Val Acc 0.8203 Best Val Acc 0.830
+	Epoch 639/750 L2X defence Loss 0.3544 Primary task Training Acc 0.861 Val Acc 0.8187 Best Val Acc 0.830
+	Epoch 640/750 L2X defence Loss 0.3557 Primary task Training Acc 0.859 Val Acc 0.8194 Best Val Acc 0.830
+	Epoch 641/750 L2X defence Loss 0.3569 Primary task Training Acc 0.858 Val Acc 0.8164 Best Val Acc 0.830
+	Epoch 642/750 L2X defence Loss 0.3555 Primary task Training Acc 0.859 Val Acc 0.8164 Best Val Acc 0.830
+	Epoch 643/750 L2X defence Loss 0.3560 Primary task Training Acc 0.860 Val Acc 0.8201 Best Val Acc 0.830
+	Epoch 644/750 L2X defence Loss 0.3554 Primary task Training Acc 0.860 Val Acc 0.8173 Best Val Acc 0.830
+	Epoch 645/750 L2X defence Loss 0.3588 Primary task Training Acc 0.857 Val Acc 0.8199 Best Val Acc 0.830
+	Epoch 646/750 L2X defence Loss 0.3541 Primary task Training Acc 0.858 Val Acc 0.8169 Best Val Acc 0.830
+	Epoch 647/750 L2X defence Loss 0.3582 Primary task Training Acc 0.858 Val Acc 0.8185 Best Val Acc 0.830
+	Epoch 648/750 L2X defence Loss 0.3561 Primary task Training Acc 0.860 Val Acc 0.8164 Best Val Acc 0.830
+	Epoch 649/750 L2X defence Loss 0.3573 Primary task Training Acc 0.858 Val Acc 0.8185 Best Val Acc 0.830
+	Epoch 650/750 L2X defence Loss 0.3558 Primary task Training Acc 0.859 Val Acc 0.8182 Best Val Acc 0.830
+	Epoch 651/750 L2X defence Loss 0.3549 Primary task Training Acc 0.859 Val Acc 0.8178 Best Val Acc 0.830
+	Epoch 652/750 L2X defence Loss 0.3539 Primary task Training Acc 0.859 Val Acc 0.8240 Best Val Acc 0.830
+	Epoch 653/750 L2X defence Loss 0.3548 Primary task Training Acc 0.860 Val Acc 0.8198 Best Val Acc 0.830
+	Epoch 654/750 L2X defence Loss 0.3547 Primary task Training Acc 0.859 Val Acc 0.8181 Best Val Acc 0.830
+	Epoch 655/750 L2X defence Loss 0.3543 Primary task Training Acc 0.860 Val Acc 0.8242 Best Val Acc 0.830
+	Epoch 656/750 L2X defence Loss 0.3564 Primary task Training Acc 0.859 Val Acc 0.8160 Best Val Acc 0.830
+	Epoch 657/750 L2X defence Loss 0.3560 Primary task Training Acc 0.859 Val Acc 0.8183 Best Val Acc 0.830
+	Epoch 658/750 L2X defence Loss 0.3542 Primary task Training Acc 0.858 Val Acc 0.8187 Best Val Acc 0.830
+	Epoch 659/750 L2X defence Loss 0.3557 Primary task Training Acc 0.859 Val Acc 0.8139 Best Val Acc 0.830
+	Epoch 660/750 L2X defence Loss 0.3550 Primary task Training Acc 0.859 Val Acc 0.8233 Best Val Acc 0.830
+	Epoch 661/750 L2X defence Loss 0.3538 Primary task Training Acc 0.860 Val Acc 0.8180 Best Val Acc 0.830
+	Epoch 662/750 L2X defence Loss 0.3532 Primary task Training Acc 0.860 Val Acc 0.8184 Best Val Acc 0.830
+	Epoch 663/750 L2X defence Loss 0.3580 Primary task Training Acc 0.857 Val Acc 0.8185 Best Val Acc 0.830
+	Epoch 664/750 L2X defence Loss 0.3540 Primary task Training Acc 0.859 Val Acc 0.8173 Best Val Acc 0.830
+	Epoch 665/750 L2X defence Loss 0.3556 Primary task Training Acc 0.860 Val Acc 0.8178 Best Val Acc 0.830
+	Epoch 666/750 L2X defence Loss 0.3530 Primary task Training Acc 0.862 Val Acc 0.8192 Best Val Acc 0.830
+	Epoch 667/750 L2X defence Loss 0.3537 Primary task Training Acc 0.860 Val Acc 0.8231 Best Val Acc 0.830
+	Epoch 668/750 L2X defence Loss 0.3539 Primary task Training Acc 0.859 Val Acc 0.8166 Best Val Acc 0.830
+	Epoch 669/750 L2X defence Loss 0.3548 Primary task Training Acc 0.859 Val Acc 0.8139 Best Val Acc 0.830
+	Epoch 670/750 L2X defence Loss 0.3539 Primary task Training Acc 0.860 Val Acc 0.8141 Best Val Acc 0.830
+	Epoch 671/750 L2X defence Loss 0.3538 Primary task Training Acc 0.861 Val Acc 0.8134 Best Val Acc 0.830
+	Epoch 672/750 L2X defence Loss 0.3557 Primary task Training Acc 0.860 Val Acc 0.8171 Best Val Acc 0.830
+	Epoch 673/750 L2X defence Loss 0.3564 Primary task Training Acc 0.860 Val Acc 0.8182 Best Val Acc 0.830
+	Epoch 674/750 L2X defence Loss 0.3553 Primary task Training Acc 0.860 Val Acc 0.8205 Best Val Acc 0.830
+	Epoch 675/750 L2X defence Loss 0.3527 Primary task Training Acc 0.859 Val Acc 0.8187 Best Val Acc 0.830
+	Epoch 676/750 L2X defence Loss 0.3530 Primary task Training Acc 0.861 Val Acc 0.8182 Best Val Acc 0.830
+	Epoch 677/750 L2X defence Loss 0.3544 Primary task Training Acc 0.858 Val Acc 0.8180 Best Val Acc 0.830
+	Epoch 678/750 L2X defence Loss 0.3549 Primary task Training Acc 0.861 Val Acc 0.8139 Best Val Acc 0.830
+	Epoch 679/750 L2X defence Loss 0.3527 Primary task Training Acc 0.860 Val Acc 0.8171 Best Val Acc 0.830
+	Epoch 680/750 L2X defence Loss 0.3540 Primary task Training Acc 0.860 Val Acc 0.8153 Best Val Acc 0.830
+	Epoch 681/750 L2X defence Loss 0.3538 Primary task Training Acc 0.860 Val Acc 0.8173 Best Val Acc 0.830
+	Epoch 682/750 L2X defence Loss 0.3533 Primary task Training Acc 0.860 Val Acc 0.8201 Best Val Acc 0.830
+	Epoch 683/750 L2X defence Loss 0.3534 Primary task Training Acc 0.859 Val Acc 0.8171 Best Val Acc 0.830
+	Epoch 684/750 L2X defence Loss 0.3532 Primary task Training Acc 0.860 Val Acc 0.8164 Best Val Acc 0.830
+	Epoch 685/750 L2X defence Loss 0.3509 Primary task Training Acc 0.861 Val Acc 0.8185 Best Val Acc 0.830
+	Epoch 686/750 L2X defence Loss 0.3540 Primary task Training Acc 0.859 Val Acc 0.8173 Best Val Acc 0.830
+	Epoch 687/750 L2X defence Loss 0.3518 Primary task Training Acc 0.861 Val Acc 0.8164 Best Val Acc 0.830
+	Epoch 688/750 L2X defence Loss 0.3524 Primary task Training Acc 0.861 Val Acc 0.8123 Best Val Acc 0.830
+	Epoch 689/750 L2X defence Loss 0.3540 Primary task Training Acc 0.861 Val Acc 0.8137 Best Val Acc 0.830
+	Epoch 690/750 L2X defence Loss 0.3539 Primary task Training Acc 0.859 Val Acc 0.8167 Best Val Acc 0.830
+	Epoch 691/750 L2X defence Loss 0.3527 Primary task Training Acc 0.860 Val Acc 0.8180 Best Val Acc 0.830
+	Epoch 692/750 L2X defence Loss 0.3517 Primary task Training Acc 0.861 Val Acc 0.8123 Best Val Acc 0.830
+	Epoch 693/750 L2X defence Loss 0.3535 Primary task Training Acc 0.859 Val Acc 0.8228 Best Val Acc 0.830
+	Epoch 694/750 L2X defence Loss 0.3533 Primary task Training Acc 0.859 Val Acc 0.8219 Best Val Acc 0.830
+	Epoch 695/750 L2X defence Loss 0.3526 Primary task Training Acc 0.860 Val Acc 0.8125 Best Val Acc 0.830
+	Epoch 696/750 L2X defence Loss 0.3529 Primary task Training Acc 0.860 Val Acc 0.8196 Best Val Acc 0.830
+	Epoch 697/750 L2X defence Loss 0.3522 Primary task Training Acc 0.861 Val Acc 0.8178 Best Val Acc 0.830
+	Epoch 698/750 L2X defence Loss 0.3528 Primary task Training Acc 0.859 Val Acc 0.8187 Best Val Acc 0.830
+	Epoch 699/750 L2X defence Loss 0.3514 Primary task Training Acc 0.861 Val Acc 0.8203 Best Val Acc 0.830
+	Epoch 700/750 L2X defence Loss 0.3537 Primary task Training Acc 0.861 Val Acc 0.8235 Best Val Acc 0.830
+	Epoch 701/750 L2X defence Loss 0.3519 Primary task Training Acc 0.860 Val Acc 0.8169 Best Val Acc 0.830
+	Epoch 702/750 L2X defence Loss 0.3519 Primary task Training Acc 0.863 Val Acc 0.8150 Best Val Acc 0.830
+	Epoch 703/750 L2X defence Loss 0.3521 Primary task Training Acc 0.861 Val Acc 0.8158 Best Val Acc 0.830
+	Epoch 704/750 L2X defence Loss 0.3512 Primary task Training Acc 0.861 Val Acc 0.8158 Best Val Acc 0.830
+	Epoch 705/750 L2X defence Loss 0.3513 Primary task Training Acc 0.861 Val Acc 0.8173 Best Val Acc 0.830
+	Epoch 706/750 L2X defence Loss 0.3532 Primary task Training Acc 0.860 Val Acc 0.8111 Best Val Acc 0.830
+	Epoch 707/750 L2X defence Loss 0.3519 Primary task Training Acc 0.862 Val Acc 0.8201 Best Val Acc 0.830
+	Epoch 708/750 L2X defence Loss 0.3531 Primary task Training Acc 0.861 Val Acc 0.8164 Best Val Acc 0.830
+	Epoch 709/750 L2X defence Loss 0.3526 Primary task Training Acc 0.861 Val Acc 0.8123 Best Val Acc 0.830
+	Epoch 710/750 L2X defence Loss 0.3514 Primary task Training Acc 0.861 Val Acc 0.8155 Best Val Acc 0.830
+	Epoch 711/750 L2X defence Loss 0.3527 Primary task Training Acc 0.860 Val Acc 0.8123 Best Val Acc 0.830
+	Epoch 712/750 L2X defence Loss 0.3525 Primary task Training Acc 0.861 Val Acc 0.8100 Best Val Acc 0.830
+	Epoch 713/750 L2X defence Loss 0.3524 Primary task Training Acc 0.861 Val Acc 0.8153 Best Val Acc 0.830
+	Epoch 714/750 L2X defence Loss 0.3507 Primary task Training Acc 0.861 Val Acc 0.8173 Best Val Acc 0.830
+	Epoch 715/750 L2X defence Loss 0.3509 Primary task Training Acc 0.861 Val Acc 0.8176 Best Val Acc 0.830
+	Epoch 716/750 L2X defence Loss 0.3523 Primary task Training Acc 0.861 Val Acc 0.8223 Best Val Acc 0.830
+	Epoch 717/750 L2X defence Loss 0.3524 Primary task Training Acc 0.859 Val Acc 0.8210 Best Val Acc 0.830
+	Epoch 718/750 L2X defence Loss 0.3535 Primary task Training Acc 0.861 Val Acc 0.8130 Best Val Acc 0.830
+	Epoch 719/750 L2X defence Loss 0.3510 Primary task Training Acc 0.861 Val Acc 0.8180 Best Val Acc 0.830
+	Epoch 720/750 L2X defence Loss 0.3508 Primary task Training Acc 0.861 Val Acc 0.8173 Best Val Acc 0.830
+	Epoch 721/750 L2X defence Loss 0.3499 Primary task Training Acc 0.863 Val Acc 0.8212 Best Val Acc 0.830
+	Epoch 722/750 L2X defence Loss 0.3495 Primary task Training Acc 0.862 Val Acc 0.8205 Best Val Acc 0.830
+	Epoch 723/750 L2X defence Loss 0.3506 Primary task Training Acc 0.861 Val Acc 0.8256 Best Val Acc 0.830
+	Epoch 724/750 L2X defence Loss 0.3499 Primary task Training Acc 0.862 Val Acc 0.8141 Best Val Acc 0.830
+	Epoch 725/750 L2X defence Loss 0.3529 Primary task Training Acc 0.862 Val Acc 0.8201 Best Val Acc 0.830
+	Epoch 726/750 L2X defence Loss 0.3498 Primary task Training Acc 0.862 Val Acc 0.8175 Best Val Acc 0.830
+	Epoch 727/750 L2X defence Loss 0.3513 Primary task Training Acc 0.861 Val Acc 0.8152 Best Val Acc 0.830
+	Epoch 728/750 L2X defence Loss 0.3504 Primary task Training Acc 0.861 Val Acc 0.8174 Best Val Acc 0.830
+	Epoch 729/750 L2X defence Loss 0.3514 Primary task Training Acc 0.862 Val Acc 0.8160 Best Val Acc 0.830
+	Epoch 730/750 L2X defence Loss 0.3504 Primary task Training Acc 0.861 Val Acc 0.8134 Best Val Acc 0.830
+	Epoch 731/750 L2X defence Loss 0.3481 Primary task Training Acc 0.862 Val Acc 0.8164 Best Val Acc 0.830
+	Epoch 732/750 L2X defence Loss 0.3532 Primary task Training Acc 0.861 Val Acc 0.8139 Best Val Acc 0.830
+	Epoch 733/750 L2X defence Loss 0.3499 Primary task Training Acc 0.862 Val Acc 0.8116 Best Val Acc 0.830
+	Epoch 734/750 L2X defence Loss 0.3524 Primary task Training Acc 0.859 Val Acc 0.8150 Best Val Acc 0.830
+	Epoch 735/750 L2X defence Loss 0.3497 Primary task Training Acc 0.862 Val Acc 0.8139 Best Val Acc 0.830
+	Epoch 736/750 L2X defence Loss 0.3495 Primary task Training Acc 0.863 Val Acc 0.8162 Best Val Acc 0.830
+	Epoch 737/750 L2X defence Loss 0.3510 Primary task Training Acc 0.862 Val Acc 0.8171 Best Val Acc 0.830
+	Epoch 738/750 L2X defence Loss 0.3503 Primary task Training Acc 0.862 Val Acc 0.8132 Best Val Acc 0.830
+	Epoch 739/750 L2X defence Loss 0.3519 Primary task Training Acc 0.862 Val Acc 0.8205 Best Val Acc 0.830
+	Epoch 740/750 L2X defence Loss 0.3490 Primary task Training Acc 0.862 Val Acc 0.8093 Best Val Acc 0.830
+	Epoch 741/750 L2X defence Loss 0.3491 Primary task Training Acc 0.863 Val Acc 0.8159 Best Val Acc 0.830
+	Epoch 742/750 L2X defence Loss 0.3506 Primary task Training Acc 0.862 Val Acc 0.8157 Best Val Acc 0.830
+	Epoch 743/750 L2X defence Loss 0.3479 Primary task Training Acc 0.862 Val Acc 0.8173 Best Val Acc 0.830
+	Epoch 744/750 L2X defence Loss 0.3477 Primary task Training Acc 0.863 Val Acc 0.8081 Best Val Acc 0.830
+	Epoch 745/750 L2X defence Loss 0.3500 Primary task Training Acc 0.863 Val Acc 0.8102 Best Val Acc 0.830
+	Epoch 746/750 L2X defence Loss 0.3490 Primary task Training Acc 0.863 Val Acc 0.8173 Best Val Acc 0.830
+	Epoch 747/750 L2X defence Loss 0.3513 Primary task Training Acc 0.861 Val Acc 0.8164 Best Val Acc 0.830
+	Epoch 748/750 L2X defence Loss 0.3492 Primary task Training Acc 0.862 Val Acc 0.8198 Best Val Acc 0.830
+	Epoch 749/750 L2X defence Loss 0.3490 Primary task Training Acc 0.862 Val Acc 0.8116 Best Val Acc 0.830
+Weights/SERE/ Weights/CL/
+Writing vectors...
+Accuracy 0.843
+row_len=1,tao=0.6,gamma1=0.1,gamma2=0.1
+
+
+
+Train database size 23706 Test database size 3951
+	Epoch 100/1000 Loss 0.3780 Multitask defence train Acc on primary task 0.8486 test Acc on primary task 0.8261
+	Epoch 200/1000 Loss 0.3780 Multitask defence train Acc on primary task 0.8487 test Acc on primary task 0.8259
+	Epoch 300/1000 Loss 0.3779 Multitask defence train Acc on primary task 0.8487 test Acc on primary task 0.8259
+	Epoch 400/1000 Loss 0.3779 Multitask defence train Acc on primary task 0.8486 test Acc on primary task 0.8261
+	Epoch 500/1000 Loss 0.3779 Multitask defence train Acc on primary task 0.8487 test Acc on primary task 0.8261
+	Epoch 600/1000 Loss 0.3779 Multitask defence train Acc on primary task 0.8486 test Acc on primary task 0.8264
+	Epoch 700/1000 Loss 0.3778 Multitask defence train Acc on primary task 0.8484 test Acc on primary task 0.8264
+	Epoch 800/1000 Loss 0.3778 Multitask defence train Acc on primary task 0.8486 test Acc on primary task 0.8259
+	Epoch 900/1000 Loss 0.3778 Multitask defence train Acc on primary task 0.8486 test Acc on primary task 0.8256
+Writing vectors...
+
+
+
+Train database size 23706 Test database size 3951
+	Epoch 100/1000 Loss 0.3794 primary task p train Acc 0.8484 test Acc 0.8274
+	Epoch 200/1000 Loss 0.3782 primary task p train Acc 0.8486 test Acc 0.8366
+	Epoch 300/1000 Loss 0.3781 primary task p train Acc 0.8484 test Acc 0.8386
+	Epoch 400/1000 Loss 0.3781 primary task p train Acc 0.8487 test Acc 0.8366
+	Epoch 500/1000 Loss 0.3781 primary task p train Acc 0.8487 test Acc 0.8446
+	Epoch 600/1000 Loss 0.3781 primary task p train Acc 0.8487 test Acc 0.8526
+	Epoch 700/1000 Loss 0.3781 primary task p train Acc 0.8487 test Acc 0.8584
+	Epoch 800/1000 Loss 0.3781 primary task p train Acc 0.8486 test Acc 0.8654
+	Epoch 900/1000 Loss 0.3781 primary task p train Acc 0.8487 test Acc 0.8711
+L2X-MT: primary task evaluation (A_P)
+Accuracy 0.8711
+
+
+
+
+
+
+Train database size 23706 Test database size 3951
+	Epoch 100/1000 Loss 0.6625 Adversarial task S1 train Acc 0.6233 test Acc 0.6274
+	Epoch 200/1000 Loss 0.6623 Adversarial task S1 train Acc 0.6233 test Acc 0.6374
+	Epoch 300/1000 Loss 0.6621 Adversarial task S1 train Acc 0.6233 test Acc 0.6337
+	Epoch 400/1000 Loss 0.6620 Adversarial task S1 train Acc 0.6233 test Acc 0.6384
+	Epoch 500/1000 Loss 0.6618 Adversarial task S1 train Acc 0.6233 test Acc 0.6429
+	Epoch 600/1000 Loss 0.6617 Adversarial task S1 train Acc 0.6233 test Acc 0.6444
+	Epoch 700/1000 Loss 0.6616 Adversarial task S1 train Acc 0.6233 test Acc 0.6493
+	Epoch 800/1000 Loss 0.6616 Adversarial task S1 train Acc 0.6233 test Acc 0.6564
+	Epoch 900/1000 Loss 0.6615 Adversarial task S1 train Acc 0.6233 test Acc 0.6532
+L2X-MT: Adverserial task S1 evaluation (A_S1)
+Accuracy 0.6564
+
+
+
+
+
+
+Train database size 23706 Test database size 3951
+	Epoch 100/1000 Loss 0.6618 Adversarial task S2 train Acc 0.6227 test Acc 0.6364
+	Epoch 200/1000 Loss 0.6613 Adversarial task S2 train Acc 0.6227 test Acc 0.6364
+	Epoch 300/1000 Loss 0.6607 Adversarial task S2 train Acc 0.6227 test Acc 0.6364
+	Epoch 400/1000 Loss 0.6602 Adversarial task S2 train Acc 0.6225 test Acc 0.6377
+	Epoch 500/1000 Loss 0.6598 Adversarial task S2 train Acc 0.6221 test Acc 0.6474
+	Epoch 600/1000 Loss 0.6594 Adversarial task S2 train Acc 0.6220 test Acc 0.6474
+	Epoch 700/1000 Loss 0.6590 Adversarial task S2 train Acc 0.6219 test Acc 0.6464
+	Epoch 800/1000 Loss 0.6587 Adversarial task S2 train Acc 0.6217 test Acc 0.6464
+	Epoch 900/1000 Loss 0.6584 Adversarial task S2 train Acc 0.6220 test Acc 0.6465
+L2X-MT: Adverserial task S2 evaluation (A_S2)
+Accuracy 0.6465
+
+
+

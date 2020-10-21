@@ -1,0 +1,3 @@
+sh reproduce_reported_results_TrPilot.sh
+sh reproduce_reported_results_M-MNIST.sh
+sh reproduce_reported_results_HAM10K.sh
