@@ -1,6 +1,8 @@
 #echo "Generating encoded MNIST data"
 #python3 mnist-intermediate-layer-op.py
 
+gunzip data/mnist_slant_frac_vecs.txt
+
 cp data/mnist_slant_frac_vecs.txt data/vecs.txt
 cp data/mnist_slant_frac_p.txt data/p.txt
 cp data/mnist_slant_frac_s1.txt data/s1.txt
