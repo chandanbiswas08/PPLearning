@@ -1,3 +1,6 @@
+gunzip TrustpilotData_us_review.doc.vec.gz
+gunzip TrustpilotData_TrimedByTfIDF_tao_0.2.vec.gz
+
 cp data/TrustpilotData_us_review.doc.vec data/vecs.txt
 cp data/TrustpilotData_us_sent data/p.txt
 cp data/TrustpilotData_us_age data/s1.txt
